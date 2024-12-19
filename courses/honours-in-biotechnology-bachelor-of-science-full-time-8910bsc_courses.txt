@@ -1,0 +1,122 @@
+Courses for Program: https://www.bcit.ca/programs/honours-in-biotechnology-bachelor-of-science-full-time-8910bsc/
+--------------------------------------------------
+Course Number: BIOT 0071
+Course Link: None
+Course Name: Lab Safety
+--------------------------------------------------
+Course Number: BIOT 3201
+Course Link: None
+Course Name: Microbiology 1
+--------------------------------------------------
+Course Number: BIOT 3210
+Course Link: None
+Course Name: Introduction to Biotechnology
+--------------------------------------------------
+Course Number: BIOT 3230
+Course Link: None
+Course Name: Introduction to Health Product Regulation
+--------------------------------------------------
+Course Number: BIOT 3260
+Course Link: None
+Course Name: Principles of Animal Physiology
+--------------------------------------------------
+Course Number: CHEM 3338
+Course Link: None
+Course Name: Organic Chemistry 1 for Biotechnology
+--------------------------------------------------
+Course Number: COMM 3343
+Course Link: None
+Course Name: Communications for Biotechnology
+--------------------------------------------------
+Course Number: MATH 2444
+Course Link: None
+Course Name: Basic Statistics and Information Technology for Biotechnology
+--------------------------------------------------
+Course Number: BIOT 4201
+Course Link: None
+Course Name: Microbiology 2
+--------------------------------------------------
+Course Number: BIOT 4230
+Course Link: None
+Course Name: Animal Cell Biotechnology
+--------------------------------------------------
+Course Number: BIOT 4260
+Course Link: None
+Course Name: Plant Anatomy and Physiology
+--------------------------------------------------
+Course Number: CHEM 4438
+Course Link: None
+Course Name: Organic Chemistry 2 for Biotechnology
+--------------------------------------------------
+Course Number: COMM 4443
+Course Link: None
+Course Name: Communications Workshop
+--------------------------------------------------
+Course Number: MATH 4442
+Course Link: None
+Course Name: Inferential Statistics and Research Methodology for Biotechnology
+--------------------------------------------------
+Course Number: BIOT 5220
+Course Link: None
+Course Name: Molecular Genetics 1
+--------------------------------------------------
+Course Number: BIOT 5230
+Course Link: None
+Course Name: Advanced Plant Cell Biotechnology
+--------------------------------------------------
+Course Number: BIOT 5240
+Course Link: None
+Course Name: Biochemistry 1
+--------------------------------------------------
+Course Number: BIOT 5250
+Course Link: None
+Course Name: Introduction to Pharmaceutical Development
+--------------------------------------------------
+Course Number: BIOT 5361
+Course Link: None
+Course Name: Process Systems
+--------------------------------------------------
+Course Number: CHEM 5509
+Course Link: None
+Course Name: Analytical Chemistry 1
+--------------------------------------------------
+Course Number: LIBS 7019
+Course Link: None
+Course Name: Critical Reading and Writing for Science
+--------------------------------------------------
+Course Number: BIOT 6201
+Course Link: None
+Course Name: Microbiology 3
+--------------------------------------------------
+Course Number: BIOT 6220
+Course Link: None
+Course Name: Molecular Genetics 2
+--------------------------------------------------
+Course Number: BIOT 6240
+Course Link: None
+Course Name: Biochemistry 2
+--------------------------------------------------
+Course Number: BIOT 6270
+Course Link: None
+Course Name: Management and Regulatory Affairs
+--------------------------------------------------
+Course Number: BUSA 7250
+Course Link: None
+Course Name: Management Skills and Applications
+--------------------------------------------------
+Course Number: CHEM 6609
+Course Link: None
+Course Name: Analytical Chemistry 2
+--------------------------------------------------
+Course Number: LIBS 7020
+Course Link: None
+Course Name: Bioethics
+--------------------------------------------------
+Course Number: BIOT 4990
+Course Link: None
+Course Name: Co-op 1
+--------------------------------------------------
+Course Number: BIOT 6990
+Course Link: None
+Course Name: Co-op 2
+--------------------------------------------------

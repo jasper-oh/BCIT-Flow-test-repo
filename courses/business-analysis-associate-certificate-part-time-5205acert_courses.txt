@@ -1,0 +1,50 @@
+Courses for Program: https://www.bcit.ca/programs/business-analysis-associate-certificate-part-time-5205acert/
+--------------------------------------------------
+Course Number: OPMT 1500
+Course Link: /courses/business-analysis-fundamentals-opmt-1500/
+Course Name: Business Analysis Fundamentals
+--------------------------------------------------
+Course Number: OPMT 2520
+Course Link: /courses/needs-assessment-and-planning-opmt-2520/
+Course Name: Needs Assessment and Planning
+--------------------------------------------------
+Course Number: OPMT 2530
+Course Link: /courses/stakeholder-engagement-and-requirements-definition-opmt-2530/
+Course Name: Stakeholder Engagement and Requirements Definition
+--------------------------------------------------
+Course Number: OPMT 2540
+Course Link: /courses/requirements-lifecycle-management-opmt-2540/
+Course Name: Requirements Lifecycle Management
+--------------------------------------------------
+Course Number: OPMT 2550
+Course Link: /courses/requirements-analysis-and-solution-evaluation-opmt-2550/
+Course Name: Requirements Analysis and Solution Evaluation
+--------------------------------------------------
+Course Number: ASCM 1000
+Course Link: /courses/basics-of-supply-chain-management-ascm-1000/
+Course Name: Basics of Supply Chain Management
+--------------------------------------------------
+Course Number: BUSA 3105
+Course Link: /courses/leadership-1-people-skills-busa-3105/
+Course Name: Leadership 1 - People Skills
+--------------------------------------------------
+Course Number: OPMT 1173
+Course Link: /courses/agile-project-management-opmt-1173/
+Course Name: Agile Project Management
+--------------------------------------------------
+Course Number: OPMT 1187
+Course Link: /courses/project-management-essentials-opmt-1187/
+Course Name: Project Management Essentials
+--------------------------------------------------
+Course Number: OPMT 1198
+Course Link: /courses/operations-management-fundamentals-opmt-1198/
+Course Name: Operations Management Fundamentals
+--------------------------------------------------
+Course Number: OPMT 2298
+Course Link: /courses/business-process-improvement-opmt-2298/
+Course Name: Business Process Improvement
+--------------------------------------------------
+Course Number: OPMT 2510
+Course Link: /courses/project-quality-and-risk-management-opmt-2510/
+Course Name: Project Quality and Risk Management
+--------------------------------------------------

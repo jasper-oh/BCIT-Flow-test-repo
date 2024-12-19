@@ -1,0 +1,162 @@
+Courses for Program: https://www.bcit.ca/programs/forensic-investigation-forensic-science-option-bachelor-of-technology-part-time-847bbtech/
+--------------------------------------------------
+Course Number: COMM 7200
+Course Link: /courses/report-writing-and-workplace-communication-for-forensic-investigation-comm-7200/
+Course Name: Report Writing and Workplace Communication for Forensic Investigation
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: /courses/critical-reading-and-writing-libs-7001/
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: LIBS 7002
+Course Link: /courses/applied-ethics-libs-7002/
+Course Name: Applied Ethics
+--------------------------------------------------
+Course Number: FSCT 7110
+Course Link: /courses/case-management-for-major-crime-investigation-fsct-7110/
+Course Name: Case Management for Major Crime Investigation
+--------------------------------------------------
+Course Number: FSCT 7120
+Course Link: /courses/project-management-for-investigations-fsct-7120/
+Course Name: Project Management for Investigations
+--------------------------------------------------
+Course Number: FSCT 8371
+Course Link: /courses/business-management-for-forensic-science-fsct-8371/
+Course Name: Business Management for Forensic Science
+--------------------------------------------------
+Course Number: FSCT 7001
+Course Link: /courses/forensic-applications-of-criminal-law-1-legal-procedures-fsct-7001/
+Course Name: Forensic Applications of Criminal Law 1: Legal Procedures
+--------------------------------------------------
+Course Number: FSCT 7002
+Course Link: /courses/criminal-law-2-legal-evidence-fsct-7002/
+Course Name: Criminal Law 2: Legal Evidence
+--------------------------------------------------
+Course Number: FSCT 7005
+Course Link: /courses/introducing-forensic-evidence-at-trial-fsct-7005/
+Course Name: Introducing Forensic Evidence at Trial
+--------------------------------------------------
+Course Number: FSCT 7310
+Course Link: /courses/crime-scene-investigation-fsct-7310/
+Course Name: Crime Scene Investigation
+--------------------------------------------------
+Course Number: FSCT 7320
+Course Link: /courses/introduction-to-forensic-science-fsct-7320/
+Course Name: Introduction to Forensic Science
+--------------------------------------------------
+Course Number: FSCT 7215
+Course Link: /courses/introduction-to-investigation-techniques-fsct-7215/
+Course Name: Introduction to Investigation Techniques
+--------------------------------------------------
+Course Number: FSCT 7309
+Course Link: /courses/incident-scene-investigation-fsct-7309/
+Course Name: Incident Scene Investigation
+--------------------------------------------------
+Course Number: FSCT 8150
+Course Link: /courses/forensic-biology-dna-typing-theory-fsct-8150/
+Course Name: Forensic Biology: DNA Typing Theory
+--------------------------------------------------
+Course Number: FSCT 8155
+Course Link: /courses/forensic-biology-evidence-recovery-fsct-8155/
+Course Name: Forensic Biology: Evidence Recovery
+--------------------------------------------------
+Course Number: FSCT 8240
+Course Link: /courses/forensic-toxicology-fsct-8240/
+Course Name: Forensic Toxicology
+--------------------------------------------------
+Course Number: FSCT 8250
+Course Link: /courses/drug-analysis-fsct-8250/
+Course Name: Drug Analysis
+--------------------------------------------------
+Course Number: FSCT 8370
+Course Link: /courses/quality-assurance-for-forensic-science-fsct-8370/
+Course Name: Quality Assurance for Forensic Science
+--------------------------------------------------
+Course Number: FSCT 8110
+Course Link: /courses/human-remains-recovery-fsct-8110/
+Course Name: Human Remains Recovery
+--------------------------------------------------
+Course Number: FSCT 8140
+Course Link: /courses/forensic-entomology-fsct-8140/
+Course Name: Forensic Entomology
+--------------------------------------------------
+Course Number: FSCT 8156
+Course Link: /courses/instrumental-analysis-for-forensic-chemistry-fsct-8156/
+Course Name: Instrumental Analysis for Forensic Chemistry
+--------------------------------------------------
+Course Number: FSCT 8160
+Course Link: /courses/forensic-biology-dna-typing-applications-fsct-8160/
+Course Name: Forensic Biology: DNA Typing Applications
+--------------------------------------------------
+Course Number: FSCT 8230
+Course Link: /courses/the-medicolegal-aspects-of-alcohol-fsct-8230/
+Course Name: The Medicolegal Aspects of Alcohol
+--------------------------------------------------
+Course Number: FSCT 8320
+Course Link: /courses/the-science-of-fingerprints-theory-fsct-8320/
+Course Name: The Science of Fingerprints - Theory
+--------------------------------------------------
+Course Number: FSCT 8330
+Course Link: /courses/principles-and-methods-of-firearms-and-toolmark-examination-fsct-8330/
+Course Name: Principles and Methods of Firearms and Toolmark Examination
+--------------------------------------------------
+Course Number: FSCT 7007
+Course Link: /courses/civil-legislation-regulatory-bodies-and-privacy-fsct-7007/
+Course Name: Civil Legislation, Regulatory Bodies, and Privacy
+--------------------------------------------------
+Course Number: FSCT 7231
+Course Link: /courses/forensic-interviewing-for-investigators-fsct-7231/
+Course Name: Forensic Interviewing for Investigators
+--------------------------------------------------
+Course Number: FSCT 8215
+Course Link: /courses/advanced-investigation-techniques-fsct-8215/
+Course Name: Advanced Investigation Techniques
+--------------------------------------------------
+Course Number: FSCT 8340
+Course Link: /courses/forensic-photography-fsct-8340/
+Course Name: Forensic Photography
+--------------------------------------------------
+Course Number: FSCT 8520
+Course Link: /courses/social-media-and-open-source-investigative-techniques-fsct-8520/
+Course Name: Social Media and Open-Source Investigative Techniques
+--------------------------------------------------
+Course Number: FSCT 8102
+Course Link: /courses/introduction-to-death-investigation-fsct-8102/
+Course Name: Introduction to Death Investigation
+--------------------------------------------------
+Course Number: FSCT 8110
+Course Link: /courses/human-remains-recovery-fsct-8110/
+Course Name: Human Remains Recovery
+--------------------------------------------------
+Course Number: FSCT 8140
+Course Link: /courses/forensic-entomology-fsct-8140/
+Course Name: Forensic Entomology
+--------------------------------------------------
+Course Number: FSCT 8200
+Course Link: /courses/covert-surveillance-techniques-fsct-8200/
+Course Name: Covert Surveillance Techniques
+--------------------------------------------------
+Course Number: FSCT 8320
+Course Link: /courses/the-science-of-fingerprints-theory-fsct-8320/
+Course Name: The Science of Fingerprints - Theory
+--------------------------------------------------
+Course Number: FSCT 8350
+Course Link: /courses/forensic-video-technologies-fsct-8350/
+Course Name: Forensic Video Technologies
+--------------------------------------------------
+Course Number: FSCT 8351
+Course Link: /courses/cctv-and-forensic-examination-fsct-8351/
+Course Name: CCTV and Forensic Examination
+--------------------------------------------------
+Course Number: FSCT 7910
+Course Link: /courses/research-methodology-and-measurement-models-fsct-7910/
+Course Name: Research Methodology and Measurement Models
+--------------------------------------------------
+Course Number: FSCT 8611
+Course Link: /courses/graduation-project-1-fsct-8611/
+Course Name: Graduation Project 1
+--------------------------------------------------
+Course Number: FSCT 8622
+Course Link: /courses/graduation-project-2-fsct-8622/
+Course Name: Graduation Project 2
+--------------------------------------------------

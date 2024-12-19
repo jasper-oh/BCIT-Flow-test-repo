@@ -1,0 +1,94 @@
+Courses for Program: https://www.bcit.ca/programs/heating-ventilation-air-conditioning-and-refrigeration-technician-certificate-full-time-2958cert/
+--------------------------------------------------
+Course Number: HVAC 1095
+Course Link: None
+Course Name: Apply Effective Learning Techniques
+--------------------------------------------------
+Course Number: HVAC 1100
+Course Link: None
+Course Name: Apply Trade Safety Practices
+--------------------------------------------------
+Course Number: HVAC 1102
+Course Link: None
+Course Name: Process Technical Information
+--------------------------------------------------
+Course Number: HVAC 1103
+Course Link: None
+Course Name: Apply Trade Tools and Fasteners
+--------------------------------------------------
+Course Number: HVAC 1111
+Course Link: None
+Course Name: Install Refrigeration Project
+--------------------------------------------------
+Course Number: HVAC 1114
+Course Link: None
+Course Name: Apply Fundamentals of Refrigeration
+--------------------------------------------------
+Course Number: HVAC 1115
+Course Link: None
+Course Name: Proper Service Procedures
+--------------------------------------------------
+Course Number: HVAC 1116
+Course Link: None
+Course Name: Apply Electrical Fundamentals
+--------------------------------------------------
+Course Number: HVAC 1117
+Course Link: None
+Course Name: Interpret Electrical Diagrams
+--------------------------------------------------
+Course Number: HVAC 1118
+Course Link: None
+Course Name: Apply Electrical Test Equipment
+--------------------------------------------------
+Course Number: HVAC 1119
+Course Link: None
+Course Name: Install Electrical/Mechanical Devices
+--------------------------------------------------
+Course Number: HVAC 2110
+Course Link: None
+Course Name: Design Refrigeration Systems
+--------------------------------------------------
+Course Number: HVAC 2111
+Course Link: None
+Course Name: Ammonia Systems/Water Treatment
+--------------------------------------------------
+Course Number: HVAC 2112
+Course Link: None
+Course Name: Describe Basic HVAC Systems
+--------------------------------------------------
+Course Number: HVAC 2113
+Course Link: None
+Course Name: Air Distribution Arrangement for HVAC
+--------------------------------------------------
+Course Number: HVAC 2114
+Course Link: None
+Course Name: Air Properties and Measurements
+--------------------------------------------------
+Course Number: HVAC 2115
+Course Link: None
+Course Name: Explain HVAC Control Loops
+--------------------------------------------------
+Course Number: HVAC 2116
+Course Link: None
+Course Name: Maintain Heat Pump Systems
+--------------------------------------------------
+Course Number: HVAC 3100
+Course Link: None
+Course Name: Communicate HVAC Heat/Cool Load Calculations
+--------------------------------------------------
+Course Number: HVAC 3102
+Course Link: None
+Course Name: Design HVAC Distribution Systems
+--------------------------------------------------
+Course Number: HVAC 3103
+Course Link: None
+Course Name: Maintain Computer Environmental Systems
+--------------------------------------------------
+Course Number: HVAC 3104
+Course Link: None
+Course Name: Explain Heat Recovery/Energy Management
+--------------------------------------------------
+Course Number: HVAC 3112
+Course Link: None
+Course Name: Prepare for Employment
+--------------------------------------------------

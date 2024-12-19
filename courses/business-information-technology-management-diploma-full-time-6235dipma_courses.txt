@@ -1,0 +1,58 @@
+Courses for Program: https://www.bcit.ca/programs/business-information-technology-management-diploma-full-time-6235dipma/
+--------------------------------------------------
+Course Number: BSYS 1000
+Course Link: None
+Course Name: Business Information Systems
+--------------------------------------------------
+Course Number: COMM 1100
+Course Link: None
+Course Name: Business Communication 1
+--------------------------------------------------
+Course Number: ECON 2100
+Course Link: None
+Course Name: Microeconomics
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: None
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: OPMT 1103
+Course Link: None
+Course Name: Introduction to Operations Management
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: None
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: BSYS 2000
+Course Link: None
+Course Name: Applied Data Analytics in Excel
+--------------------------------------------------
+Course Number: BSYS 2065
+Course Link: None
+Course Name: Business Systems Programming*
+--------------------------------------------------
+Course Number: BUSA 2150
+Course Link: None
+Course Name: Introduction to Organizational Development
+--------------------------------------------------
+Course Number: COMM 2200
+Course Link: None
+Course Name: Business Communication 2
+--------------------------------------------------
+Course Number: ECON 2200
+Course Link: None
+Course Name: Macroeconomics
+--------------------------------------------------
+Course Number: FMGT 2152
+Course Link: None
+Course Name: Accounting for Management
+--------------------------------------------------
+Course Number: OPMT 1130
+Course Link: None
+Course Name: Business Statistics
+--------------------------------------------------
+Course Number: OPMT 1174
+Course Link: None
+Course Name: Project Management*
+--------------------------------------------------

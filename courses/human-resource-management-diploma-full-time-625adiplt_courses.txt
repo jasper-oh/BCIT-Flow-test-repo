@@ -1,0 +1,134 @@
+Courses for Program: https://www.bcit.ca/programs/human-resource-management-diploma-full-time-625adiplt/
+--------------------------------------------------
+Course Number: BSYS 1000
+Course Link: None
+Course Name: Business Information Systems
+--------------------------------------------------
+Course Number: BUSA 2150
+Course Link: None
+Course Name: Introduction to Organizational Development
+--------------------------------------------------
+Course Number: COMM 1100
+Course Link: None
+Course Name: Business Communication 1
+--------------------------------------------------
+Course Number: ECON 2200
+Course Link: None
+Course Name: Macroeconomics
+--------------------------------------------------
+Course Number: OPMT 1100
+Course Link: None
+Course Name: Introduction to Operations Management
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: None
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: BSYS 2000
+Course Link: None
+Course Name: Applied Data Analytics in Excel
+--------------------------------------------------
+Course Number: COMM 2200
+Course Link: None
+Course Name: Business Communication 2
+--------------------------------------------------
+Course Number: ECON 2100
+Course Link: None
+Course Name: Microeconomics
+--------------------------------------------------
+Course Number: FMGT 2152
+Course Link: None
+Course Name: Accounting for Management
+--------------------------------------------------
+Course Number: HRMG 2150
+Course Link: None
+Course Name: Introduction to Human Resource Management*
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: None
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: OPMT 1120
+Course Link: None
+Course Name: Statistics for Business
+--------------------------------------------------
+Course Number: OPMT 1170
+Course Link: None
+Course Name: Project Management
+--------------------------------------------------
+Course Number: BLAW 3800
+Course Link: None
+Course Name: Human Resource Management Law
+--------------------------------------------------
+Course Number: FMGT 3560
+Course Link: None
+Course Name: Finance 1 - Administration
+--------------------------------------------------
+Course Number: HRMG 3130
+Course Link: None
+Course Name: Competency Design and Analysis
+--------------------------------------------------
+Course Number: HRMG 3150
+Course Link: None
+Course Name: Human Resource Management Systems
+--------------------------------------------------
+Course Number: HRMG 3200
+Course Link: None
+Course Name: Introduction to Labour Relations
+--------------------------------------------------
+Course Number: HRMG 3500
+Course Link: None
+Course Name: Training and Development
+--------------------------------------------------
+Course Number: HRMG 4200
+Course Link: None
+Course Name: Employment Relationships and Conflict Management
+--------------------------------------------------
+Course Number: HRMG 4600
+Course Link: None
+Course Name: Human Resource Planning
+--------------------------------------------------
+Course Number: BUSA 3515
+Course Link: None
+Course Name: Management Science
+--------------------------------------------------
+Course Number: BUSA 4800
+Course Link: None
+Course Name: Management Policy
+--------------------------------------------------
+Course Number: FMGT 4565
+Course Link: None
+Course Name: Finance 2 Administration*
+--------------------------------------------------
+Course Number: HRMG 3170
+Course Link: None
+Course Name: Human Resource Dynamics Workshop*
+--------------------------------------------------
+Course Number: HRMG 3300
+Course Link: None
+Course Name: Recruitment and Selection*
+--------------------------------------------------
+Course Number: HRMG 3400
+Course Link: None
+Course Name: Benefits Administration*
+--------------------------------------------------
+Course Number: HRMG 4020
+Course Link: None
+Course Name: People Analytics*
+--------------------------------------------------
+Course Number: HRMG 4150
+Course Link: None
+Course Name: Performance Management Systems*
+--------------------------------------------------
+Course Number: HRMG 4400
+Course Link: None
+Course Name: Compensation Management*
+--------------------------------------------------
+Course Number: HRMG 4900
+Course Link: None
+Course Name: Business Consulting Projects*
+--------------------------------------------------
+Course Number: OCHS 1433
+Course Link: None
+Course Name: Introduction to Safety for Human Resources*
+--------------------------------------------------

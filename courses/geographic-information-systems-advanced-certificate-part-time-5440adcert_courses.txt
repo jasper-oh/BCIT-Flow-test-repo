@@ -1,0 +1,30 @@
+Courses for Program: https://www.bcit.ca/programs/geographic-information-systems-advanced-certificate-part-time-5440adcert/
+--------------------------------------------------
+Course Number: GIST 7100
+Course Link: /courses/fundamentals-of-gis-gist-7100/
+Course Name: Fundamentals of GIS
+--------------------------------------------------
+Course Number: GIST 7128
+Course Link: /courses/arcgis-1-introduction-gist-7128/
+Course Name: ArcGIS 1: Introduction
+--------------------------------------------------
+Course Number: GIST 7160
+Course Link: /courses/gis-databases-and-big-data-gist-7160/
+Course Name: GIS Databases & Big Data
+--------------------------------------------------
+Course Number: GIST 8118
+Course Link: /courses/gis-remote-sensing-gist-8118/
+Course Name: GIS Remote Sensing
+--------------------------------------------------
+Course Number: GIST 8128
+Course Link: /courses/arcgis-2-data-management-and-analysis-gist-8128/
+Course Name: ArcGIS 2: Data Management and Analysis
+--------------------------------------------------
+Course Number: GIST 8140
+Course Link: /courses/mapping-and-cartography-gist-8140/
+Course Name: Mapping & Cartography
+--------------------------------------------------
+Course Number: GIST 8150
+Course Link: /courses/capstone-project-gist-8150/
+Course Name: Capstone Project
+--------------------------------------------------

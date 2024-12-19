@@ -1,0 +1,42 @@
+Courses for Program: https://www.bcit.ca/programs/advanced-net-development-associate-certificate-part-time-6810acert/
+--------------------------------------------------
+Course Number: COMP 3602
+Course Link: /courses/application-development-with-c-comp-3602/
+Course Name: Application Development with C#*
+--------------------------------------------------
+Course Number: COMP 3833
+Course Link: /courses/object-oriented-analysis-and-design-comp-3833/
+Course Name: Object Oriented Analysis and Design
+--------------------------------------------------
+Course Number: COMP 4602
+Course Link: /courses/advanced-net-web-application-development-comp-4602/
+Course Name: Advanced .NET Web Application Development
+--------------------------------------------------
+Course Number: COMP 1288
+Course Link: /courses/it-project-management-fundamentals-comp-1288/
+Course Name: IT Project Management Fundamentals
+--------------------------------------------------
+Course Number: COMP 2833
+Course Link: /courses/agile-scrum-methods-comp-2833/
+Course Name: Agile Scrum Methods
+--------------------------------------------------
+Course Number: COMP 2909
+Course Link: /courses/front-end-web-development-with-angular-and-vue-js-comp-2909/
+Course Name: Front-End Web Development with Angular and Vue.js
+--------------------------------------------------
+Course Number: COMP 3012
+Course Link: /courses/back-end-web-development-with-node-js-comp-3012/
+Course Name: Back-End Web Development with Node.js**
+--------------------------------------------------
+Course Number: COMP 3013
+Course Link: /courses/front-end-web-development-with-react-js-comp-3013/
+Course Name: Front-End Web Development with React.js**
+--------------------------------------------------
+Course Number: COMP 3215
+Course Link: /courses/aws-academy-cloud-architecting-comp-3215/
+Course Name: AWS Academy Cloud Architecting
+--------------------------------------------------
+Course Number: COMP 4016
+Course Link: /courses/applied-devops-with-kubernetes-comp-4016/
+Course Name: Applied DevOps with Kubernetes
+--------------------------------------------------

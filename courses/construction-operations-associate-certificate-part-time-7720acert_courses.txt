@@ -1,0 +1,50 @@
+Courses for Program: https://www.bcit.ca/programs/construction-operations-associate-certificate-part-time-7720acert/
+--------------------------------------------------
+Course Number: BLDG 1830
+Course Link: /courses/bc-building-code-part-3-introduction-bldg-1830/
+Course Name: BC Building Code: Part 3 Introduction
+--------------------------------------------------
+Course Number: BLDT 1011
+Course Link: /courses/applied-construction-math-bldt-1011/
+Course Name: Applied Construction Math
+--------------------------------------------------
+Course Number: BLDT 1021
+Course Link: /courses/construction-drawings-bldt-1021/
+Course Name: Construction Drawings
+--------------------------------------------------
+Course Number: BLDT 1031
+Course Link: /courses/site-processes-in-construction-bldt-1031/
+Course Name: Site Processes in Construction
+--------------------------------------------------
+Course Number: BLDT 1041
+Course Link: /courses/basic-estimating-with-computer-applications-bldt-1041/
+Course Name: Basic Estimating with Computer Applications
+--------------------------------------------------
+Course Number: BLDT 1051
+Course Link: /courses/technical-writing-and-communications-bldt-1051/
+Course Name: Technical Writing and Communications
+--------------------------------------------------
+Course Number: BLDT 1061
+Course Link: /courses/basic-management-and-ethics-bldt-1061/
+Course Name: Basic Management and Ethics
+--------------------------------------------------
+Course Number: BLDT 1081
+Course Link: /courses/introduction-to-green-building-construction-practices-bldt-1081/
+Course Name: Introduction to Green Building Construction Practices
+--------------------------------------------------
+Course Number: BLDT 1091
+Course Link: /courses/organizational-behaviour-in-construction-industry-bldt-1091/
+Course Name: Organizational Behaviour in Construction Industry
+--------------------------------------------------
+Course Number: GROW 1000
+Course Link: /courses/green-roofs-details-installation-and-maintenance-grow-1000/
+Course Name: Green Roofs - Details, Installation and Maintenance
+--------------------------------------------------
+Course Number: SURV 1104
+Course Link: /courses/basic-surveying-with-total-stations-surv-1104/
+Course Name: Basic Surveying with Total Stations
+--------------------------------------------------
+Course Number: SURV 5108
+Course Link: /courses/fundamentals-of-surveying-surv-5108/
+Course Name: Fundamentals of Surveying
+--------------------------------------------------

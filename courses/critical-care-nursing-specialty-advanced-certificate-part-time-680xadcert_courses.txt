@@ -1,0 +1,30 @@
+Courses for Program: https://www.bcit.ca/programs/critical-care-nursing-specialty-advanced-certificate-part-time-680xadcert/
+--------------------------------------------------
+Course Number: NSCC 7120
+Course Link: /courses/critical-care-nursing-theory-1-nscc-7120/
+Course Name: Critical Care Nursing Theory 1
+--------------------------------------------------
+Course Number: NSCC 7150
+Course Link: /courses/dysrhythmia-interpretation-and-management-nscc-7150/
+Course Name: Dysrhythmia Interpretation and Management
+--------------------------------------------------
+Course Number: NSCC 7220
+Course Link: /courses/critical-care-nursing-theory-2-nscc-7220/
+Course Name: Critical Care Nursing Theory 2
+--------------------------------------------------
+Course Number: NSCC 7320
+Course Link: /courses/critical-care-nursing-theory-3-nscc-7320/
+Course Name: Critical Care Nursing Theory 3
+--------------------------------------------------
+Course Number: NSCC 7420
+Course Link: /courses/critical-care-nursing-clinical-1-nscc-7420/
+Course Name: Critical Care Nursing Clinical 1
+--------------------------------------------------
+Course Number: NSCC 7520
+Course Link: /courses/critical-care-nursing-theory-4-nscc-7520/
+Course Name: Critical Care Nursing Theory 4
+--------------------------------------------------
+Course Number: NSCC 7620
+Course Link: /courses/critical-care-nursing-clinical-2-nscc-7620/
+Course Name: Critical Care Nursing Clinical 2
+--------------------------------------------------

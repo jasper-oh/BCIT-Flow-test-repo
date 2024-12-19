@@ -1,0 +1,46 @@
+Courses for Program: https://www.bcit.ca/programs/applied-computing-master-of-science-full-time-m600msc/
+--------------------------------------------------
+Course Number: COMP 9060
+Course Link: None
+Course Name: Applied Algorithm Analysis
+--------------------------------------------------
+Course Number: COMP 9170
+Course Link: None
+Course Name: Data Science*
+--------------------------------------------------
+Course Number: COMP 9200
+Course Link: None
+Course Name: Applied Research Methods
+--------------------------------------------------
+Course Number: COMP 9040
+Course Link: None
+Course Name: Human-centered Computing
+--------------------------------------------------
+Course Number: COMP 9080
+Course Link: None
+Course Name: Research Proposal
+--------------------------------------------------
+Course Number: COMP 9130
+Course Link: None
+Course Name: Applied Artificial Intelligence*
+--------------------------------------------------
+Course Number: COMP 9150
+Course Link: None
+Course Name: Cyber Security for Applied Computing*
+--------------------------------------------------
+Course Number: COMP 9600
+Course Link: None
+Course Name: M.Sc. Thesis
+--------------------------------------------------
+Course Number: COMP 9290
+Course Link: None
+Course Name: Special Topics in Applied Computing
+--------------------------------------------------
+Course Number: COMP 9400
+Course Link: None
+Course Name: Industry Internship
+--------------------------------------------------
+Course Number: COMP 9500
+Course Link: None
+Course Name: M.Sc. Research Project
+--------------------------------------------------

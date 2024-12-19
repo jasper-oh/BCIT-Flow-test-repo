@@ -1,0 +1,114 @@
+Courses for Program: https://www.bcit.ca/programs/video-production-and-editing-associate-certificate-part-time-6120acert/
+--------------------------------------------------
+Course Number: BCST 1180
+Course Link: /courses/introduction-to-video-editing-bcst-1180/
+Course Name: Introduction to Video Editing
+--------------------------------------------------
+Course Number: BCST 1225
+Course Link: /courses/video-project-planning-bcst-1225/
+Course Name: Video Project Planning
+--------------------------------------------------
+Course Number: BCST 1256
+Course Link: /courses/sound-design-bcst-1256/
+Course Name: Sound Design
+--------------------------------------------------
+Course Number: BCST 1260
+Course Link: /courses/professional-video-camera-operations-bcst-1260/
+Course Name: Professional Video Camera Operations
+--------------------------------------------------
+Course Number: BCST 2282
+Course Link: /courses/advanced-video-editing-bcst-2282/
+Course Name: Advanced Video Editing
+--------------------------------------------------
+Course Number: BCST 2290
+Course Link: /courses/assistant-editing-professional-bcst-2290/
+Course Name: Assistant Editing Professional
+--------------------------------------------------
+Course Number: BCST 1129
+Course Link: /courses/home-music-recording-bcst-1129/
+Course Name: Home Music Recording
+--------------------------------------------------
+Course Number: BCST 1160
+Course Link: /courses/television-broadcasting-and-video-introduction-bcst-1160/
+Course Name: Television Broadcasting and Video Introduction
+--------------------------------------------------
+Course Number: BCST 1190
+Course Link: /courses/backpack-video-journalism-bcst-1190/
+Course Name: Backpack Video Journalism
+--------------------------------------------------
+Course Number: BCST 1193
+Course Link: /courses/social-media-storytelling-bcst-1193/
+Course Name: Social Media Storytelling
+--------------------------------------------------
+Course Number: BCST 1198
+Course Link: /courses/photography-and-lightroom-building-your-photographic-vision-bcst-1198/
+Course Name: Photography & Lightroom: Building Your Photographic Vision
+--------------------------------------------------
+Course Number: BCST 1201
+Course Link: /courses/journeys-from-script-to-screen-bcst-1201/
+Course Name: Journeys from Script to Screen
+--------------------------------------------------
+Course Number: BCST 1239
+Course Link: /courses/electronic-music-production-music-creation-techniques-with-ableton-live-bcst-1239/
+Course Name: Electronic Music Production: Music Creation Techniques with Ableton Live
+--------------------------------------------------
+Course Number: BCST 1281
+Course Link: /courses/freelance-producing-for-social-media-and-broadcast-bcst-1281/
+Course Name: Freelance Producing for Social Media and Broadcast
+--------------------------------------------------
+Course Number: BCST 1510
+Course Link: /courses/environmental-and-climate-news-and-analysis-bcst-1510/
+Course Name: Environmental and Climate News and Analysis
+--------------------------------------------------
+Course Number: BCST 1710
+Course Link: /courses/intro-to-story-editing-for-factual-unscripted-television-bcst-1710/
+Course Name: Intro to Story Editing for Factual / Unscripted Television
+--------------------------------------------------
+Course Number: BCST 1725
+Course Link: /courses/producing-reality-tv-creating-and-planning-a-reality-tv-series-bcst-1725/
+Course Name: Producing Reality TV: Creating & Planning a Reality TV Series
+--------------------------------------------------
+Course Number: BCST 2198
+Course Link: /courses/photography-master-your-framing-bcst-2198/
+Course Name: Photography: Master Your Framing
+--------------------------------------------------
+Course Number: BCST 3005
+Course Link: /courses/video-production-and-editing-final-project-bcst-3005/
+Course Name: Video Production and Editing Final Project
+--------------------------------------------------
+Course Number: BCST 3073
+Course Link: /courses/building-your-digital-media-presence-bcst-3073/
+Course Name: Building Your Digital Media Presence
+--------------------------------------------------
+Course Number: BCST 3121
+Course Link: /courses/discover-your-inner-storyteller-bcst-3121/
+Course Name: Discover Your Inner Storyteller
+--------------------------------------------------
+Course Number: BCST 3251
+Course Link: /courses/performance-development-presenting-your-best-self-bcst-3251/
+Course Name: Performance Development:  Presenting Your Best Self
+--------------------------------------------------
+Course Number: BCST 4109
+Course Link: /courses/navigating-the-media-landscape-and-crafting-your-pitch-bcst-4109/
+Course Name: Navigating the Media Landscape and Crafting Your Pitch
+--------------------------------------------------
+Course Number: BCST 5010
+Course Link: /courses/visual-communication-and-culture-bcst-5010/
+Course Name: Visual Communication and Culture
+--------------------------------------------------
+Course Number: BCST 5035
+Course Link: /courses/global-storyteller-bcst-5035/
+Course Name: Global Storyteller
+--------------------------------------------------
+Course Number: BUSA 4500
+Course Link: /courses/international-business-practices-busa-4500/
+Course Name: International Business Practices
+--------------------------------------------------
+Course Number: GDES 1275
+Course Link: /courses/raster-graphics-adobe-photoshop-gdes-1275/
+Course Name: Raster Graphics: Adobe Photoshop
+--------------------------------------------------
+Course Number: MDIA 1280
+Course Link: /courses/adobe-after-effects-mdia-1280/
+Course Name: Adobe After Effects
+--------------------------------------------------

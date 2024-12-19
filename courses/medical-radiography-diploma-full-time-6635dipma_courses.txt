@@ -1,0 +1,122 @@
+Courses for Program: https://www.bcit.ca/programs/medical-radiography-diploma-full-time-6635dipma/
+--------------------------------------------------
+Course Number: BHSC 1245
+Course Link: None
+Course Name: Human Behaviour
+--------------------------------------------------
+Course Number: HSIP 1000
+Course Link: None
+Course Name: Health Sciences Interprofessional Patient Care
+--------------------------------------------------
+Course Number: MRAD 1216
+Course Link: None
+Course Name: Applied Radiographic Procedures 1
+--------------------------------------------------
+Course Number: MRAD 1219
+Course Link: None
+Course Name: Radiographic Image Analysis
+--------------------------------------------------
+Course Number: MRAD 1302
+Course Link: None
+Course Name: Imaging Sciences 1
+--------------------------------------------------
+Course Number: MRAD 1307
+Course Link: None
+Course Name: Clinical Orientation and Safety
+--------------------------------------------------
+Course Number: MRAD 1310
+Course Link: None
+Course Name: Advanced Patient Interactions in Imaging
+--------------------------------------------------
+Course Number: MRAD 1410
+Course Link: None
+Course Name: Radiographic Procedures 1
+--------------------------------------------------
+Course Number: MRAD 2235
+Course Link: None
+Course Name: Imaging Anatomy & Physiology 1
+--------------------------------------------------
+Course Number: MRAD 2218
+Course Link: None
+Course Name: Pathology 1
+--------------------------------------------------
+Course Number: MRAD 2219
+Course Link: None
+Course Name: Applied Radiographic Image Analysis 1
+--------------------------------------------------
+Course Number: MRAD 2330
+Course Link: None
+Course Name: Clinical Education 1
+--------------------------------------------------
+Course Number: MRAD 2410
+Course Link: None
+Course Name: Radiographic Procedures 2
+--------------------------------------------------
+Course Number: COMM 4273
+Course Link: None
+Course Name: Communications for Medical Radiography
+--------------------------------------------------
+Course Number: MRAD 2302
+Course Link: None
+Course Name: Imaging Technology 2
+--------------------------------------------------
+Course Number: MRAD 3211
+Course Link: None
+Course Name: Integrated Imaging Practice
+--------------------------------------------------
+Course Number: MRAD 3218
+Course Link: None
+Course Name: Pathology 2
+--------------------------------------------------
+Course Number: MRAD 3235
+Course Link: None
+Course Name: Imaging Anatomy and Physiology 2
+--------------------------------------------------
+Course Number: MRAD 3410
+Course Link: None
+Course Name: Radiographic Procedures 3
+--------------------------------------------------
+Course Number: MRAD 3510
+Course Link: None
+Course Name: Computed Tomography 1
+--------------------------------------------------
+Course Number: MRAD 3330
+Course Link: None
+Course Name: Clinical Education 2
+--------------------------------------------------
+Course Number: MRAD 4218
+Course Link: None
+Course Name: Pathology 3
+--------------------------------------------------
+Course Number: MRAD 4510
+Course Link: None
+Course Name: Computed Tomography 2
+--------------------------------------------------
+Course Number: MRAD 2500
+Course Link: None
+Course Name: Research
+--------------------------------------------------
+Course Number: MRAD 3219
+Course Link: None
+Course Name: Applied Medical Radiography Image Analysis 2
+--------------------------------------------------
+Course Number: MRAD 4205
+Course Link: None
+Course Name: Ethics and Professional Practice
+--------------------------------------------------
+Course Number: MRAD 4330
+Course Link: None
+Course Name: Clinical Education 3
+--------------------------------------------------
+Course Number: MRAD 4410
+Course Link: None
+Course Name: Radiographic Procedures 4
+--------------------------------------------------
+Course Number: MRAD 4103
+Course Link: None
+Course Name: Certification Exam Preparation
+--------------------------------------------------
+Course Number: MRAD 5330
+Course Link: None
+Course Name: Clinical Education 4
+--------------------------------------------------

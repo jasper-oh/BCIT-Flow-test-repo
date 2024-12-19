@@ -1,0 +1,58 @@
+Courses for Program: https://www.bcit.ca/programs/smart-grid-systems-and-technologies-master-of-engineering-full-time-part-time-m500meng/
+--------------------------------------------------
+Course Number: SGST 9010
+Course Link: /courses/applied-research-methods-policies-and-ethics-sgst-9010/
+Course Name: Applied Research Methods, Policies, and Ethics
+--------------------------------------------------
+Course Number: SGST 9110
+Course Link: /courses/introduction-to-smart-electricity-grids-sgst-9110/
+Course Name: Introduction to Smart Electricity Grids
+--------------------------------------------------
+Course Number: SGST 9120
+Course Link: /courses/modern-electric-utility-systems-management-sgst-9120/
+Course Name: Modern Electric Utility Systems Management
+--------------------------------------------------
+Course Number: SGST 9130
+Course Link: /courses/smart-cities-and-sustainable-transportation-sgst-9130/
+Course Name: Smart Cities and Sustainable Transportation
+--------------------------------------------------
+Course Number: SGST 9210
+Course Link: /courses/advanced-power-systems-analysis-sgst-9210/
+Course Name: Advanced Power Systems Analysis
+--------------------------------------------------
+Course Number: SGST 9220
+Course Link: /courses/information-and-communication-technology-in-electric-utilities-sgst-9220/
+Course Name: Information & Communication Technology in Electric Utilities
+--------------------------------------------------
+Course Number: SGST 9230
+Course Link: /courses/power-system-protection-and-control-sgst-9230/
+Course Name: Power System Protection & Control
+--------------------------------------------------
+Course Number: SGST 9020
+Course Link: /courses/applied-research-proposal-development-sgst-9020/
+Course Name: Applied Research Proposal Development
+--------------------------------------------------
+Course Number: SGST 9310
+Course Link: /courses/microgrid-design-operation-and-control-sgst-9310/
+Course Name: Microgrid Design, Operation & Control
+--------------------------------------------------
+Course Number: SGST 9320
+Course Link: /courses/renewable-and-distributed-energy-systems-sgst-9320/
+Course Name: Renewable & Distributed Energy Systems
+--------------------------------------------------
+Course Number: SGST 9330
+Course Link: /courses/data-acquisition-and-analytics-in-electric-utilities-sgst-9330/
+Course Name: Data Acquisition and Analytics in Electric Utilities
+--------------------------------------------------
+Course Number: SGST 9340
+Course Link: /courses/energy-storage-and-power-electronics-sgst-9340/
+Course Name: Energy Storage & Power Electronics
+--------------------------------------------------
+Course Number: SGST 9410
+Course Link: /courses/capstone-project-sgst-9410/
+Course Name: Capstone Project
+--------------------------------------------------
+Course Number: SGST 9430
+Course Link: /courses/directed-studies-in-smart-grid-elective-course-sgst-9430/
+Course Name: Directed Studies in Smart Grid (Elective Course)
+--------------------------------------------------

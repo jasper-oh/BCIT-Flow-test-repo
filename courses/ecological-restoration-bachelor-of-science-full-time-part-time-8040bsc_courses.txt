@@ -1,0 +1,90 @@
+Courses for Program: https://www.bcit.ca/programs/ecological-restoration-bachelor-of-science-full-time-part-time-8040bsc/
+--------------------------------------------------
+Course Number: RENR 7000
+Course Link: /courses/foundations-of-chemistry-renr-7000/
+Course Name: Foundations of Chemistry
+--------------------------------------------------
+Course Number: RENR 7004
+Course Link: /courses/fish-and-wildlife-ecology-and-management-renr-7004/
+Course Name: Fish & Wildlife Ecology & Management
+--------------------------------------------------
+Course Number: RENR 7006
+Course Link: /courses/field-skills-for-ecological-restoration-renr-7006/
+Course Name: Field Skills for Ecological Restoration
+--------------------------------------------------
+Course Number: RENR 7007
+Course Link: /courses/planning-for-ecological-restoration-renr-7007/
+Course Name: Planning for Ecological Restoration
+--------------------------------------------------
+Course Number: RENR 7008
+Course Link: /courses/indigenous-perspectives-in-natural-resources-management-renr-7008/
+Course Name: Indigenous Perspectives in Natural Resources Management
+--------------------------------------------------
+Course Number: RENR 7010
+Course Link: /courses/geospatial-application-in-natural-resource-management-renr-7010/
+Course Name: Geospatial Application in Natural Resource Management
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: /courses/critical-reading-and-writing-libs-7001/
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: MATH 7100
+Course Link: /courses/biostatistics-for-natural-resource-managers-math-7100/
+Course Name: Biostatistics for Natural Resource Managers
+--------------------------------------------------
+Course Number: RENR 7001
+Course Link: /courses/foundations-of-biology-renr-7001/
+Course Name: Foundations of Biology
+--------------------------------------------------
+Course Number: RENR 7200
+Course Link: /courses/climate-and-climate-change-impact-renr-7200/
+Course Name: Climate and Climate Change Impact
+--------------------------------------------------
+Course Number: RENR 8201
+Course Link: /courses/terrain-and-stream-channel-assessment-for-ecological-restoration-renr-8201/
+Course Name: Terrain and Stream Channel Assessment for Ecological Restoration
+--------------------------------------------------
+Course Number: LIBS 7017
+Course Link: /courses/environmental-ethics-libs-7017/
+Course Name: Environmental Ethics
+--------------------------------------------------
+Course Number: RENR 8101
+Course Link: /courses/terrestrial-ecosystem-restoration-renr-8101/
+Course Name: Terrestrial Ecosystem Restoration
+--------------------------------------------------
+Course Number: RENR 8300
+Course Link: /courses/applied-research-project-1-renr-8300/
+Course Name: Applied Research Project 1*
+--------------------------------------------------
+Course Number: RENR 8301
+Course Link: /courses/research-design-and-implementation-renr-8301/
+Course Name: Research Design & Implementation
+--------------------------------------------------
+Course Number: RENR 7002
+Course Link: /courses/environmental-assessment-renr-7002/
+Course Name: Environmental  Assessment
+--------------------------------------------------
+Course Number: RENR 8103
+Course Link: /courses/conservation-biology-renr-8103/
+Course Name: Conservation Biology
+--------------------------------------------------
+Course Number: RENR 8202
+Course Link: /courses/stream-assessment-and-restoration-renr-8202/
+Course Name: Stream Assessment and Restoration
+--------------------------------------------------
+Course Number: RENR 8400
+Course Link: /courses/applied-research-project-2-renr-8400/
+Course Name: Applied Research Project 2*
+--------------------------------------------------
+Course Number: RENR 8104
+Course Link: /courses/applications-of-fire-in-ecosystem-restoration-renr-8104/
+Course Name: Applications of Fire in Ecosystem Restoration
+--------------------------------------------------
+Course Number: RENR 8106
+Course Link: /courses/wetland-and-estuary-restoration-renr-8106/
+Course Name: Wetland and Estuary Restoration
+--------------------------------------------------
+Course Number: RENR 8107
+Course Link: /courses/restoring-wildlife-populations-renr-8107/
+Course Name: Restoring Wildlife Populations
+--------------------------------------------------

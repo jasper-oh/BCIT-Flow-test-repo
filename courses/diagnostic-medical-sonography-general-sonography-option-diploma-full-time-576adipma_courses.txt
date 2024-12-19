@@ -1,0 +1,110 @@
+Courses for Program: https://www.bcit.ca/programs/diagnostic-medical-sonography-general-sonography-option-diploma-full-time-576adipma/
+--------------------------------------------------
+Course Number: BHSC 1143
+Course Link: None
+Course Name: Abdomen Form and Function (DSON)
+--------------------------------------------------
+Course Number: DSON 1001
+Course Link: None
+Course Name: Abdominal and Superficial Structures Sonography 1
+--------------------------------------------------
+Course Number: DSON 1002
+Course Link: None
+Course Name: Obstetrics and Gynecological Sonography 1
+--------------------------------------------------
+Course Number: DSON 1003
+Course Link: None
+Course Name: Cardiac Sonography 1
+--------------------------------------------------
+Course Number: DSON 1011
+Course Link: None
+Course Name: General Sonography Lab 1
+--------------------------------------------------
+Course Number: DSON 1012
+Course Link: None
+Course Name: Cardiac Sonography Lab 1
+--------------------------------------------------
+Course Number: HSIP 1000
+Course Link: None
+Course Name: Health Sciences Interprofessional Patient Care
+--------------------------------------------------
+Course Number: PHYS 1073
+Course Link: None
+Course Name: Sonography Physics 1
+--------------------------------------------------
+Course Number: BHSC 1144
+Course Link: None
+Course Name: Human Behaviour 1 (DSON)
+--------------------------------------------------
+Course Number: COMM 3173
+Course Link: None
+Course Name: Communication for Diagnostic Sonography
+--------------------------------------------------
+Course Number: DSON 1004
+Course Link: None
+Course Name: Clinical Orientation
+--------------------------------------------------
+Course Number: DSON 2001
+Course Link: None
+Course Name: Abdominal and Superficial Structures Sonography 2
+--------------------------------------------------
+Course Number: DSON 2002
+Course Link: None
+Course Name: Obstetrics and Gynecological Sonography 2
+--------------------------------------------------
+Course Number: DSON 2005
+Course Link: None
+Course Name: Vascular Sonography 1
+--------------------------------------------------
+Course Number: DSON 2011
+Course Link: None
+Course Name: General Sonography Lab 2
+--------------------------------------------------
+Course Number: PHYS 2073
+Course Link: None
+Course Name: Sonography Physics 2
+--------------------------------------------------
+Course Number: DSON 2006
+Course Link: None
+Course Name: Sonography Clinical 1
+--------------------------------------------------
+Course Number: BHSC 2143
+Course Link: None
+Course Name: Pathophysiology (DSON)
+--------------------------------------------------
+Course Number: BHSC 2144
+Course Link: None
+Course Name: Human Behaviour 2 (DSON)
+--------------------------------------------------
+Course Number: DSON 3001
+Course Link: None
+Course Name: Abdominal and Superficial Structures Sonography 3
+--------------------------------------------------
+Course Number: DSON 3002
+Course Link: None
+Course Name: Obstetrics and Gynecological Sonography 3
+--------------------------------------------------
+Course Number: DSON 3005
+Course Link: None
+Course Name: Vascular Sonography 2
+--------------------------------------------------
+Course Number: DSON 3011
+Course Link: None
+Course Name: General Sonography Lab 3
+--------------------------------------------------
+Course Number: PHYS 3073
+Course Link: None
+Course Name: Sonography Physics 3
+--------------------------------------------------
+Course Number: DSON 3006
+Course Link: None
+Course Name: Sonography Capstone
+--------------------------------------------------
+Course Number: DSON 4008
+Course Link: None
+Course Name: General Sonography Clinical 2
+--------------------------------------------------
+Course Number: DSON 4009
+Course Link: None
+Course Name: General Sonography Clinical 3
+--------------------------------------------------

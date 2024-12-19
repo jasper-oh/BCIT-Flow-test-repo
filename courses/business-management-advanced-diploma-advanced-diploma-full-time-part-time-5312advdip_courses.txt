@@ -1,0 +1,58 @@
+Courses for Program: https://www.bcit.ca/programs/business-management-advanced-diploma-advanced-diploma-full-time-part-time-5312advdip/
+--------------------------------------------------
+Course Number: BSYS 3800
+Course Link: /courses/business-information-systems-for-managers-bsys-3800/
+Course Name: Business Information Systems for Managers
+--------------------------------------------------
+Course Number: COMM 1111
+Course Link: /courses/introduction-to-workplace-communication-comm-1111/
+Course Name: Introduction to Workplace Communication*
+--------------------------------------------------
+Course Number: ECON 2200
+Course Link: /courses/macroeconomics-econ-2200/
+Course Name: Macroeconomics
+--------------------------------------------------
+Course Number: FMGT 2152
+Course Link: /courses/accounting-for-management-fmgt-2152/
+Course Name: Accounting for Management
+--------------------------------------------------
+Course Number: MKTG 4010
+Course Link: /courses/marketing-management-strategic-planning-mktg-4010/
+Course Name: Marketing Management Strategic Planning
+--------------------------------------------------
+Course Number: OPMT 3510
+Course Link: /courses/business-math-for-managers-opmt-3510/
+Course Name: Business Math for Managers
+--------------------------------------------------
+Course Number: ORGB 5110
+Course Link: /courses/organizational-behaviour-for-managers-orgb-5110/
+Course Name: Organizational Behaviour for Managers
+--------------------------------------------------
+Course Number: BLAW 3100
+Course Link: /courses/business-law-blaw-3100/
+Course Name: Business Law
+--------------------------------------------------
+Course Number: BSYS 5800
+Course Link: /courses/business-data-analytics-for-managers-bsys-5800/
+Course Name: Business Data Analytics for Managers
+--------------------------------------------------
+Course Number: BUSA 4800
+Course Link: /courses/management-policy-busa-4800/
+Course Name: Management Policy
+--------------------------------------------------
+Course Number: COMM 3111
+Course Link: /courses/managerial-communication-comm-3111/
+Course Name: Managerial Communication*
+--------------------------------------------------
+Course Number: ECON 5000
+Course Link: /courses/managerial-economics-econ-5000/
+Course Name: Managerial Economics
+--------------------------------------------------
+Course Number: HRMG 6010
+Course Link: /courses/strategic-hr-lr-management-hrmg-6010/
+Course Name: Strategic HR/LR Management
+--------------------------------------------------
+Course Number: OPMT 5515
+Course Link: /courses/quantitative-methods-for-managers-opmt-5515/
+Course Name: Quantitative Methods for Managers
+--------------------------------------------------

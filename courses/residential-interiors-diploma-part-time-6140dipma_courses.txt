@@ -1,0 +1,122 @@
+Courses for Program: https://www.bcit.ca/programs/residential-interiors-diploma-part-time-6140dipma/
+--------------------------------------------------
+Course Number: INTR 3000
+Course Link: /courses/residential-studio-bath-and-private-spaces-intr-3000/
+Course Name: Residential Studio - Bath and Private Spaces
+--------------------------------------------------
+Course Number: INTR 3020
+Course Link: /courses/residential-materials-and-environmental-factors-intr-3020/
+Course Name: Residential Materials and Environmental Factors
+--------------------------------------------------
+Course Number: INTR 3030
+Course Link: /courses/residential-construction-and-building-systems-intr-3030/
+Course Name: Residential Construction and Building Systems
+--------------------------------------------------
+Course Number: INTR 3040
+Course Link: /courses/residential-building-codes-and-accessibility-intr-3040/
+Course Name: Residential Building Codes & Accessibility
+--------------------------------------------------
+Course Number: INTR 3100
+Course Link: /courses/residential-studio-kitchens-intr-3100/
+Course Name: Residential Studio - Kitchens
+--------------------------------------------------
+Course Number: INTR 3155
+Course Link: /courses/residential-millwork-and-cabinetry-intr-3155/
+Course Name: Residential Millwork and Cabinetry
+--------------------------------------------------
+Course Number: INTR 3160
+Course Link: /courses/advanced-residential-lighting-intr-3160/
+Course Name: Advanced Residential Lighting
+--------------------------------------------------
+Course Number: INTR 3260
+Course Link: /courses/revit-for-residential-interiors-intr-3260/
+Course Name: Revit for Residential Interiors
+--------------------------------------------------
+Course Number: INTR 4000
+Course Link: /courses/residential-studio-social-spaces-intr-4000/
+Course Name: Residential Studio - Social Spaces
+--------------------------------------------------
+Course Number: AHVC 1126
+Course Link: /courses/introduction-to-western-visual-culture-european-renaissance-to-the-present-ahvc-1126/
+Course Name: Introduction to Western Visual Culture: European Renaissance to the Present
+--------------------------------------------------
+Course Number: COMM 2320
+Course Link: /courses/communication-2-comm-2320/
+Course Name: Communication 2
+--------------------------------------------------
+Course Number: INTR 3170
+Course Link: /courses/residential-business-and-project-management-intr-3170/
+Course Name: Residential Business and Project Management
+--------------------------------------------------
+Course Number: JOIN 4350
+Course Link: /courses/joinery-fundamentals-for-interior-design-join-4350/
+Course Name: Joinery Fundamentals for Interior Design
+--------------------------------------------------
+Course Number: INTD 3360
+Course Link: /courses/advanced-digital-illustration-for-interior-design-intd-3360/
+Course Name: Advanced Digital Illustration for Interior Design
+--------------------------------------------------
+Course Number: INTR 4100
+Course Link: /courses/residential-directed-studies-2-intr-4100/
+Course Name: Residential Directed Studies 2
+--------------------------------------------------
+Course Number: INTR 4130
+Course Link: /courses/practicum-intr-4130/
+Course Name: Practicum
+--------------------------------------------------
+Course Number: ENGL 1177
+Course Link: /courses/academic-writing-engl-1177/
+Course Name: Academic Writing
+--------------------------------------------------
+Course Number: HSSC 1100
+Course Link: /courses/selected-topics-in-humanities-and-social-sciences-hssc-1100/
+Course Name: Selected Topics in Humanities and Social Sciences
+--------------------------------------------------
+Course Number: HSSC 1201
+Course Link: /courses/selected-topics-in-humanities-and-social-sciences-hssc-1201/
+Course Name: Selected Topics in Humanities and Social Sciences
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: /courses/critical-reading-and-writing-libs-7001/
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: LIBS 7002
+Course Link: /courses/applied-ethics-libs-7002/
+Course Name: Applied Ethics
+--------------------------------------------------
+Course Number: LIBS 7005
+Course Link: /courses/technology-invention-and-power-libs-7005/
+Course Name: Technology, Invention and Power
+--------------------------------------------------
+Course Number: LIBS 7006
+Course Link: /courses/philosophy-of-science-understanding-scientific-reasoning-libs-7006/
+Course Name: Philosophy of Science: Understanding Scientific Reasoning
+--------------------------------------------------
+Course Number: LIBS 7007
+Course Link: /courses/technology-and-society-libs-7007/
+Course Name: Technology and Society
+--------------------------------------------------
+Course Number: LIBS 7008
+Course Link: /courses/logic-and-practical-reasoning-libs-7008/
+Course Name: Logic and Practical Reasoning
+--------------------------------------------------
+Course Number: LIBS 7014
+Course Link: /courses/film-and-theatre-an-active-audience-libs-7014/
+Course Name: Film and Theatre: An Active Audience
+--------------------------------------------------
+Course Number: LIBS 7015
+Course Link: /courses/world-mythologies-cross-cultural-perspectives-libs-7015/
+Course Name: World Mythologies: Cross-Cultural Perspectives
+--------------------------------------------------
+Course Number: LIBS 7018
+Course Link: /courses/business-ethics-libs-7018/
+Course Name: Business Ethics
+--------------------------------------------------
+Course Number: LIBS 7021
+Course Link: /courses/health-ethics-libs-7021/
+Course Name: Health Ethics
+--------------------------------------------------
+Course Number: LIBS 7023
+Course Link: /courses/sustainable-business-ethics-libs-7023/
+Course Name: Sustainable Business Ethics
+--------------------------------------------------

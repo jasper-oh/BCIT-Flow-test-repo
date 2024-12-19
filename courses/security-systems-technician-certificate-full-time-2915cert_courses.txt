@@ -1,0 +1,26 @@
+Courses for Program: https://www.bcit.ca/programs/security-systems-technician-certificate-full-time-2915cert/
+--------------------------------------------------
+Course Number: TELC 1105
+Course Link: None
+Course Name: Introduction to Security Installations
+--------------------------------------------------
+Course Number: TELC 1110
+Course Link: None
+Course Name: Fundamentals of Electricity and Electronics
+--------------------------------------------------
+Course Number: TELC 1120
+Course Link: None
+Course Name: Wiring Methods
+--------------------------------------------------
+Course Number: TELC 2210
+Course Link: None
+Course Name: Intrusion Alarm Systems
+--------------------------------------------------
+Course Number: TELC 2220
+Course Link: None
+Course Name: Practicum
+--------------------------------------------------
+Course Number: TELC 2230
+Course Link: None
+Course Name: CCTV and Access Control Systems
+--------------------------------------------------

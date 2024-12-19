@@ -1,0 +1,30 @@
+Courses for Program: https://www.bcit.ca/programs/event-marketing-and-planning-foundations-associate-certificate-part-time-6315acert/
+--------------------------------------------------
+Course Number: MKTG 1017
+Course Link: /courses/event-marketing-mktg-1017/
+Course Name: Event Marketing
+--------------------------------------------------
+Course Number: MKTG 1120
+Course Link: /courses/event-planning-essentials-mktg-1120/
+Course Name: Event Planning Essentials
+--------------------------------------------------
+Course Number: MKTG 1123
+Course Link: /courses/sustainable-event-management-operations-mktg-1123/
+Course Name: Sustainable Event Management Operations
+--------------------------------------------------
+Course Number: MKTG 1146
+Course Link: /courses/introduction-to-sustainable-marketing-mktg-1146/
+Course Name: Introduction to Sustainable Marketing
+--------------------------------------------------
+Course Number: MKTG 2025
+Course Link: /courses/event-strategy-and-design-mktg-2025/
+Course Name: Event Strategy and Design
+--------------------------------------------------
+Course Number: MKTG 2029
+Course Link: /courses/event-technical-production-mktg-2029/
+Course Name: Event Technical Production
+--------------------------------------------------
+Course Number: MKTG 2225
+Course Link: /courses/project-management-in-marketing-mktg-2225/
+Course Name: Project Management in Marketing
+--------------------------------------------------

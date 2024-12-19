@@ -1,0 +1,34 @@
+Courses for Program: https://www.bcit.ca/programs/building-energy-modelling-and-performance-analysis-advanced-certificate-part-time-5235adcert/
+--------------------------------------------------
+Course Number: BSCI 5100
+Course Link: /courses/fundamentals-of-building-science-bsci-5100/
+Course Name: Fundamentals of Building Science
+--------------------------------------------------
+Course Number: BSCI 5110
+Course Link: /courses/building-energy-modelling-level-1-bsci-5110/
+Course Name: Building Energy Modelling Level 1
+--------------------------------------------------
+Course Number: BSCI 5120
+Course Link: /courses/introduction-to-building-envelope-and-mechanical-systems-bsci-5120/
+Course Name: Introduction to Building Envelope and Mechanical Systems
+--------------------------------------------------
+Course Number: BSCI 5210
+Course Link: /courses/building-energy-modelling-level-2-bsci-5210/
+Course Name: Building Energy Modelling Level 2
+--------------------------------------------------
+Course Number: BSCI 5220
+Course Link: /courses/advanced-building-envelope-and-mechanical-systems-bsci-5220/
+Course Name: Advanced Building Envelope and Mechanical Systems
+--------------------------------------------------
+Course Number: BSCI 5230
+Course Link: /courses/introduction-to-energy-auditing-and-measurement-and-verification-bsci-5230/
+Course Name: Introduction to Energy Auditing & Measurement and Verification
+--------------------------------------------------
+Course Number: BSCI 5250
+Course Link: /courses/building-energy-performance-optimization-process-capstone-project-bsci-5250/
+Course Name: Building Energy Performance Optimization Process- Capstone Project*
+--------------------------------------------------
+Course Number: BUSA 7250
+Course Link: /courses/management-skills-and-applications-busa-7250/
+Course Name: Management Skills and Applications
+--------------------------------------------------

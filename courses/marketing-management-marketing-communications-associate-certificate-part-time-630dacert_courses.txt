@@ -1,0 +1,54 @@
+Courses for Program: https://www.bcit.ca/programs/marketing-management-marketing-communications-associate-certificate-part-time-630dacert/
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: /courses/essentials-of-marketing-mktg-1102/
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: MKTG 1352
+Course Link: /courses/digital-marketing-mktg-1352/
+Course Name: Digital Marketing
+--------------------------------------------------
+Course Number: MKTG 1550
+Course Link: /courses/social-media-essentials-mktg-1550/
+Course Name: Social Media Essentials
+--------------------------------------------------
+Course Number: MKTG 2202
+Course Link: /courses/introduction-to-marketing-communications-mktg-2202/
+Course Name: Introduction to Marketing Communications
+--------------------------------------------------
+Course Number: MKTG 3321
+Course Link: /courses/public-relations-mktg-3321/
+Course Name: Public Relations
+--------------------------------------------------
+Course Number: MKTG 3554
+Course Link: /courses/brand-strategy-mktg-3554/
+Course Name: Brand Strategy
+--------------------------------------------------
+Course Number: MKTG 1146
+Course Link: /courses/introduction-to-sustainable-marketing-mktg-1146/
+Course Name: Introduction to Sustainable Marketing
+--------------------------------------------------
+Course Number: MKTG 2225
+Course Link: /courses/project-management-in-marketing-mktg-2225/
+Course Name: Project Management in Marketing
+--------------------------------------------------
+Course Number: MKTG 2352
+Course Link: /courses/content-planning-mktg-2352/
+Course Name: Content Planning
+--------------------------------------------------
+Course Number: MKTG 2452
+Course Link: /courses/search-engine-marketing-seo-and-paid-search-mktg-2452/
+Course Name: Search Engine Marketing: SEO and Paid Search
+--------------------------------------------------
+Course Number: MKTG 2552
+Course Link: /courses/youtube-marketing-mktg-2552/
+Course Name: YouTube Marketing
+--------------------------------------------------
+Course Number: MKTG 2909
+Course Link: /courses/fundamentals-of-marketing-research-mktg-2909/
+Course Name: Fundamentals of Marketing Research
+--------------------------------------------------
+Course Number: MKTG 3113
+Course Link: /courses/customer-relationship-management-mktg-3113/
+Course Name: Customer Relationship Management
+--------------------------------------------------

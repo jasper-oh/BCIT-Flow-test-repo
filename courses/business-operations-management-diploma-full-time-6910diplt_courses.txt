@@ -1,0 +1,146 @@
+Courses for Program: https://www.bcit.ca/programs/business-operations-management-diploma-full-time-6910diplt/
+--------------------------------------------------
+Course Number: BSYS 1000
+Course Link: None
+Course Name: Business Information Systems
+--------------------------------------------------
+Course Number: COMM 1100
+Course Link: None
+Course Name: Business Communication 1
+--------------------------------------------------
+Course Number: ECON 2100
+Course Link: None
+Course Name: Microeconomics
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: None
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: OPMT 1103
+Course Link: None
+Course Name: Introduction to Operations Management
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: None
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: BSYS 2000
+Course Link: None
+Course Name: Applied Data Analytics in Excel
+--------------------------------------------------
+Course Number: BUSA 2150
+Course Link: None
+Course Name: Introduction to Organizational Development
+--------------------------------------------------
+Course Number: COMM 2200
+Course Link: None
+Course Name: Business Communication 2
+--------------------------------------------------
+Course Number: ECON 2200
+Course Link: None
+Course Name: Macroeconomics
+--------------------------------------------------
+Course Number: FMGT 2152
+Course Link: None
+Course Name: Accounting for Management
+--------------------------------------------------
+Course Number: OPMT 1130
+Course Link: None
+Course Name: Business Statistics
+--------------------------------------------------
+Course Number: OPMT 2175
+Course Link: None
+Course Name: Process Improvement for Operations Management*
+--------------------------------------------------
+Course Number: OPMT 2340
+Course Link: None
+Course Name: Process Analysis and Design*
+--------------------------------------------------
+Course Number: OPMT 2350
+Course Link: None
+Course Name: Supply Chain Management - Demand
+--------------------------------------------------
+Course Number: FMGT 3224
+Course Link: None
+Course Name: Managerial Accounting (OPMT)
+--------------------------------------------------
+Course Number: OPMT 1170
+Course Link: None
+Course Name: Project Management
+--------------------------------------------------
+Course Number: OPMT 3240
+Course Link: None
+Course Name: Quality Management
+--------------------------------------------------
+Course Number: OPMT 3301
+Course Link: None
+Course Name: Quantitative Methods for Business
+--------------------------------------------------
+Course Number: OPMT 3341
+Course Link: None
+Course Name: Process Improvement Project
+--------------------------------------------------
+Course Number: OPMT 3350
+Course Link: None
+Course Name: Supply Chain Management - Production
+--------------------------------------------------
+Course Number: OPMT 3361
+Course Link: None
+Course Name: Business Database Applications
+--------------------------------------------------
+Course Number: BLAW 3440
+Course Link: None
+Course Name: Introduction to Law for Operations Management*
+--------------------------------------------------
+Course Number: HRMG 3205
+Course Link: None
+Course Name: Labour Relations 1*
+--------------------------------------------------
+Course Number: OCHS 1441
+Course Link: None
+Course Name: Introduction to Safety for Operations Management
+--------------------------------------------------
+Course Number: OPMT 4340
+Course Link: None
+Course Name: Lean Systems*
+--------------------------------------------------
+Course Number: OPMT 4341
+Course Link: None
+Course Name: Theory of Constraints*
+--------------------------------------------------
+Course Number: OPMT 4342
+Course Link: None
+Course Name: Six Sigma*
+--------------------------------------------------
+Course Number: OPMT 4350
+Course Link: None
+Course Name: Supply Chain Management - Technology & Strategy*
+--------------------------------------------------
+Course Number: OPMT 4408
+Course Link: None
+Course Name: Math Models for Decision Making*
+--------------------------------------------------
+Course Number: OPMT 4438
+Course Link: None
+Course Name: Entrepreneurial  Business Plan Development*
+--------------------------------------------------
+Course Number: OPMT 4441
+Course Link: None
+Course Name: Change Strategies*
+--------------------------------------------------
+Course Number: OPMT 4442
+Course Link: None
+Course Name: Sustainability in Operations*
+--------------------------------------------------
+Course Number: OPMT 4449
+Course Link: None
+Course Name: Industry Project*
+--------------------------------------------------
+Course Number: OPMT 4460
+Course Link: None
+Course Name: Supply Chain Management - Supply*
+--------------------------------------------------
+Course Number: OPMT 4651
+Course Link: None
+Course Name: Supply Chain Management - ERP Systems*
+--------------------------------------------------

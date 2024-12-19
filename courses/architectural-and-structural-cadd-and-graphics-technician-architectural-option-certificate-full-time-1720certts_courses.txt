@@ -1,0 +1,62 @@
+Courses for Program: https://www.bcit.ca/programs/architectural-and-structural-cadd-and-graphics-technician-architectural-option-certificate-full-time-1720certts/
+--------------------------------------------------
+Course Number: ASCT 1010
+Course Link: None
+Course Name: Introductory Graphics
+--------------------------------------------------
+Course Number: ASCT 1020
+Course Link: None
+Course Name: Introduction to CADD Drafting
+--------------------------------------------------
+Course Number: ASCT 1050
+Course Link: None
+Course Name: Introduction to Drafting Mathematics
+--------------------------------------------------
+Course Number: ASCT 1200
+Course Link: None
+Course Name: Planning and Urban Design
+--------------------------------------------------
+Course Number: ASCT 1210
+Course Link: None
+Course Name: Computer Applications for Architecture
+--------------------------------------------------
+Course Number: ASCT 1220
+Course Link: None
+Course Name: Design and Construction Documents
+--------------------------------------------------
+Course Number: ASCT 1230
+Course Link: None
+Course Name: Architectural Theory and History
+--------------------------------------------------
+Course Number: ASCT 1240
+Course Link: None
+Course Name: Architectural Graphics
+--------------------------------------------------
+Course Number: ASCT 1245
+Course Link: None
+Course Name: Introduction to Architectural 3D Modeling
+--------------------------------------------------
+Course Number: ASCT 1250
+Course Link: None
+Course Name: Codes and Regulations
+--------------------------------------------------
+Course Number: ASCT 1260
+Course Link: None
+Course Name: Construction Materials and Assemblies
+--------------------------------------------------
+Course Number: ASCT 1270
+Course Link: None
+Course Name: Building Construction
+--------------------------------------------------
+Course Number: ASCT 1280
+Course Link: None
+Course Name: Project Management and Controls
+--------------------------------------------------
+Course Number: ASCT 1290
+Course Link: None
+Course Name: Presentations and Communications
+--------------------------------------------------
+Course Number: ASCT 1295
+Course Link: None
+Course Name: Professional Practice
+--------------------------------------------------

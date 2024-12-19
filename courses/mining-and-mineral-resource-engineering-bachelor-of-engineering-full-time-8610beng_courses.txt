@@ -1,0 +1,254 @@
+Courses for Program: https://www.bcit.ca/programs/mining-and-mineral-resource-engineering-bachelor-of-engineering-full-time-8610beng/
+--------------------------------------------------
+Course Number: CHEM 1105
+Course Link: None
+Course Name: Chemistry 1 for Mining
+--------------------------------------------------
+Course Number: COMM 1135
+Course Link: None
+Course Name: Technical Communication 1
+--------------------------------------------------
+Course Number: COMP 1620
+Course Link: None
+Course Name: Computer Essentials
+--------------------------------------------------
+Course Number: MATH 1501
+Course Link: None
+Course Name: Technical Mathematics for Mining
+--------------------------------------------------
+Course Number: MINE 1100
+Course Link: None
+Course Name: Introduction to the Minerals Industry
+--------------------------------------------------
+Course Number: MINE 1101
+Course Link: None
+Course Name: Physical Geology
+--------------------------------------------------
+Course Number: MINE 1107
+Course Link: None
+Course Name: Student Success
+--------------------------------------------------
+Course Number: PHYS 1147
+Course Link: None
+Course Name: Physics for Mining Technology 1
+--------------------------------------------------
+Course Number: SURV 1145
+Course Link: None
+Course Name: Surveying for Mining 1
+--------------------------------------------------
+Course Number: CHEM 2205
+Course Link: None
+Course Name: Chemistry 2 for Mining
+--------------------------------------------------
+Course Number: MATH 2502
+Course Link: None
+Course Name: Calculus 1 for Mining
+--------------------------------------------------
+Course Number: MINE 2101
+Course Link: None
+Course Name: Mineralogy and Petrology
+--------------------------------------------------
+Course Number: MINE 2105
+Course Link: None
+Course Name: Surface Mining and Blasting
+--------------------------------------------------
+Course Number: MINE 2107
+Course Link: None
+Course Name: Exploration and Mine Safety
+--------------------------------------------------
+Course Number: MINE 2109
+Course Link: None
+Course Name: CAD for Mining
+--------------------------------------------------
+Course Number: PHYS 2147
+Course Link: None
+Course Name: Physics for Mining Technology 2
+--------------------------------------------------
+Course Number: SURV 2145
+Course Link: None
+Course Name: Surveying for Mining 2
+--------------------------------------------------
+Course Number: CHSC 3314
+Course Link: None
+Course Name: Mineral Processing 1
+--------------------------------------------------
+Course Number: CIVL 2225
+Course Link: None
+Course Name: Statics and Strength of Materials
+--------------------------------------------------
+Course Number: MATH 3503
+Course Link: None
+Course Name: Calculus 2 for Mining
+--------------------------------------------------
+Course Number: MINE 3101
+Course Link: None
+Course Name: Structural Geology
+--------------------------------------------------
+Course Number: MINE 3105
+Course Link: None
+Course Name: Underground Mining
+--------------------------------------------------
+Course Number: MINE 3106
+Course Link: None
+Course Name: Mineral Deposits
+--------------------------------------------------
+Course Number: MINE 3107
+Course Link: None
+Course Name: Introduction to Soil and Rock Mechanics
+--------------------------------------------------
+Course Number: MINE 3109
+Course Link: None
+Course Name: Computer Applications for Exploration
+--------------------------------------------------
+Course Number: CHSC 4414
+Course Link: None
+Course Name: Mineral Processing 2
+--------------------------------------------------
+Course Number: COMM 2451
+Course Link: None
+Course Name: Technical Communications 2
+--------------------------------------------------
+Course Number: MATH 3504
+Course Link: None
+Course Name: Statistics
+--------------------------------------------------
+Course Number: MATH 4504
+Course Link: None
+Course Name: Differential Equations
+--------------------------------------------------
+Course Number: MINE 4020
+Course Link: None
+Course Name: Environmental Applications
+--------------------------------------------------
+Course Number: MINE 4107
+Course Link: None
+Course Name: Mineral Exploration
+--------------------------------------------------
+Course Number: MINE 4108
+Course Link: None
+Course Name: Exploration and Geological Field Methods
+--------------------------------------------------
+Course Number: MINE 4200
+Course Link: None
+Course Name: Drilling, Explosives and Fragmentation
+--------------------------------------------------
+Course Number: ECON 2200
+Course Link: None
+Course Name: Macroeconomics
+--------------------------------------------------
+Course Number: ENGR 3800
+Course Link: None
+Course Name: Introduction to Professional Engineering
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: None
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: MATH 5504
+Course Link: None
+Course Name: Applied Linear Algebra and Numerical Methods
+--------------------------------------------------
+Course Number: MECH 5110
+Course Link: None
+Course Name: Thermal and Fluid Science
+--------------------------------------------------
+Course Number: MINE 5000
+Course Link: None
+Course Name: Surface Mine Design
+--------------------------------------------------
+Course Number: MINE 5005
+Course Link: None
+Course Name: Mineral Resource Estimation
+--------------------------------------------------
+Course Number: MINE 5100
+Course Link: None
+Course Name: Advanced Petrology
+--------------------------------------------------
+Course Number: BUSA 7250
+Course Link: None
+Course Name: Management Skills and Applications
+--------------------------------------------------
+Course Number: MINE 6000
+Course Link: None
+Course Name: Underground Mine Design and Ventilation
+--------------------------------------------------
+Course Number: MINE 6005
+Course Link: None
+Course Name: Advanced Rock Mechanics
+--------------------------------------------------
+Course Number: MINE 6010
+Course Link: None
+Course Name: Computer Aided Mine Design
+--------------------------------------------------
+Course Number: MINE 6015
+Course Link: None
+Course Name: Cost Estimating for Mining Projects
+--------------------------------------------------
+Course Number: MINE 6020
+Course Link: None
+Course Name: Mining Field Methods
+--------------------------------------------------
+Course Number: MINE 6100
+Course Link: None
+Course Name: Applied Structural Geology
+--------------------------------------------------
+Course Number: LIBS 7005
+Course Link: None
+Course Name: Technology, Invention and Power
+--------------------------------------------------
+Course Number: LIBS 7007
+Course Link: None
+Course Name: Technology and Society
+--------------------------------------------------
+Course Number: MINE 7015
+Course Link: None
+Course Name: Mining Seminar 1
+--------------------------------------------------
+Course Number: MINE 7020
+Course Link: None
+Course Name: Mineral Industry Economics
+--------------------------------------------------
+Course Number: MINE 7025
+Course Link: None
+Course Name: Innovations in Mining Technology and Design
+--------------------------------------------------
+Course Number: MINE 7100
+Course Link: None
+Course Name: Exploration Project Design
+--------------------------------------------------
+Course Number: MINE 7110
+Course Link: None
+Course Name: Capstone Project 1
+--------------------------------------------------
+Course Number: COMM 8351
+Course Link: None
+Course Name: Capstone Project Communication
+--------------------------------------------------
+Course Number: MINE 7000
+Course Link: None
+Course Name: Energy Resources
+--------------------------------------------------
+Course Number: MINE 7010
+Course Link: None
+Course Name: Mine Reclamation and Closure Design
+--------------------------------------------------
+Course Number: MINE 8000
+Course Link: None
+Course Name: Sustainability, Corporate Social Responsibility and Indigenous Awareness
+--------------------------------------------------
+Course Number: MINE 8005
+Course Link: None
+Course Name: Mine Management and Occupational Health
+--------------------------------------------------
+Course Number: MINE 8015
+Course Link: None
+Course Name: Mining Seminar 2
+--------------------------------------------------
+Course Number: MINE 8020
+Course Link: None
+Course Name: Engineering Law and Ethics
+--------------------------------------------------
+Course Number: MINE 8110
+Course Link: None
+Course Name: Capstone Project 2
+--------------------------------------------------

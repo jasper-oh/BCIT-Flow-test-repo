@@ -1,0 +1,46 @@
+Courses for Program: https://www.bcit.ca/programs/applied-computer-applications-aca-associate-certificate-part-time-5525acert/
+--------------------------------------------------
+Course Number: COMP 1002
+Course Link: /courses/applied-computer-concepts-comp-1002/
+Course Name: Applied Computer Concepts
+--------------------------------------------------
+Course Number: COMP 1850
+Course Link: /courses/introduction-to-web-development-comp-1850/
+Course Name: Introduction to Web Development
+--------------------------------------------------
+Course Number: COMP 2364
+Course Link: /courses/microsoft-excel-comp-2364/
+Course Name: Microsoft Excel
+--------------------------------------------------
+Course Number: COMP 2369
+Course Link: /courses/microsoft-word-comp-2369/
+Course Name: Microsoft Word
+--------------------------------------------------
+Course Number: COMP 2384
+Course Link: /courses/microsoft-powerpoint-comp-2384/
+Course Name: Microsoft PowerPoint
+--------------------------------------------------
+Course Number: XCOM 3840
+Course Link: /courses/technical-presentations-xcom-3840/
+Course Name: Technical Presentations
+--------------------------------------------------
+Course Number: COMP 1288
+Course Link: /courses/it-project-management-fundamentals-comp-1288/
+Course Name: IT Project Management Fundamentals
+--------------------------------------------------
+Course Number: COMP 1370
+Course Link: /courses/microsoft-access-fundamentals-comp-1370/
+Course Name: Microsoft Access Fundamentals
+--------------------------------------------------
+Course Number: COMP 2252
+Course Link: /courses/sap-crystal-reports-comp-2252/
+Course Name: SAP Crystal Reports
+--------------------------------------------------
+Course Number: COMM 1103
+Course Link: /courses/introduction-to-business-and-technical-communication-comm-1103/
+Course Name: Introduction to Business and Technical Communication
+--------------------------------------------------
+Course Number: COMM 1106
+Course Link: /courses/introduction-to-business-and-technical-communication-with-language-development-component-comm-1106/
+Course Name: Introduction to Business and Technical Communication (With Language Development Component)
+--------------------------------------------------

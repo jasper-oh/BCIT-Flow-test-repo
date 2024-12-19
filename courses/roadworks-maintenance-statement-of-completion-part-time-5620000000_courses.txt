@@ -1,0 +1,18 @@
+Courses for Program: https://www.bcit.ca/programs/roadworks-maintenance-statement-of-completion-part-time-5620000000/
+--------------------------------------------------
+Course Number: PUBW 1001
+Course Link: /courses/introduction-to-public-works-operations-pubw-1001/
+Course Name: Introduction to Public Works Operations
+--------------------------------------------------
+Course Number: PUBW 1121
+Course Link: /courses/roadworks-maintenance-1-pubw-1121/
+Course Name: Roadworks Maintenance 1
+--------------------------------------------------
+Course Number: PUBW 1141
+Course Link: /courses/municipal-plan-reading-pubw-1141/
+Course Name: Municipal Plan Reading
+--------------------------------------------------
+Course Number: PUBW 2121
+Course Link: /courses/roadworks-maintenance-2-pubw-2121/
+Course Name: Roadworks Maintenance 2
+--------------------------------------------------

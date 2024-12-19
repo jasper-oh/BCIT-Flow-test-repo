@@ -1,0 +1,154 @@
+Courses for Program: https://www.bcit.ca/programs/construction-management-bachelor-of-technology-full-time-part-time-8800btech/
+--------------------------------------------------
+Course Number: CMGT 7160
+Course Link: /courses/statistics-for-construction-management-cmgt-7160/
+Course Name: Statistics for Construction Management
+--------------------------------------------------
+Course Number: CMGT 7190
+Course Link: /courses/construction-planning-and-controls-cmgt-7190/
+Course Name: Construction Planning and Controls
+--------------------------------------------------
+Course Number: CMGT 7211
+Course Link: /courses/heavy-equipment-in-construction-cmgt-7211/
+Course Name: Heavy Equipment in Construction
+--------------------------------------------------
+Course Number: CMGT 7400
+Course Link: /courses/project-planning-for-quality-and-risk-management-cmgt-7400/
+Course Name: Project Planning for Quality & Risk Management
+--------------------------------------------------
+Course Number: BUSA 7250
+Course Link: /courses/management-skills-and-applications-busa-7250/
+Course Name: Management Skills and Applications
+--------------------------------------------------
+Course Number: CMGT 7330
+Course Link: /courses/finance-for-construction-managers-cmgt-7330/
+Course Name: Finance for Construction Managers
+--------------------------------------------------
+Course Number: CMGT 7420
+Course Link: /courses/construction-law-cmgt-7420/
+Course Name: Construction Law
+--------------------------------------------------
+Course Number: CMGT 8435
+Course Link: /courses/construction-enterprise-management-cmgt-8435/
+Course Name: Construction Enterprise Management
+--------------------------------------------------
+Course Number: CMGT 7535
+Course Link: /courses/leadership-and-interpersonal-skills-cmgt-7535/
+Course Name: Leadership and Interpersonal Skills
+--------------------------------------------------
+Course Number: CMGT 7660
+Course Link: /courses/environmental-considerations-in-construction-cmgt-7660/
+Course Name: Environmental Considerations in Construction
+--------------------------------------------------
+Course Number: CMGT 8602
+Course Link: /courses/engagement-of-project-stakeholders-cmgt-8602/
+Course Name: Engagement of Project Stakeholders
+--------------------------------------------------
+Course Number: CMGT 7125
+Course Link: /courses/construction-schedule-and-delay-analysis-cmgt-7125/
+Course Name: Construction Schedule and Delay Analysis
+--------------------------------------------------
+Course Number: CMGT 7220
+Course Link: /courses/health-and-safety-in-construction-cmgt-7220/
+Course Name: Health and Safety in Construction
+--------------------------------------------------
+Course Number: CMGT 7605
+Course Link: /courses/industrial-relations-cmgt-7605/
+Course Name: Industrial Relations
+--------------------------------------------------
+Course Number: CMGT 7840
+Course Link: /courses/technical-presentations-cmgt-7840/
+Course Name: Technical Presentations
+--------------------------------------------------
+Course Number: CMGT 8040
+Course Link: /courses/building-civil-services-cmgt-8040/
+Course Name: Building - Civil Services
+--------------------------------------------------
+Course Number: CMGT 8050
+Course Link: /courses/budgeting-conceptual-estimating-cmgt-8050/
+Course Name: Budgeting/Conceptual Estimating
+--------------------------------------------------
+Course Number: CMGT 8060
+Course Link: /courses/risk-management-in-design-and-construction-of-buildings-cmgt-8060/
+Course Name: Risk Management in Design & Construction of Buildings
+--------------------------------------------------
+Course Number: EENG 7000
+Course Link: /courses/introduction-to-climate-change-ecology-and-systems-thinking-eeng-7000/
+Course Name: Introduction to Climate Change, Ecology, and Systems Thinking
+--------------------------------------------------
+Course Number: TMGT 7101
+Course Link: /courses/engineering-technology-and-management-tmgt-7101/
+Course Name: Engineering, Technology and Management
+--------------------------------------------------
+Course Number: TMGT 7102
+Course Link: /courses/project-management-resource-utilization-tmgt-7102/
+Course Name: Project Management/Resource Utilization
+--------------------------------------------------
+Course Number: TMGT 7111
+Course Link: /courses/high-technology-marketing-strategies-tmgt-7111/
+Course Name: High Technology Marketing Strategies
+--------------------------------------------------
+Course Number: TMGT 7112
+Course Link: /courses/marketing-research-tmgt-7112/
+Course Name: Marketing Research
+--------------------------------------------------
+Course Number: TMGT 7113
+Course Link: /courses/marketing-programs-and-plans-tmgt-7113/
+Course Name: Marketing Programs and Plans
+--------------------------------------------------
+Course Number: TMGT 7121
+Course Link: /courses/principles-of-finance-tmgt-7121/
+Course Name: Principles of Finance
+--------------------------------------------------
+Course Number: TMGT 7124
+Course Link: /courses/technology-and-international-finance-tmgt-7124/
+Course Name: Technology and International Finance
+--------------------------------------------------
+Course Number: TMGT 7134
+Course Link: /courses/technology-and-international-trade-and-competition-tmgt-7134/
+Course Name: Technology and International Trade and Competition
+--------------------------------------------------
+Course Number: TMGT 7143
+Course Link: /courses/problem-solving-and-decision-making-tmgt-7143/
+Course Name: Problem Solving and Decision-Making
+--------------------------------------------------
+Course Number: TMGT 7144
+Course Link: /courses/human-resource-planning-and-control-tmgt-7144/
+Course Name: Human Resource Planning and Control
+--------------------------------------------------
+Course Number: TMGT 7145
+Course Link: /courses/leadership-in-a-world-of-change-tmgt-7145/
+Course Name: Leadership in a World of Change
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: /courses/critical-reading-and-writing-libs-7001/
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: LIBS 7002
+Course Link: /courses/applied-ethics-libs-7002/
+Course Name: Applied Ethics
+--------------------------------------------------
+Course Number: LIBS 7013
+Course Link: /courses/race-class-and-gender-intersections-libs-7013/
+Course Name: Race, Class and Gender: Intersections
+--------------------------------------------------
+Course Number: CMGT 7810
+Course Link: /courses/advanced-industry-communication-cmgt-7810/
+Course Name: Advanced Industry Communication
+--------------------------------------------------
+Course Number: CMGT 8211
+Course Link: /courses/industry-collaborations-cmgt-8211/
+Course Name: Industry Collaborations
+--------------------------------------------------
+Course Number: CMGT 8700
+Course Link: /courses/industry-based-project-proposal-cmgt-8700/
+Course Name: Industry Based Project Proposal
+--------------------------------------------------
+Course Number: CMGT 8800
+Course Link: /courses/industry-based-project-cmgt-8800/
+Course Name: Industry Based Project*
+--------------------------------------------------
+Course Number: CMGT 8810
+Course Link: /courses/industry-based-project-cmgt-8810/
+Course Name: Industry Based Project*
+--------------------------------------------------

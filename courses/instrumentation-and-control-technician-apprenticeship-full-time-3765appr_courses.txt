@@ -1,0 +1,18 @@
+Courses for Program: https://www.bcit.ca/programs/instrumentation-and-control-technician-apprenticeship-full-time-3765appr/
+--------------------------------------------------
+Course Number: AINT 1GAP
+Course Link: None
+Course Name: Instrumentation & Control Technician Apprentice Level 1 Final Grade
+--------------------------------------------------
+Course Number: AINT 2GAP
+Course Link: None
+Course Name: Instrumentation & Control Technician Apprentice Level 2 Final Grade
+--------------------------------------------------
+Course Number: AINT 3GAP
+Course Link: None
+Course Name: Instrumentation & Control Technician Apprentice Level 3 Final Grade
+--------------------------------------------------
+Course Number: AINT 4GAP
+Course Link: None
+Course Name: Instrumentation & Control Technician Apprentice Level 4 Final Grade
+--------------------------------------------------

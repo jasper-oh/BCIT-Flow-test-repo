@@ -1,0 +1,22 @@
+Courses for Program: https://www.bcit.ca/programs/non-destructive-testing-statement-of-completion-part-time-5025nobcit/
+--------------------------------------------------
+Course Number: NDTE 1155
+Course Link: /courses/materials-and-processes-for-ndt-ndte-1155/
+Course Name: Materials and Processes for NDT
+--------------------------------------------------
+Course Number: NDTE 1170
+Course Link: /courses/ultrasonics-level-1-ndte-1170/
+Course Name: Ultrasonics Level 1
+--------------------------------------------------
+Course Number: NDTE 2170
+Course Link: /courses/ultrasonics-level-2-ndte-2170/
+Course Name: Ultrasonics Level 2
+--------------------------------------------------
+Course Number: NDTE 2177
+Course Link: /courses/liquid-penetrant-inspection-levels-1-and-2-ndte-2177/
+Course Name: Liquid Penetrant Inspection Levels 1 and 2
+--------------------------------------------------
+Course Number: NDTE 2178
+Course Link: /courses/magnetic-particle-inspection-levels-1-and-2-ndte-2178/
+Course Name: Magnetic Particle Inspection Levels 1 and 2
+--------------------------------------------------

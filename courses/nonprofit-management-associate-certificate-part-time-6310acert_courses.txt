@@ -1,0 +1,74 @@
+Courses for Program: https://www.bcit.ca/programs/nonprofit-management-associate-certificate-part-time-6310acert/
+--------------------------------------------------
+Course Number: FUND 1215
+Course Link: /courses/essentials-of-fundraising-fund-1215/
+Course Name: Essentials of Fundraising
+--------------------------------------------------
+Course Number: HRMG 3105
+Course Link: /courses/human-resource-management-fundamentals-hrmg-3105/
+Course Name: Human Resource Management Fundamentals
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: /courses/essentials-of-marketing-mktg-1102/
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: NPMA 1700
+Course Link: /courses/financial-management-for-nonprofit-organizations-npma-1700/
+Course Name: Financial Management for Nonprofit Organizations
+--------------------------------------------------
+Course Number: NPMA 1800
+Course Link: /courses/government-relations-npma-1800/
+Course Name: Government Relations
+--------------------------------------------------
+Course Number: NPMA 1850
+Course Link: /courses/law-and-governance-npma-1850/
+Course Name: Law and Governance
+--------------------------------------------------
+Course Number: ORGB 1105
+Course Link: /courses/organizational-behaviour-orgb-1105/
+Course Name: Organizational Behaviour
+--------------------------------------------------
+Course Number: MKTG 1019
+Course Link: /courses/media-relations-mktg-1019/
+Course Name: Media Relations
+--------------------------------------------------
+Course Number: MKTG 1146
+Course Link: /courses/introduction-to-sustainable-marketing-mktg-1146/
+Course Name: Introduction to Sustainable Marketing
+--------------------------------------------------
+Course Number: MKTG 1341
+Course Link: /courses/sustainable-event-and-tradeshow-marketing-mktg-1341/
+Course Name: Sustainable Event and Tradeshow Marketing
+--------------------------------------------------
+Course Number: MKTG 1352
+Course Link: /courses/digital-marketing-mktg-1352/
+Course Name: Digital Marketing
+--------------------------------------------------
+Course Number: MKTG 2202
+Course Link: /courses/introduction-to-marketing-communications-mktg-2202/
+Course Name: Introduction to Marketing Communications
+--------------------------------------------------
+Course Number: MKTG 2452
+Course Link: /courses/search-engine-marketing-seo-and-paid-search-mktg-2452/
+Course Name: Search Engine Marketing: SEO and Paid Search
+--------------------------------------------------
+Course Number: MKTG 2552
+Course Link: /courses/youtube-marketing-mktg-2552/
+Course Name: YouTube Marketing
+--------------------------------------------------
+Course Number: MKTG 2909
+Course Link: /courses/fundamentals-of-marketing-research-mktg-2909/
+Course Name: Fundamentals of Marketing Research
+--------------------------------------------------
+Course Number: MKTG 3321
+Course Link: /courses/public-relations-mktg-3321/
+Course Name: Public Relations
+--------------------------------------------------
+Course Number: MKTG 3342
+Course Link: /courses/negotiating-skills-mktg-3342/
+Course Name: Negotiating Skills
+--------------------------------------------------
+Course Number: MKTG 3554
+Course Link: /courses/brand-strategy-mktg-3554/
+Course Name: Brand Strategy
+--------------------------------------------------

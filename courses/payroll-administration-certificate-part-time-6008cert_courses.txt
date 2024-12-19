@@ -1,0 +1,86 @@
+Courses for Program: https://www.bcit.ca/programs/payroll-administration-certificate-part-time-6008cert/
+--------------------------------------------------
+Course Number: BLAW 3100
+Course Link: /courses/business-law-blaw-3100/
+Course Name: Business Law
+--------------------------------------------------
+Course Number: BSYS 1001
+Course Link: /courses/business-information-systems-1-microsoft-365-for-windows-bsys-1001/
+Course Name: Business Information Systems 1-Microsoft 365 for Windows
+--------------------------------------------------
+Course Number: FMGT 1100
+Course Link: /courses/accounting-1-fmgt-1100/
+Course Name: Accounting 1*
+--------------------------------------------------
+Course Number: FMGT 2100
+Course Link: /courses/accounting-2-fmgt-2100/
+Course Name: Accounting 2*
+--------------------------------------------------
+Course Number: FMGT 3410
+Course Link: /courses/taxation-1-fmgt-3410/
+Course Name: Taxation 1
+--------------------------------------------------
+Course Number: FMGT 4915
+Course Link: /courses/payroll-essentials-fmgt-4915/
+Course Name: Payroll Essentials
+--------------------------------------------------
+Course Number: FMGT 4925
+Course Link: /courses/computerized-payroll-fmgt-4925/
+Course Name: Computerized Payroll
+--------------------------------------------------
+Course Number: HRMG 3105
+Course Link: /courses/human-resource-management-fundamentals-hrmg-3105/
+Course Name: Human Resource Management Fundamentals
+--------------------------------------------------
+Course Number: HRMG 4405
+Course Link: /courses/total-compensation-strategy-hrmg-4405/
+Course Name: Total Compensation Strategy
+--------------------------------------------------
+Course Number: ORGB 1105
+Course Link: /courses/organizational-behaviour-orgb-1105/
+Course Name: Organizational Behaviour
+--------------------------------------------------
+Course Number: BLAW 3905
+Course Link: /courses/employment-law-blaw-3905/
+Course Name: Employment Law
+--------------------------------------------------
+Course Number: BSYS 2051
+Course Link: /courses/introduction-to-business-data-analytics-with-ms-excel-ms-365-for-windows-bsys-2051/
+Course Name: Introduction to Business Data Analytics with MS Excel-MS 365 for Windows
+--------------------------------------------------
+Course Number: BSYS 2061
+Course Link: /courses/business-data-management-with-ms-access-microsoft-365-for-windows-bsys-2061/
+Course Name: Business Data Management with MS Access-Microsoft 365 for Windows
+--------------------------------------------------
+Course Number: COMM 1103
+Course Link: /courses/introduction-to-business-and-technical-communication-comm-1103/
+Course Name: Introduction to Business and Technical Communication
+--------------------------------------------------
+Course Number: FMGT 2701
+Course Link: /courses/management-information-systems-fmgt-2701/
+Course Name: Management Information Systems
+--------------------------------------------------
+Course Number: FMGT 2711
+Course Link: /courses/computerized-accounting-fmgt-2711/
+Course Name: Computerized Accounting
+--------------------------------------------------
+Course Number: FMGT 3210
+Course Link: /courses/cost-managerial-accounting-1-fmgt-3210/
+Course Name: Cost/Managerial Accounting 1
+--------------------------------------------------
+Course Number: FMGT 3720
+Course Link: /courses/advanced-computer-applications-1-fmgt-3720/
+Course Name: Advanced Computer Applications 1
+--------------------------------------------------
+Course Number: FMGT 4410
+Course Link: /courses/taxation-2-fmgt-4410/
+Course Name: Taxation 2
+--------------------------------------------------
+Course Number: HRMG 2805
+Course Link: /courses/workplace-health-and-safety-hrmg-2805/
+Course Name: Workplace Health & Safety
+--------------------------------------------------
+Course Number: HRMG 3305
+Course Link: /courses/recruitment-and-selection-hrmg-3305/
+Course Name: Recruitment and Selection
+--------------------------------------------------

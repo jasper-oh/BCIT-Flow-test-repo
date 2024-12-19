@@ -1,0 +1,78 @@
+Courses for Program: https://www.bcit.ca/programs/operations-management-management-engineering-option-certificate-part-time-690bmcert/
+--------------------------------------------------
+Course Number: BSYS 2000
+Course Link: /courses/applied-data-analytics-in-excel-bsys-2000/
+Course Name: Applied Data Analytics in Excel
+--------------------------------------------------
+Course Number: COMM 1103
+Course Link: /courses/introduction-to-business-and-technical-communication-comm-1103/
+Course Name: Introduction to Business and Technical Communication
+--------------------------------------------------
+Course Number: FMGT 1152
+Course Link: /courses/accounting-for-the-manager-fmgt-1152/
+Course Name: Accounting for the Manager
+--------------------------------------------------
+Course Number: HRMG 2805
+Course Link: /courses/workplace-health-and-safety-hrmg-2805/
+Course Name: Workplace Health & Safety
+--------------------------------------------------
+Course Number: OPMT 1106
+Course Link: /courses/quality-management-fundamentals-opmt-1106/
+Course Name: Quality Management Fundamentals
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: /courses/business-mathematics-opmt-1110/
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: OPMT 1130
+Course Link: /courses/business-statistics-opmt-1130/
+Course Name: Business Statistics
+--------------------------------------------------
+Course Number: OPMT 1187
+Course Link: /courses/project-management-essentials-opmt-1187/
+Course Name: Project Management Essentials
+--------------------------------------------------
+Course Number: OPMT 1191
+Course Link: /courses/purchasing-opmt-1191/
+Course Name: Purchasing
+--------------------------------------------------
+Course Number: OPMT 1198
+Course Link: /courses/operations-management-fundamentals-opmt-1198/
+Course Name: Operations Management Fundamentals
+--------------------------------------------------
+Course Number: OPMT 2298
+Course Link: /courses/business-process-improvement-opmt-2298/
+Course Name: Business Process Improvement
+--------------------------------------------------
+Course Number: OPMT 4699
+Course Link: /courses/enterprise-performance-management-opmt-4699/
+Course Name: Enterprise Performance Management
+--------------------------------------------------
+Course Number: BUSA 1305
+Course Link: /courses/supervisory-skills-busa-1305/
+Course Name: Supervisory Skills
+--------------------------------------------------
+Course Number: BUSA 2005
+Course Link: /courses/principles-of-management-busa-2005/
+Course Name: Principles of Management
+--------------------------------------------------
+Course Number: COMM 2203
+Course Link: /courses/business-and-technical-reports-comm-2203/
+Course Name: Business and Technical Reports
+--------------------------------------------------
+Course Number: OPMT 1193
+Course Link: /courses/facility-planning-and-design-opmt-1193/
+Course Name: Facility Planning and Design
+--------------------------------------------------
+Course Number: OPMT 1710
+Course Link: /courses/introduction-to-lean-concepts-opmt-1710/
+Course Name: Introduction to Lean Concepts
+--------------------------------------------------
+Course Number: OPMT 3306
+Course Link: /courses/quality-management-systems-opmt-3306/
+Course Name: Quality Management Systems
+--------------------------------------------------
+Course Number: ORGB 1105
+Course Link: /courses/organizational-behaviour-orgb-1105/
+Course Name: Organizational Behaviour
+--------------------------------------------------

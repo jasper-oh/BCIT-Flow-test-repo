@@ -1,0 +1,30 @@
+Courses for Program: https://www.bcit.ca/programs/pediatric-nursing-specialty-critical-care-option-advanced-certificate-part-time-680zadcert/
+--------------------------------------------------
+Course Number: NSPE 7100
+Course Link: /courses/pediatric-theory-1-nspe-7100/
+Course Name: Pediatric Theory 1
+--------------------------------------------------
+Course Number: NSPE 7260
+Course Link: /courses/pediatric-critical-care-nursing-theory-1-nspe-7260/
+Course Name: Pediatric Critical Care Nursing Theory 1
+--------------------------------------------------
+Course Number: NSPE 7270
+Course Link: /courses/pediatric-critical-care-theory-2-nspe-7270/
+Course Name: Pediatric Critical Care Theory 2
+--------------------------------------------------
+Course Number: NSPE 7280
+Course Link: /courses/pediatric-critical-care-theory-3-nspe-7280/
+Course Name: Pediatric Critical Care Theory 3
+--------------------------------------------------
+Course Number: NSPE 7290
+Course Link: /courses/pediatric-critical-care-nursing-theory-4-nspe-7290/
+Course Name: Pediatric Critical Care Nursing Theory 4
+--------------------------------------------------
+Course Number: NSPE 7310
+Course Link: /courses/pediatric-critical-care-preceptorship-1-nspe-7310/
+Course Name: Pediatric Critical Care Preceptorship 1
+--------------------------------------------------
+Course Number: NSPE 7410
+Course Link: /courses/pediatric-cc-preceptorship-2-nspe-7410/
+Course Name: Pediatric CC Preceptorship 2
+--------------------------------------------------

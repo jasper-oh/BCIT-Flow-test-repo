@@ -1,0 +1,22 @@
+Courses for Program: https://www.bcit.ca/programs/construction-of-mass-timber-structures-associate-certificate-part-time-5225acert/
+--------------------------------------------------
+Course Number: TMBR 1020
+Course Link: /courses/construction-planning-and-rigging-for-mass-timber-structures-tmbr-1020/
+Course Name: Construction Planning and Rigging for Mass Timber Structures
+--------------------------------------------------
+Course Number: TMBR 1030
+Course Link: /courses/installation-of-mass-timber-structures-tmbr-1030/
+Course Name: Installation of Mass Timber Structures
+--------------------------------------------------
+Course Number: TMBR 1040
+Course Link: /courses/installation-of-building-enclosures-for-mass-timber-buildings-tmbr-1040/
+Course Name: Installation of Building Enclosures for Mass Timber Buildings
+--------------------------------------------------
+Course Number: TMBR 1050
+Course Link: /courses/installation-of-interior-components-and-services-for-mass-timber-buildings-tmbr-1050/
+Course Name: Installation of Interior Components and Services for Mass Timber Buildings
+--------------------------------------------------
+Course Number: TMBR 1060
+Course Link: /courses/practicum-construction-of-mass-timber-buildings-tmbr-1060/
+Course Name: Practicum Construction of Mass Timber Buildings
+--------------------------------------------------

@@ -1,0 +1,122 @@
+Courses for Program: https://www.bcit.ca/programs/mechanical-engineering-technology-mechanical-manufacturing-option-diploma-full-time-635ediplt/
+--------------------------------------------------
+Course Number: CHSC 1105
+Course Link: None
+Course Name: Engineering Materials 1
+--------------------------------------------------
+Course Number: COMM 1169
+Course Link: None
+Course Name: Technical Communication 1 for Mechanical Engineering
+--------------------------------------------------
+Course Number: MATH 1491
+Course Link: None
+Course Name: Basic Technical Mathematics for Mechanical
+--------------------------------------------------
+Course Number: MECH 1001
+Course Link: None
+Course Name: Introduction to Mechanical Engineering
+--------------------------------------------------
+Course Number: MECH 1102
+Course Link: None
+Course Name: Engineering Graphics 1
+--------------------------------------------------
+Course Number: MECH 1141
+Course Link: None
+Course Name: Statics
+--------------------------------------------------
+Course Number: MECH 1171
+Course Link: None
+Course Name: Computer Applications and Programming
+--------------------------------------------------
+Course Number: CHSC 2205
+Course Link: None
+Course Name: Engineering Materials 2
+--------------------------------------------------
+Course Number: MATH 2491
+Course Link: None
+Course Name: Calculus for Mechanical
+--------------------------------------------------
+Course Number: MECH 1210
+Course Link: None
+Course Name: Manufacturing Processes
+--------------------------------------------------
+Course Number: MECH 2202
+Course Link: None
+Course Name: Engineering Graphics 2
+--------------------------------------------------
+Course Number: MECH 2240
+Course Link: None
+Course Name: Strength of Materials
+--------------------------------------------------
+Course Number: MECH 2241
+Course Link: None
+Course Name: Dynamics
+--------------------------------------------------
+Course Number: PHYS 2149
+Course Link: None
+Course Name: Physics for Mechanical
+--------------------------------------------------
+Course Number: ELEX 2845
+Course Link: None
+Course Name: Electrical Equipment
+--------------------------------------------------
+Course Number: MANU 3310
+Course Link: None
+Course Name: Material Removal Processes
+--------------------------------------------------
+Course Number: MANU 3312
+Course Link: None
+Course Name: Computer Aided Manufacturing
+--------------------------------------------------
+Course Number: MANU 3314
+Course Link: None
+Course Name: Tool Design
+--------------------------------------------------
+Course Number: MANU 3317
+Course Link: None
+Course Name: Plastics Manufacturing
+--------------------------------------------------
+Course Number: OPMT 1411
+Course Link: None
+Course Name: Production Engineering Management
+--------------------------------------------------
+Course Number: COMM 2269
+Course Link: None
+Course Name: Technical Communication 2 for Mechanical Engineering
+--------------------------------------------------
+Course Number: MANU 3410
+Course Link: None
+Course Name: Metrology*
+--------------------------------------------------
+Course Number: MANU 4415
+Course Link: None
+Course Name: Process Planning & CNC Programming
+--------------------------------------------------
+Course Number: MANU 4420
+Course Link: None
+Course Name: Material Joining Processes*
+--------------------------------------------------
+Course Number: MANU 4440
+Course Link: None
+Course Name: Thermofluids for Manufacturing
+--------------------------------------------------
+Course Number: MANU 4490
+Course Link: None
+Course Name: Manufacturing Projects
+--------------------------------------------------
+Course Number: MATH 4491
+Course Link: None
+Course Name: Statistical Quality Control
+--------------------------------------------------
+Course Number: MECH 0460
+Course Link: None
+Course Name: Ethics for Technologists
+--------------------------------------------------
+Course Number: MECH 4451
+Course Link: None
+Course Name: Control Systems**
+--------------------------------------------------
+Course Number: OPMT 1182
+Course Link: None
+Course Name: Total Quality Management
+--------------------------------------------------

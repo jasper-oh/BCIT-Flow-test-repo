@@ -1,0 +1,58 @@
+Courses for Program: https://www.bcit.ca/programs/metal-fabricator-foundation-certificate-full-time-2825cert/
+--------------------------------------------------
+Course Number: MTLF 1200
+Course Link: None
+Course Name: Apply Safe Work Practices
+--------------------------------------------------
+Course Number: MTLF 1205
+Course Link: None
+Course Name: Math for Metal Fabricators
+--------------------------------------------------
+Course Number: MTLF 1210
+Course Link: None
+Course Name: Interpretation of Drawings for Fabricators
+--------------------------------------------------
+Course Number: MTLF 1215
+Course Link: None
+Course Name: Hand and Power Tools
+--------------------------------------------------
+Course Number: MTLF 1220
+Course Link: None
+Course Name: Metal Fabrication Shop Equipment
+--------------------------------------------------
+Course Number: MTLF 1225
+Course Link: None
+Course Name: Develop & Layout Templates
+--------------------------------------------------
+Course Number: MTLF 1230
+Course Link: None
+Course Name: Thermal Cutting Equipment & Processes
+--------------------------------------------------
+Course Number: MTLF 1235
+Course Link: None
+Course Name: Arc Welding Processes
+--------------------------------------------------
+Course Number: MTLF 1240
+Course Link: None
+Course Name: Blueprint Reading
+--------------------------------------------------
+Course Number: MTLF 1245
+Course Link: None
+Course Name: Pattern Development
+--------------------------------------------------
+Course Number: MTLF 1250
+Course Link: None
+Course Name: Handle Materials
+--------------------------------------------------
+Course Number: MTLF 1255
+Course Link: None
+Course Name: Project Finishing
+--------------------------------------------------
+Course Number: MTLF 1260
+Course Link: None
+Course Name: Shop Practical Projects
+--------------------------------------------------
+Course Number: MTLF 1265
+Course Link: None
+Course Name: Perform Quality Control
+--------------------------------------------------

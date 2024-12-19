@@ -1,0 +1,66 @@
+Courses for Program: https://www.bcit.ca/programs/business-information-technology-management-enterprise-systems-management-option-diploma-full-time-623bdipma/
+--------------------------------------------------
+Course Number: BSYS 3000
+Course Link: None
+Course Name: Cloud Business Development 1
+--------------------------------------------------
+Course Number: BSYS 3105
+Course Link: None
+Course Name: Information Technology 1
+--------------------------------------------------
+Course Number: BSYS 3205
+Course Link: None
+Course Name: Business Intelligence 1
+--------------------------------------------------
+Course Number: BSYS 3355
+Course Link: None
+Course Name: Management Information Systems
+--------------------------------------------------
+Course Number: BUSA 4850
+Course Link: None
+Course Name: Consulting Skills and Problem Solving*
+--------------------------------------------------
+Course Number: FMGT 3221
+Course Link: None
+Course Name: Management Accounting Administration
+--------------------------------------------------
+Course Number: OPMT 2172
+Course Link: None
+Course Name: Applied Management Engineering
+--------------------------------------------------
+Course Number: OPMT 3301
+Course Link: None
+Course Name: Quantitative Methods for Business
+--------------------------------------------------
+Course Number: BLAW 3600
+Course Link: None
+Course Name: Computers and the Law
+--------------------------------------------------
+Course Number: BSYS 4000
+Course Link: None
+Course Name: Cloud Business Development 2
+--------------------------------------------------
+Course Number: BSYS 4075
+Course Link: None
+Course Name: Integrated  Business Processes
+--------------------------------------------------
+Course Number: BSYS 4205
+Course Link: None
+Course Name: Business Intelligence 2*
+--------------------------------------------------
+Course Number: BSYS 4905
+Course Link: None
+Course Name: Directed Studies*
+--------------------------------------------------
+Course Number: BUSA 4800
+Course Link: None
+Course Name: Management Policy
+--------------------------------------------------
+Course Number: FMGT 4530
+Course Link: None
+Course Name: Enterprise Finance
+--------------------------------------------------
+Course Number: OPMT 4170
+Course Link: None
+Course Name: Applied Project Management*
+--------------------------------------------------

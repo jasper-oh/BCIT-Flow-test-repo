@@ -1,0 +1,74 @@
+Courses for Program: https://www.bcit.ca/programs/ecological-restoration-master-of-science-full-time-part-time-m410msc/
+--------------------------------------------------
+Course Number: ECOR 9100
+Course Link: /courses/concepts-of-ecological-restoration-and-the-biotic-and-abiotic-environment-ecor-9100/
+Course Name: Concepts of Ecological Restoration & the Biotic and Abiotic Environment
+--------------------------------------------------
+Course Number: ECOR 9110
+Course Link: /courses/planning-and-monitoring-for-ecological-restoration-ecor-9110/
+Course Name: Planning and Monitoring for Ecological Restoration
+--------------------------------------------------
+Course Number: ECOR 9140
+Course Link: /courses/indigenous-and-social-perspectives-on-ecological-restoration-1-ecor-9140/
+Course Name: Indigenous and Social Perspectives on Ecological Restoration 1
+--------------------------------------------------
+Course Number: ECOR 9150
+Course Link: /courses/graduate-seminar-in-research-methods-ecor-9150/
+Course Name: Graduate Seminar in Research Methods
+--------------------------------------------------
+Course Number: ECOR 9170
+Course Link: /courses/thesis-concept-ecor-9170/
+Course Name: Thesis Concept
+--------------------------------------------------
+Course Number: ECOR 9240
+Course Link: /courses/indigenous-and-social-perspectives-on-ecological-restoration-2-ecor-9240/
+Course Name: Indigenous and Social Perspectives on Ecological Restoration 2
+--------------------------------------------------
+Course Number: ECOR 9260
+Course Link: /courses/project-management-and-community-engagement-ecor-9260/
+Course Name: Project Management and Community Engagement
+--------------------------------------------------
+Course Number: ECOR 9210
+Course Link: /courses/restoration-of-terrestrial-ecosystems-ecor-9210/
+Course Name: Restoration of Terrestrial Ecosystems
+--------------------------------------------------
+Course Number: ECOR 9220
+Course Link: /courses/restoration-of-lentic-ecosystems-ecor-9220/
+Course Name: Restoration of Lentic Ecosystems
+--------------------------------------------------
+Course Number: ECOR 9270
+Course Link: /courses/thesis-proposal-ecor-9270/
+Course Name: Thesis Proposal
+--------------------------------------------------
+Course Number: ECOR 9600
+Course Link: /courses/thesis-ecor-9600/
+Course Name: Thesis
+--------------------------------------------------
+Course Number: ECOR 9301
+Course Link: /courses/restoration-of-wetland-and-estuarine-ecosystems-ecor-9301/
+Course Name: Restoration of Wetland and Estuarine Ecosystems
+--------------------------------------------------
+Course Number: ECOR 9302
+Course Link: /courses/restoring-wildlife-ecological-concepts-and-practical-application-ecor-9302/
+Course Name: Restoring Wildlife: Ecological Concepts & Practical Application
+--------------------------------------------------
+Course Number: ECOR 9305
+Course Link: /courses/statistical-applications-for-ecological-restoration-ecor-9305/
+Course Name: Statistical Applications for Ecological Restoration
+--------------------------------------------------
+Course Number: ECOR 9500
+Course Link: /courses/directed-studies-ecor-9500/
+Course Name: Directed Studies
+--------------------------------------------------
+Course Number: ECOR 9550
+Course Link: /courses/application-of-planning-and-monitoring-for-ecological-restoration-ecor-9550/
+Course Name: Application of Planning and Monitoring for Ecological Restoration
+--------------------------------------------------
+Course Number: ECOR 9304
+Course Link: /courses/restoration-of-lotic-ecosystems-ecor-9304/
+Course Name: Restoration of Lotic Ecosystems
+--------------------------------------------------
+Course Number: ECOR 9310
+Course Link: /courses/advanced-applications-for-restoration-of-terrestrial-ecosystems-ecor-9310/
+Course Name: Advanced Applications for Restoration of Terrestrial Ecosystems
+--------------------------------------------------

@@ -1,0 +1,94 @@
+Courses for Program: https://www.bcit.ca/programs/specialty-nursing-perioperative-bachelor-of-science-in-nursing-part-time-810hbsn/
+--------------------------------------------------
+Course Number: NSPO 7100
+Course Link: /courses/perioperative-theory-1-developing-perioperative-partnerships-nspo-7100/
+Course Name: Perioperative Theory 1: Developing Perioperative Partnerships
+--------------------------------------------------
+Course Number: NSPO 7350
+Course Link: /courses/perioperative-clinical-1-implementing-the-scrub-nurse-role-nspo-7350/
+Course Name: Perioperative Clinical 1: Implementing the Scrub Nurse Role
+--------------------------------------------------
+Course Number: NSPO 7250
+Course Link: /courses/perioperative-theory-2-the-nurse-in-the-scrub-role-nspo-7250/
+Course Name: Perioperative Theory 2: The Nurse in the Scrub Role
+--------------------------------------------------
+Course Number: NSPO 7251
+Course Link: /courses/perioperative-theory-2-with-aorn-periop-101-the-nurse-in-the-scrub-role-nspo-7251/
+Course Name: Perioperative Theory 2 (with AORN Periop 101): The Nurse in the Scrub Role
+--------------------------------------------------
+Course Number: NSPO 7450
+Course Link: /courses/perioperative-theory-3-the-nurse-in-the-circulating-role-nspo-7450/
+Course Name: Perioperative Theory 3: The Nurse in the Circulating Role
+--------------------------------------------------
+Course Number: NSPO 7451
+Course Link: /courses/perioperative-theory-3-with-aorn-periop-101-the-nurse-in-the-circulating-role-nspo-7451/
+Course Name: Perioperative Theory 3 (with AORN Periop 101): The Nurse in the Circulating Role
+--------------------------------------------------
+Course Number: NSPO 7540
+Course Link: /courses/lpn-perioperative-clinical-2-implementing-the-circulating-nurse-role-nspo-7540/
+Course Name: LPN Perioperative Clinical 2: Implementing the Circulating Nurse Role
+--------------------------------------------------
+Course Number: NSPO 7550
+Course Link: /courses/perioperative-clinical-2-implementing-the-circulating-nurse-role-nspo-7550/
+Course Name: Perioperative Clinical 2: Implementing the Circulating Nurse Role
+--------------------------------------------------
+Course Number: NSPO 7740
+Course Link: /courses/lpn-perioperative-clinical-3-advancing-scrub-and-circulating-nurse-roles-nspo-7740/
+Course Name: LPN Perioperative Clinical 3: Advancing Scrub and Circulating Nurse Roles
+--------------------------------------------------
+Course Number: NSPO 7750
+Course Link: /courses/perioperative-clinical-3-integrated-perioperative-nursing-practice-nspo-7750/
+Course Name: Perioperative Clinical 3: Integrated Perioperative Nursing Practice
+--------------------------------------------------
+Course Number: BUSA 7250
+Course Link: /courses/management-skills-and-applications-busa-7250/
+Course Name: Management Skills and Applications
+--------------------------------------------------
+Course Number: NSSC 7115
+Course Link: /courses/teaching-and-learning-in-specialty-nursing-nssc-7115/
+Course Name: Teaching and Learning in Specialty Nursing
+--------------------------------------------------
+Course Number: NSSC 8000
+Course Link: /courses/systematic-inquiry-nssc-8000/
+Course Name: Systematic Inquiry
+--------------------------------------------------
+Course Number: NSSC 8300
+Course Link: /courses/creative-leadership-nssc-8300/
+Course Name: Creative Leadership
+--------------------------------------------------
+Course Number: NSSC 8500
+Course Link: /courses/professional-growth-nssc-8500/
+Course Name: Professional Growth
+--------------------------------------------------
+Course Number: NSSC 8600
+Course Link: /courses/community-nursing-facilitating-health-nssc-8600/
+Course Name: Community Nursing:  Facilitating Health
+--------------------------------------------------
+Course Number: NSSC 8800
+Course Link: /courses/community-nursing-facilitating-health-action-nssc-8800/
+Course Name: Community Nursing:  Facilitating Health Action
+--------------------------------------------------
+Course Number: NSSC 8110
+Course Link: /courses/independent-study-in-specialty-nursing-nssc-8110/
+Course Name: Independent Study in Specialty Nursing
+--------------------------------------------------
+Course Number: NSSC 8120
+Course Link: /courses/independent-study-in-specialty-nursing-nssc-8120/
+Course Name: Independent Study in Specialty Nursing
+--------------------------------------------------
+Course Number: NSSC 8130
+Course Link: /courses/independent-study-in-specialty-nursing-nssc-8130/
+Course Name: Independent Study in Specialty Nursing
+--------------------------------------------------
+Course Number: NSSC 8160
+Course Link: /courses/independent-study-in-specialty-nursing-nssc-8160/
+Course Name: Independent Study in Specialty Nursing
+--------------------------------------------------
+Course Number: COMM 7100
+Course Link: /courses/intercultural-communication-competency-and-diversity-awareness-for-professionals-comm-7100/
+Course Name: Intercultural Communication Competency and Diversity Awareness for Professionals
+--------------------------------------------------
+Course Number: LIBS 7021
+Course Link: /courses/health-ethics-libs-7021/
+Course Name: Health Ethics
+--------------------------------------------------

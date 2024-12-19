@@ -1,0 +1,78 @@
+Courses for Program: https://www.bcit.ca/programs/industrial-instrumentation-and-process-control-technician-diploma-full-time-2945dipma/
+--------------------------------------------------
+Course Number: INST 1000
+Course Link: None
+Course Name: DC Electricity
+--------------------------------------------------
+Course Number: INST 1001
+Course Link: None
+Course Name: Industrial Instrumentation and Process Control Technician
+--------------------------------------------------
+Course Number: INST 1103
+Course Link: None
+Course Name: Instrumentation Fundamentals
+--------------------------------------------------
+Course Number: INST 2000
+Course Link: None
+Course Name: AC Electricity and Transistors
+--------------------------------------------------
+Course Number: INST 2001
+Course Link: None
+Course Name: Power Supplies & Operational Amplifiers
+--------------------------------------------------
+Course Number: INST 2112
+Course Link: None
+Course Name: Pressure Instruments and Measurement
+--------------------------------------------------
+Course Number: INST 2116
+Course Link: None
+Course Name: Flow Instruments and Measurements
+--------------------------------------------------
+Course Number: INST 2121
+Course Link: None
+Course Name: Level, Density Instruments and Measurements
+--------------------------------------------------
+Course Number: INST 2123
+Course Link: None
+Course Name: Control Valves and Positioners
+--------------------------------------------------
+Course Number: INST 2125
+Course Link: None
+Course Name: Hydraulic Systems
+--------------------------------------------------
+Course Number: INST 2107
+Course Link: None
+Course Name: Temperature Instruments and Measurement
+--------------------------------------------------
+Course Number: INST 3112
+Course Link: None
+Course Name: Programmable Logic Controllers and Human Machine Interface (HMI)
+--------------------------------------------------
+Course Number: INST 3117
+Course Link: None
+Course Name: Analog and Microprocessor-Based Controllers
+--------------------------------------------------
+Course Number: INST 3121
+Course Link: None
+Course Name: Process Control and Control Systems
+--------------------------------------------------
+Course Number: INST 3106
+Course Link: None
+Course Name: Analytical Instruments and Control
+--------------------------------------------------
+Course Number: INST 3110
+Course Link: None
+Course Name: Field Effect Transistors (FETs) & Thyristors, Digital Logic
+--------------------------------------------------
+Course Number: INST 3124
+Course Link: None
+Course Name: Distributed Control Systems
+--------------------------------------------------
+Course Number: INST 3128
+Course Link: None
+Course Name: Boiler Control and Foundation Fieldbus
+--------------------------------------------------
+Course Number: INST 3130
+Course Link: None
+Course Name: Viscosity, Consistency, Pulp Blend & Batch Control
+--------------------------------------------------

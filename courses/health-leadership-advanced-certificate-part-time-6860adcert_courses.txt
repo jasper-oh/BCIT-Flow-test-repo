@@ -1,0 +1,34 @@
+Courses for Program: https://www.bcit.ca/programs/health-leadership-advanced-certificate-part-time-6860adcert/
+--------------------------------------------------
+Course Number: HLED 7110
+Course Link: /courses/fundamentals-for-emerging-leaders-in-health-care-hled-7110/
+Course Name: Fundamentals for Emerging Leaders in Health Care
+--------------------------------------------------
+Course Number: HLED 7120
+Course Link: /courses/canadian-health-system-hled-7120/
+Course Name: Canadian Health System
+--------------------------------------------------
+Course Number: HLED 7130
+Course Link: /courses/leading-health-professionals-hled-7130/
+Course Name: Leading Health Professionals
+--------------------------------------------------
+Course Number: HLED 7140
+Course Link: /courses/leading-sustainability-in-health-care-hled-7140/
+Course Name: Leading Sustainability in Health Care
+--------------------------------------------------
+Course Number: HLED 7250
+Course Link: /courses/leading-performance-measurement-and-management-hled-7250/
+Course Name: Leading Performance Measurement and Management
+--------------------------------------------------
+Course Number: HLED 7260
+Course Link: /courses/leadership-issues-in-evidence-based-decision-making-hled-7260/
+Course Name: Leadership Issues in Evidence-based Decision Making
+--------------------------------------------------
+Course Number: HLED 7270
+Course Link: /courses/project-leadership-in-health-care-hled-7270/
+Course Name: Project Leadership in Health Care
+--------------------------------------------------
+Course Number: HLED 8280
+Course Link: /courses/leadership-integrative-project-hled-8280/
+Course Name: Leadership Integrative Project
+--------------------------------------------------

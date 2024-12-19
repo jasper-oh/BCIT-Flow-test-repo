@@ -1,0 +1,70 @@
+Courses for Program: https://www.bcit.ca/programs/interior-design-diploma-part-time-6220pdipma/
+--------------------------------------------------
+Course Number: AHVC 1126
+Course Link: /courses/introduction-to-western-visual-culture-european-renaissance-to-the-present-ahvc-1126/
+Course Name: Introduction to Western Visual Culture: European Renaissance to the Present
+--------------------------------------------------
+Course Number: COMM 2320
+Course Link: /courses/communication-2-comm-2320/
+Course Name: Communication 2
+--------------------------------------------------
+Course Number: INTD 3100
+Course Link: /courses/design-theory-2-intd-3100/
+Course Name: Design Theory 2
+--------------------------------------------------
+Course Number: INTD 3240
+Course Link: /courses/commercial-lighting-for-interior-design-intd-3240/
+Course Name: Commercial Lighting for Interior Design
+--------------------------------------------------
+Course Number: INTD 3260
+Course Link: /courses/revit-for-interior-design-intd-3260/
+Course Name: Revit for Interior Design
+--------------------------------------------------
+Course Number: INTD 3300
+Course Link: /courses/commercial-design-studio-a-intd-3300/
+Course Name: Commercial Design Studio A
+--------------------------------------------------
+Course Number: INTD 3320
+Course Link: /courses/materials-and-specifications-intd-3320/
+Course Name: Materials and Specifications
+--------------------------------------------------
+Course Number: INTD 3360
+Course Link: /courses/advanced-digital-illustration-for-interior-design-intd-3360/
+Course Name: Advanced Digital Illustration for Interior Design
+--------------------------------------------------
+Course Number: INTD 3460
+Course Link: /courses/virtual-reality-for-interior-design-intd-3460/
+Course Name: Virtual Reality for Interior Design
+--------------------------------------------------
+Course Number: INTD 4110
+Course Link: /courses/human-and-environmental-factors-intd-4110/
+Course Name: Human and Environmental Factors
+--------------------------------------------------
+Course Number: INTD 4120
+Course Link: /courses/interior-construction-and-renovation-intd-4120/
+Course Name: Interior Construction and Renovation
+--------------------------------------------------
+Course Number: INTD 4200
+Course Link: /courses/architectural-millwork-studio-intd-4200/
+Course Name: Architectural Millwork Studio
+--------------------------------------------------
+Course Number: INTD 4300
+Course Link: /courses/commercial-design-studio-b-intd-4300/
+Course Name: Commercial Design Studio B
+--------------------------------------------------
+Course Number: INTD 4320
+Course Link: /courses/commercial-construction-drawings-intd-4320/
+Course Name: Commercial Construction Drawings
+--------------------------------------------------
+Course Number: INTD 4360
+Course Link: /courses/building-codes-and-barrier-free-for-interior-design-intd-4360/
+Course Name: Building Codes and Barrier Free for Interior Design
+--------------------------------------------------
+Course Number: JOIN 4350
+Course Link: /courses/joinery-fundamentals-for-interior-design-join-4350/
+Course Name: Joinery Fundamentals for Interior Design
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: /courses/critical-reading-and-writing-libs-7001/
+Course Name: Critical Reading and Writing
+--------------------------------------------------

@@ -1,0 +1,58 @@
+Courses for Program: https://www.bcit.ca/programs/user-interface-ui-and-user-experience-ux-design-associate-certificate-part-time-5985acert/
+--------------------------------------------------
+Course Number: MDIA 2330
+Course Link: /courses/ui-ux-prototyping-tools-mdia-2330/
+Course Name: UI/UX Prototyping Tools
+--------------------------------------------------
+Course Number: MDIA 2533
+Course Link: /courses/information-architecture-mdia-2533/
+Course Name: Information Architecture
+--------------------------------------------------
+Course Number: MDIA 2540
+Course Link: /courses/ui-ux-strategy-1-mdia-2540/
+Course Name: UI / UX Strategy 1
+--------------------------------------------------
+Course Number: MDIA 3540
+Course Link: /courses/ui-ux-strategy-2-mdia-3540/
+Course Name: UI/UX Strategy 2
+--------------------------------------------------
+Course Number: GDES 1190
+Course Link: /courses/web-design-gdes-1190/
+Course Name: Web Design
+--------------------------------------------------
+Course Number: MDIA 2025
+Course Link: /courses/digital-portfolio-development-mdia-2025/
+Course Name: Digital Portfolio Development
+--------------------------------------------------
+Course Number: GDES 1235
+Course Link: /courses/graphic-design-process-gdes-1235/
+Course Name: Graphic Design Process
+--------------------------------------------------
+Course Number: MDIA 1040
+Course Link: /courses/graphics-mdia-1040/
+Course Name: Graphics
+--------------------------------------------------
+Course Number: GDES 1270
+Course Link: /courses/vector-graphics-adobe-illustrator-gdes-1270/
+Course Name: Vector Graphics: Adobe Illustrator
+--------------------------------------------------
+Course Number: MDIA 1160
+Course Link: /courses/adobe-illustrator-1-mdia-1160/
+Course Name: Adobe Illustrator 1
+--------------------------------------------------
+Course Number: MDIA 2260
+Course Link: /courses/adobe-illustrator-2-mdia-2260/
+Course Name: Adobe Illustrator 2
+--------------------------------------------------
+Course Number: GDES 1275
+Course Link: /courses/raster-graphics-adobe-photoshop-gdes-1275/
+Course Name: Raster Graphics: Adobe Photoshop
+--------------------------------------------------
+Course Number: MDIA 1180
+Course Link: /courses/adobe-photoshop-1-mdia-1180/
+Course Name: Adobe Photoshop 1
+--------------------------------------------------
+Course Number: MDIA 2180
+Course Link: /courses/adobe-photoshop-2-mdia-2180/
+Course Name: Adobe Photoshop 2
+--------------------------------------------------

@@ -1,0 +1,18 @@
+Courses for Program: https://www.bcit.ca/programs/international-perfusionist-equivalency-assessment-ipea-statement-of-completion-part-time-0705000000/
+--------------------------------------------------
+Course Number: IPEA 7610
+Course Link: /courses/international-perfusionist-equivalency-assessment-1-ipea-7610/
+Course Name: International Perfusionist Equivalency Assessment 1
+--------------------------------------------------
+Course Number: IPEA 7620
+Course Link: /courses/international-perfusionist-equivalency-assessment-2-ipea-7620/
+Course Name: International Perfusionist Equivalency Assessment 2
+--------------------------------------------------
+Course Number: IPEA 7630
+Course Link: /courses/international-perfusionist-equivalency-assessment-3-ipea-7630/
+Course Name: International Perfusionist Equivalency Assessment 3
+--------------------------------------------------
+Course Number: IPEA 8600
+Course Link: /courses/international-perfusionist-equivalency-clinical-assessment-ipea-8600/
+Course Name: International Perfusionist Equivalency Clinical Assessment
+--------------------------------------------------

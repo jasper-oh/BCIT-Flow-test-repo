@@ -1,0 +1,90 @@
+Courses for Program: https://www.bcit.ca/programs/forensic-investigation-crime-and-intelligence-analysis-option-bachelor-of-technology-part-time-847abtech/
+--------------------------------------------------
+Course Number: COMM 7200
+Course Link: /courses/report-writing-and-workplace-communication-for-forensic-investigation-comm-7200/
+Course Name: Report Writing and Workplace Communication for Forensic Investigation
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: /courses/critical-reading-and-writing-libs-7001/
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: LIBS 7002
+Course Link: /courses/applied-ethics-libs-7002/
+Course Name: Applied Ethics
+--------------------------------------------------
+Course Number: FSCT 7120
+Course Link: /courses/project-management-for-investigations-fsct-7120/
+Course Name: Project Management for Investigations
+--------------------------------------------------
+Course Number: FSCT 7001
+Course Link: /courses/forensic-applications-of-criminal-law-1-legal-procedures-fsct-7001/
+Course Name: Forensic Applications of Criminal Law 1: Legal Procedures
+--------------------------------------------------
+Course Number: FSCT 7002
+Course Link: /courses/criminal-law-2-legal-evidence-fsct-7002/
+Course Name: Criminal Law 2: Legal Evidence
+--------------------------------------------------
+Course Number: FSCT 7005
+Course Link: /courses/introducing-forensic-evidence-at-trial-fsct-7005/
+Course Name: Introducing Forensic Evidence at Trial
+--------------------------------------------------
+Course Number: FSCT 8431
+Course Link: /courses/applied-research-methods-and-statistics-in-crime-analysis-fsct-8431/
+Course Name: Applied Research Methods & Statistics in Crime Analysis
+--------------------------------------------------
+Course Number: FSCT 8432
+Course Link: /courses/reasoning-for-crime-and-intelligence-analysis-fsct-8432/
+Course Name: Reasoning for Crime and Intelligence Analysis
+--------------------------------------------------
+Course Number: FSCT 8434
+Course Link: /courses/crime-mapping-fsct-8434/
+Course Name: Crime Mapping
+--------------------------------------------------
+Course Number: FSCT 8438
+Course Link: /courses/data-analytics-and-visualization-fsct-8438/
+Course Name: Data Analytics and Visualization
+--------------------------------------------------
+Course Number: FSCT 8430
+Course Link: /courses/organized-crime-analysis-fsct-8430/
+Course Name: Organized Crime Analysis
+--------------------------------------------------
+Course Number: FSCT 8436
+Course Link: /courses/introduction-to-crime-and-intelligence-analysis-fsct-8436/
+Course Name: Introduction to Crime and Intelligence Analysis
+--------------------------------------------------
+Course Number: FSCT 8481
+Course Link: /courses/major-crimes-analysis-fsct-8481/
+Course Name: Major Crimes Analysis
+--------------------------------------------------
+Course Number: FSCT 8482
+Course Link: /courses/national-security-analysis-fsct-8482/
+Course Name: National Security Analysis
+--------------------------------------------------
+Course Number: FSCT 8486
+Course Link: /courses/strategic-analysis-fsct-8486/
+Course Name: Strategic Analysis
+--------------------------------------------------
+Course Number: FSCT 8520
+Course Link: /courses/social-media-and-open-source-investigative-techniques-fsct-8520/
+Course Name: Social Media and Open-Source Investigative Techniques
+--------------------------------------------------
+Course Number: FSCT 7240
+Course Link: /courses/essentials-of-cyber-crime-fsct-7240/
+Course Name: Essentials of Cyber Crime
+--------------------------------------------------
+Course Number: FSCT 8439
+Course Link: /courses/open-source-data-analytics-fsct-8439/
+Course Name: Open Source Data Analytics
+--------------------------------------------------
+Course Number: FSCT 7910
+Course Link: /courses/research-methodology-and-measurement-models-fsct-7910/
+Course Name: Research Methodology and Measurement Models
+--------------------------------------------------
+Course Number: FSCT 8611
+Course Link: /courses/graduation-project-1-fsct-8611/
+Course Name: Graduation Project 1
+--------------------------------------------------
+Course Number: FSCT 8622
+Course Link: /courses/graduation-project-2-fsct-8622/
+Course Name: Graduation Project 2
+--------------------------------------------------

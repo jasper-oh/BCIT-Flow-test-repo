@@ -1,0 +1,22 @@
+Courses for Program: https://www.bcit.ca/programs/cardiac-sciences-cardiovascular-technology-option-advanced-certificate-part-time-5310adcert/
+--------------------------------------------------
+Course Number: CARD 3330
+Course Link: /courses/electrocardiography-and-pacemakers-card-3330/
+Course Name: Electrocardiography and Pacemakers
+--------------------------------------------------
+Course Number: CARD 3365
+Course Link: /courses/interprofessional-practice-for-cardiac-sciences-card-3365/
+Course Name: Interprofessional Practice for Cardiac Sciences
+--------------------------------------------------
+Course Number: CARD 4370
+Course Link: /courses/principles-of-diagnosis-and-intervention-in-the-cardiac-catheterization-lab-card-4370/
+Course Name: Principles of Diagnosis and Intervention in the Cardiac Catheterization Lab
+--------------------------------------------------
+Course Number: CARD 5301
+Course Link: /courses/concepts-in-electrophysiology-card-5301/
+Course Name: Concepts in Electrophysiology
+--------------------------------------------------
+Course Number: CARD 6600
+Course Link: /courses/cardiovascular-clinical-card-6600/
+Course Name: Cardiovascular Clinical
+--------------------------------------------------

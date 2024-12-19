@@ -1,0 +1,58 @@
+Courses for Program: https://www.bcit.ca/programs/mechanical-systems-associate-certificate-part-time-6760acert/
+--------------------------------------------------
+Course Number: MSYS 2020
+Course Link: /courses/hvac-load-analysis-msys-2020/
+Course Name: HVAC Load Analysis
+--------------------------------------------------
+Course Number: MSYS 2050
+Course Link: /courses/building-construction-for-mechanical-systems-msys-2050/
+Course Name: Building Construction for Mechanical Systems
+--------------------------------------------------
+Course Number: MSYS 3020
+Course Link: /courses/air-conditioning-systems-1-msys-3020/
+Course Name: Air Conditioning Systems 1
+--------------------------------------------------
+Course Number: MSYS 3025
+Course Link: /courses/heating-systems-1-msys-3025/
+Course Name: Heating Systems 1
+--------------------------------------------------
+Course Number: MSYS 3086
+Course Link: /courses/plumbing-systems-design-msys-3086/
+Course Name: Plumbing Systems Design
+--------------------------------------------------
+Course Number: MSYS 4091
+Course Link: /courses/mechanical-systems-practicum-msys-4091/
+Course Name: Mechanical Systems Practicum
+--------------------------------------------------
+Course Number: AICO 3025
+Course Link: /courses/revit-for-mep-aico-3025/
+Course Name: Revit for MEP
+--------------------------------------------------
+Course Number: COMM 1103
+Course Link: /courses/introduction-to-business-and-technical-communication-comm-1103/
+Course Name: Introduction to Business and Technical Communication
+--------------------------------------------------
+Course Number: MSYS 3060
+Course Link: /courses/renewable-energy-systems-1-msys-3060/
+Course Name: Renewable Energy Systems 1
+--------------------------------------------------
+Course Number: MSYS 3070
+Course Link: /courses/sprinkler-systems-design-1-msys-3070/
+Course Name: Sprinkler Systems Design 1
+--------------------------------------------------
+Course Number: MSYS 3075
+Course Link: /courses/sprinkler-systems-design-2-msys-3075/
+Course Name: Sprinkler Systems Design 2
+--------------------------------------------------
+Course Number: XBEM 3050
+Course Link: /courses/building-energy-modelling-and-simulation-fundamentals-xbem-3050/
+Course Name: Building Energy Modelling and Simulation Fundamentals
+--------------------------------------------------
+Course Number: XBEM 3052
+Course Link: /courses/advanced-building-performance-simulation-xbem-3052/
+Course Name: Advanced Building Performance Simulation
+--------------------------------------------------
+Course Number: XBEM 3054
+Course Link: /courses/high-performance-building-design-project-course-xbem-3054/
+Course Name: High Performance Building Design – Project Course
+--------------------------------------------------

@@ -1,0 +1,66 @@
+Courses for Program: https://www.bcit.ca/programs/marine-mechanical-technician-foundation-certificate-full-time-1920cert/
+--------------------------------------------------
+Course Number: MMTF 1000
+Course Link: None
+Course Name: Safety in the Workplace
+--------------------------------------------------
+Course Number: MMTF 1005
+Course Link: None
+Course Name: Tools and Equipment
+--------------------------------------------------
+Course Number: MMTF 1010
+Course Link: None
+Course Name: Regulations and Vessel Operation
+--------------------------------------------------
+Course Number: MMTF 1100
+Course Link: None
+Course Name: Heating, Air Conditioning and Refrigeration
+--------------------------------------------------
+Course Number: MMTF 1105
+Course Link: None
+Course Name: Fresh Water and Bilge Plumbing Systems
+--------------------------------------------------
+Course Number: MMTF 1110
+Course Link: None
+Course Name: Vessel Support Systems
+--------------------------------------------------
+Course Number: MMTF 1115
+Course Link: None
+Course Name: Hydraulic Systems
+--------------------------------------------------
+Course Number: MMTF 1200
+Course Link: None
+Course Name: Metal Fabrication and Trailers
+--------------------------------------------------
+Course Number: MMTF 1205
+Course Link: None
+Course Name: Welding
+--------------------------------------------------
+Course Number: MMTF 1300
+Course Link: None
+Course Name: Electrical Theory and Equipment
+--------------------------------------------------
+Course Number: MMTF 1305
+Course Link: None
+Course Name: Batteries, Charging and Inverters
+--------------------------------------------------
+Course Number: MMTF 1310
+Course Link: None
+Course Name: DC Circuits and Diagnostics
+--------------------------------------------------
+Course Number: MMTF 1315
+Course Link: None
+Course Name: Generator Sets
+--------------------------------------------------
+Course Number: MMTF 1400
+Course Link: None
+Course Name: Engine Theory and Operation
+--------------------------------------------------
+Course Number: MMTF 1405
+Course Link: None
+Course Name: Engine Support and Drive Systems
+--------------------------------------------------
+Course Number: MMTF 1500
+Course Link: None
+Course Name: Industry Exploration
+--------------------------------------------------

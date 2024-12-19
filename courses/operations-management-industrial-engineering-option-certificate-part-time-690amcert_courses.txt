@@ -1,0 +1,102 @@
+Courses for Program: https://www.bcit.ca/programs/operations-management-industrial-engineering-option-certificate-part-time-690amcert/
+--------------------------------------------------
+Course Number: BSYS 2000
+Course Link: /courses/applied-data-analytics-in-excel-bsys-2000/
+Course Name: Applied Data Analytics in Excel
+--------------------------------------------------
+Course Number: BUSA 1305
+Course Link: /courses/supervisory-skills-busa-1305/
+Course Name: Supervisory Skills
+--------------------------------------------------
+Course Number: COMM 1103
+Course Link: /courses/introduction-to-business-and-technical-communication-comm-1103/
+Course Name: Introduction to Business and Technical Communication
+--------------------------------------------------
+Course Number: FMGT 1152
+Course Link: /courses/accounting-for-the-manager-fmgt-1152/
+Course Name: Accounting for the Manager
+--------------------------------------------------
+Course Number: OPMT 1106
+Course Link: /courses/quality-management-fundamentals-opmt-1106/
+Course Name: Quality Management Fundamentals
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: /courses/business-mathematics-opmt-1110/
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: OPMT 1130
+Course Link: /courses/business-statistics-opmt-1130/
+Course Name: Business Statistics
+--------------------------------------------------
+Course Number: OPMT 1187
+Course Link: /courses/project-management-essentials-opmt-1187/
+Course Name: Project Management Essentials
+--------------------------------------------------
+Course Number: OPMT 1191
+Course Link: /courses/purchasing-opmt-1191/
+Course Name: Purchasing
+--------------------------------------------------
+Course Number: OPMT 1192
+Course Link: /courses/inventory-planning-and-control-opmt-1192/
+Course Name: Inventory Planning and Control
+--------------------------------------------------
+Course Number: OPMT 1198
+Course Link: /courses/operations-management-fundamentals-opmt-1198/
+Course Name: Operations Management Fundamentals
+--------------------------------------------------
+Course Number: OPMT 2298
+Course Link: /courses/business-process-improvement-opmt-2298/
+Course Name: Business Process Improvement
+--------------------------------------------------
+Course Number: OPMT 4699
+Course Link: /courses/enterprise-performance-management-opmt-4699/
+Course Name: Enterprise Performance Management
+--------------------------------------------------
+Course Number: ASCM 1000
+Course Link: /courses/basics-of-supply-chain-management-ascm-1000/
+Course Name: Basics of Supply Chain Management
+--------------------------------------------------
+Course Number: BUSA 4500
+Course Link: /courses/international-business-practices-busa-4500/
+Course Name: International Business Practices
+--------------------------------------------------
+Course Number: BUSA 4705
+Course Link: /courses/leading-people-and-teams-across-cultures-busa-4705/
+Course Name: Leading People and Teams Across Cultures
+--------------------------------------------------
+Course Number: COMM 2203
+Course Link: /courses/business-and-technical-reports-comm-2203/
+Course Name: Business and Technical Reports
+--------------------------------------------------
+Course Number: OPMT 1105
+Course Link: /courses/engineering-economics-opmt-1105/
+Course Name: Engineering Economics
+--------------------------------------------------
+Course Number: OPMT 1142
+Course Link: /courses/introduction-to-quality-control-methods-opmt-1142/
+Course Name: Introduction to Quality Control Methods
+--------------------------------------------------
+Course Number: OPMT 1175
+Course Link: /courses/warehouse-management-1-opmt-1175/
+Course Name: Warehouse Management 1
+--------------------------------------------------
+Course Number: OPMT 1193
+Course Link: /courses/facility-planning-and-design-opmt-1193/
+Course Name: Facility Planning and Design
+--------------------------------------------------
+Course Number: OPMT 2206
+Course Link: /courses/quality-assurance-2-manufacturing-opmt-2206/
+Course Name: Quality Assurance 2 (Manufacturing)
+--------------------------------------------------
+Course Number: OPMT 2242
+Course Link: /courses/intermediate-quality-control-methods-opmt-2242/
+Course Name: Intermediate Quality Control Methods
+--------------------------------------------------
+Course Number: OPMT 2287
+Course Link: /courses/project-cost-estimating-opmt-2287/
+Course Name: Project Cost Estimating
+--------------------------------------------------
+Course Number: OPMT 3306
+Course Link: /courses/quality-management-systems-opmt-3306/
+Course Name: Quality Management Systems
+--------------------------------------------------

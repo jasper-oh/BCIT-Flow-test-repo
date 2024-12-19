@@ -1,0 +1,262 @@
+Courses for Program: https://www.bcit.ca/programs/electrical-engineering-bachelor-of-engineering-full-time-8030beng/
+--------------------------------------------------
+Course Number: COMM 1143
+Course Link: None
+Course Name: Technical Communications 1 for Electrical and Computer Engineering
+--------------------------------------------------
+Course Number: ELEX 0304
+Course Link: None
+Course Name: Learning Skills for Electrical and Computer Engineering Technology
+--------------------------------------------------
+Course Number: ELEX 1105
+Course Link: None
+Course Name: Circuit Analysis 1
+--------------------------------------------------
+Course Number: ELEX 1113
+Course Link: None
+Course Name: Electronic Fabrication Tools and Techniques
+--------------------------------------------------
+Course Number: ELEX 1117
+Course Link: None
+Course Name: Digital Techniques 1
+--------------------------------------------------
+Course Number: MATH 1431
+Course Link: None
+Course Name: Technical Mathematics for Electronics
+--------------------------------------------------
+Course Number: PHYS 1143
+Course Link: None
+Course Name: Physics for Electronics 1
+--------------------------------------------------
+Course Number: ELEX 2105
+Course Link: None
+Course Name: Circuit Analysis 2
+--------------------------------------------------
+Course Number: ELEX 2117
+Course Link: None
+Course Name: Digital Techniques 2
+--------------------------------------------------
+Course Number: ELEX 2120
+Course Link: None
+Course Name: Electronic Circuits 1
+--------------------------------------------------
+Course Number: ELEX 2125
+Course Link: None
+Course Name: C Programming for Electronics
+--------------------------------------------------
+Course Number: MATH 2431
+Course Link: None
+Course Name: Calculus for Electronics
+--------------------------------------------------
+Course Number: PHYS 2143
+Course Link: None
+Course Name: Physics for Electronics 2
+--------------------------------------------------
+Course Number: COMM 1243
+Course Link: None
+Course Name: Technical Documentation
+--------------------------------------------------
+Course Number: ELEX 1101
+Course Link: None
+Course Name: Introduction to Codes and Standards
+--------------------------------------------------
+Course Number: ELEX 1103
+Course Link: None
+Course Name: Introductory Networking
+--------------------------------------------------
+Course Number: ELEX 1104
+Course Link: None
+Course Name: Engineering Spreadsheets
+--------------------------------------------------
+Course Number: COMM 3690
+Course Link: None
+Course Name: Technical Communication for Engineering
+--------------------------------------------------
+Course Number: ELEX 3120
+Course Link: None
+Course Name: Electronic Circuits 2
+--------------------------------------------------
+Course Number: ELEX 3210
+Course Link: None
+Course Name: Sensors for Measurement and Control
+--------------------------------------------------
+Course Number: ELEX 3305
+Course Link: None
+Course Name: Microcontroller Systems
+--------------------------------------------------
+Course Number: ENGR 3800
+Course Link: None
+Course Name: Introduction to Professional Engineering
+--------------------------------------------------
+Course Number: MATH 3433
+Course Link: None
+Course Name: Transform Calculus and Statistics for Electronics
+--------------------------------------------------
+Course Number: MATH 3620
+Course Link: None
+Course Name: Differential Equations and Linear Algebra
+--------------------------------------------------
+Course Number: CHEM 3615
+Course Link: None
+Course Name: Engineering Chemistry
+--------------------------------------------------
+Course Number: ELEX 4618
+Course Link: None
+Course Name: Object Oriented Program Design
+--------------------------------------------------
+Course Number: MATH 4620
+Course Link: None
+Course Name: Multivariable and Vector Calculus
+--------------------------------------------------
+Course Number: MECH 4630
+Course Link: None
+Course Name: Statics and Dynamics
+--------------------------------------------------
+Course Number: MECH 4640
+Course Link: None
+Course Name: Thermodynamics
+--------------------------------------------------
+Course Number: MKTG 4690
+Course Link: None
+Course Name: Marketing and Communication for Engineers
+--------------------------------------------------
+Course Number: CHSC 7540
+Course Link: None
+Course Name: Engineering Materials
+--------------------------------------------------
+Course Number: ELEX 7520
+Course Link: None
+Course Name: Advanced Circuit Analysis
+--------------------------------------------------
+Course Number: ELEX 7530
+Course Link: None
+Course Name: Electromagnetics Fundamentals
+--------------------------------------------------
+Course Number: ELEX 7610
+Course Link: None
+Course Name: Linear Physical Systems
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: None
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: MATH 7510
+Course Link: None
+Course Name: Engineering Probability and Statistics
+--------------------------------------------------
+Course Number: OPMT 7000
+Course Link: None
+Course Name: Time Value of Money for Engineering Economics
+--------------------------------------------------
+Course Number: ELEX 7550
+Course Link: None
+Course Name: Power System Components
+--------------------------------------------------
+Course Number: ELEX 7620
+Course Link: None
+Course Name: Signal Processing and Filters
+--------------------------------------------------
+Course Number: ELEX 7640
+Course Link: None
+Course Name: Analog and Digital Communications
+--------------------------------------------------
+Course Number: ELEX 7660
+Course Link: None
+Course Name: Digital System Design
+--------------------------------------------------
+Course Number: ENGR 7480
+Course Link: None
+Course Name: Environment, Energy and Engineering
+--------------------------------------------------
+Course Number: OPMT 7031
+Course Link: None
+Course Name: Engineering Economics
+--------------------------------------------------
+Course Number: BUSA 7250
+Course Link: None
+Course Name: Management Skills and Applications
+--------------------------------------------------
+Course Number: COMM 7790
+Course Link: None
+Course Name: Technical Communication for Capstone Project Initiation
+--------------------------------------------------
+Course Number: ELEX 7710
+Course Link: None
+Course Name: Communication Networks
+--------------------------------------------------
+Course Number: ELEX 7720
+Course Link: None
+Course Name: Feedback Control
+--------------------------------------------------
+Course Number: ELEX 7790
+Course Link: None
+Course Name: Capstone Design Project Initiation
+--------------------------------------------------
+Course Number: COMM 7890
+Course Link: None
+Course Name: Technical Communication for Capstone Project Completion*
+--------------------------------------------------
+Course Number: ELEX 7890
+Course Link: None
+Course Name: Capstone Design Project Completion*
+--------------------------------------------------
+Course Number: ENGR 7880
+Course Link: None
+Course Name: Engineering Law Ethics and Professionalism
+--------------------------------------------------
+Course Number: LIBS 7007
+Course Link: None
+Course Name: Technology and Society
+--------------------------------------------------
+Course Number: LIBS 7005
+Course Link: None
+Course Name: Technology, Invention and Power
+--------------------------------------------------
+Course Number: ELEX 4651
+Course Link: None
+Course Name: Programmable Logic Controllers
+--------------------------------------------------
+Course Number: ELEX 4652
+Course Link: None
+Course Name: Industrial Electrical System Design
+--------------------------------------------------
+Course Number: ELEX 4653
+Course Link: None
+Course Name: Introduction to Python
+--------------------------------------------------
+Course Number: ELEX 4699
+Course Link: None
+Course Name: Electronics System Design Project
+--------------------------------------------------
+Course Number: ELEX 6992
+Course Link: None
+Course Name: Workplace Education Workterm
+--------------------------------------------------
+Course Number: COMP 7855
+Course Link: None
+Course Name: Software Systems
+--------------------------------------------------
+Course Number: ELEX 7810
+Course Link: None
+Course Name: Electrical Power System Analysis and Design
+--------------------------------------------------
+Course Number: ELEX 7815
+Course Link: None
+Course Name: Digital Image and Video Processing
+--------------------------------------------------
+Course Number: ELEX 7820
+Course Link: None
+Course Name: Real-Time Embedded Systems
+--------------------------------------------------
+Course Number: ELEX 7825
+Course Link: None
+Course Name: Robotic Systems Design
+--------------------------------------------------
+Course Number: ELEX 7860
+Course Link: None
+Course Name: Wireless System Design
+--------------------------------------------------
+Course Number: ELEX 7870
+Course Link: None
+Course Name: Industrial Control Systems
+--------------------------------------------------

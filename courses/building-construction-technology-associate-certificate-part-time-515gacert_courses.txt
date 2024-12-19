@@ -1,0 +1,26 @@
+Courses for Program: https://www.bcit.ca/programs/building-construction-technology-associate-certificate-part-time-515gacert/
+--------------------------------------------------
+Course Number: BLDC 1050
+Course Link: /courses/materials-and-methods-1-bldc-1050/
+Course Name: Materials and Methods 1
+--------------------------------------------------
+Course Number: BLDC 1200
+Course Link: /courses/construction-1-a-bldc-1200/
+Course Name: Construction 1 A
+--------------------------------------------------
+Course Number: BLDC 1205
+Course Link: /courses/construction-1-b-bldc-1205/
+Course Name: Construction 1 B
+--------------------------------------------------
+Course Number: BLDC 1300
+Course Link: /courses/estimating-1-bldc-1300/
+Course Name: Estimating 1
+--------------------------------------------------
+Course Number: BLDC 1500
+Course Link: /courses/bc-building-code-part-9-single-family-dwellings-bldc-1500/
+Course Name: BC Building Code: Part 9 (Single Family Dwellings)
+--------------------------------------------------
+Course Number: BLDC 2050
+Course Link: /courses/materials-and-methods-2-bldc-2050/
+Course Name: Materials and Methods 2
+--------------------------------------------------

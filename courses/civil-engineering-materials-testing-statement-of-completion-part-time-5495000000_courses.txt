@@ -1,0 +1,18 @@
+Courses for Program: https://www.bcit.ca/programs/civil-engineering-materials-testing-statement-of-completion-part-time-5495000000/
+--------------------------------------------------
+Course Number: CIVL 1580
+Course Link: /courses/construction-materials-testing-fundamentals-civl-1580/
+Course Name: Construction Materials Testing Fundamentals
+--------------------------------------------------
+Course Number: CIVL 2123
+Course Link: /courses/concrete-technology-civl-2123/
+Course Name: Concrete Technology
+--------------------------------------------------
+Course Number: CIVL 2124
+Course Link: /courses/asphalt-technology-civl-2124/
+Course Name: Asphalt Technology
+--------------------------------------------------
+Course Number: CIVL 2140
+Course Link: /courses/introduction-to-soil-mechanics-civl-2140/
+Course Name: Introduction to Soil Mechanics*
+--------------------------------------------------

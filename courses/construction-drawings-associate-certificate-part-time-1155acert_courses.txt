@@ -1,0 +1,30 @@
+Courses for Program: https://www.bcit.ca/programs/construction-drawings-associate-certificate-part-time-1155acert/
+--------------------------------------------------
+Course Number: ASCT 1010
+Course Link: /courses/introductory-graphics-asct-1010/
+Course Name: Introductory Graphics
+--------------------------------------------------
+Course Number: ASCT 1015
+Course Link: /courses/blueprint-reading-asct-1015/
+Course Name: Blueprint Reading
+--------------------------------------------------
+Course Number: ASCT 1020
+Course Link: /courses/introduction-to-cadd-drafting-asct-1020/
+Course Name: Introduction to CADD Drafting
+--------------------------------------------------
+Course Number: ASCT 1051
+Course Link: /courses/mathematics-for-technical-applications-asct-1051/
+Course Name: Mathematics for Technical Applications
+--------------------------------------------------
+Course Number: ASCT 1135
+Course Link: /courses/construction-drawings-for-commercial-buildings-asct-1135/
+Course Name: Construction Drawings for Commercial Buildings
+--------------------------------------------------
+Course Number: ASCT 1145
+Course Link: /courses/construction-drawings-for-industrial-buildings-asct-1145/
+Course Name: Construction Drawings for Industrial Buildings
+--------------------------------------------------
+Course Number: ASCT 1155
+Course Link: /courses/construction-drawings-for-residential-buildings-asct-1155/
+Course Name: Construction Drawings for Residential Buildings
+--------------------------------------------------

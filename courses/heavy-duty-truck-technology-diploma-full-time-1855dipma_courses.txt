@@ -1,0 +1,134 @@
+Courses for Program: https://www.bcit.ca/programs/heavy-duty-truck-technology-diploma-full-time-1855dipma/
+--------------------------------------------------
+Course Number: HDTT 1001
+Course Link: None
+Course Name: Occupational Skills
+--------------------------------------------------
+Course Number: HDTT 1010
+Course Link: None
+Course Name: Brakes
+--------------------------------------------------
+Course Number: HDTT 1020
+Course Link: None
+Course Name: Hydraulics
+--------------------------------------------------
+Course Number: HDTT 1030
+Course Link: None
+Course Name: Electrical
+--------------------------------------------------
+Course Number: HDTT 1040
+Course Link: None
+Course Name: Frames, Steering, Suspension
+--------------------------------------------------
+Course Number: HDTT 1050
+Course Link: None
+Course Name: Trailer
+--------------------------------------------------
+Course Number: HDTT 1060
+Course Link: None
+Course Name: Heating, Ventilation and Air Conditioning
+--------------------------------------------------
+Course Number: HDTT 1070
+Course Link: None
+Course Name: Structural Components
+--------------------------------------------------
+Course Number: HDTT 2001
+Course Link: None
+Course Name: Electrical Diagnostics
+--------------------------------------------------
+Course Number: HDTT 2010
+Course Link: None
+Course Name: Engine and Supporting Systems
+--------------------------------------------------
+Course Number: HDTT 2020
+Course Link: None
+Course Name: Advanced Frames, Steering and Suspension
+--------------------------------------------------
+Course Number: HDTT 2030
+Course Link: None
+Course Name: Advanced Hydraulics
+--------------------------------------------------
+Course Number: HDTT 2040
+Course Link: None
+Course Name: Advanced Brakes
+--------------------------------------------------
+Course Number: HDTT 2050
+Course Link: None
+Course Name: Communication for the Workshop
+--------------------------------------------------
+Course Number: HDTT 2060
+Course Link: None
+Course Name: Service Operations
+--------------------------------------------------
+Course Number: HDTT 2070
+Course Link: None
+Course Name: Mobile Refrigeration
+--------------------------------------------------
+Course Number: HDTT 3001
+Course Link: None
+Course Name: Powertrain
+--------------------------------------------------
+Course Number: HDTT 3010
+Course Link: None
+Course Name: Detroit Diesel Engines
+--------------------------------------------------
+Course Number: HDTT 3020
+Course Link: None
+Course Name: Detroit Diesel Diagnostics
+--------------------------------------------------
+Course Number: HDTT 3030
+Course Link: None
+Course Name: Detroit Diesel After-Treatment
+--------------------------------------------------
+Course Number: HDTT 3040
+Course Link: None
+Course Name: Power Generation
+--------------------------------------------------
+Course Number: HDTT 3050
+Course Link: None
+Course Name: Cummins Engines
+--------------------------------------------------
+Course Number: HDTT 3060
+Course Link: None
+Course Name: Paccar MX Engines
+--------------------------------------------------
+Course Number: HDTT 3070
+Course Link: None
+Course Name: Communication Skills for the Heavy Duty Truck Industry
+--------------------------------------------------
+Course Number: HDTT 3080
+Course Link: None
+Course Name: Service Management Financial Concepts
+--------------------------------------------------
+Course Number: HDTT 3990
+Course Link: None
+Course Name: Co-op Work Term
+--------------------------------------------------
+Course Number: HDTT 4001
+Course Link: None
+Course Name: Emerging Technologies
+--------------------------------------------------
+Course Number: HDTT 4010
+Course Link: None
+Course Name: Research Technology Projects
+--------------------------------------------------
+Course Number: HDTT 4020
+Course Link: None
+Course Name: Capstone Project
+--------------------------------------------------
+Course Number: HDTT 4030
+Course Link: None
+Course Name: CVSE/CVSA Vehicle Inspection
+--------------------------------------------------
+Course Number: HDTT 4040
+Course Link: None
+Course Name: Vehicle Software Programming
+--------------------------------------------------
+Course Number: HDTT 4050
+Course Link: None
+Course Name: Prepare for Certification Exam
+--------------------------------------------------
+Course Number: HDTT 4060
+Course Link: None
+Course Name: AC Motors and Control
+--------------------------------------------------

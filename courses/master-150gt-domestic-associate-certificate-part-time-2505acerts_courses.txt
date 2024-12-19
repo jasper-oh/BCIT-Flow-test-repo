@@ -1,0 +1,30 @@
+Courses for Program: https://www.bcit.ca/programs/master-150gt-domestic-associate-certificate-part-time-2505acerts/
+--------------------------------------------------
+Course Number: ENAV 1020
+Course Link: /courses/simulated-electronic-navigation-limited-enav-1020/
+Course Name: Simulated Electronic Navigation Limited
+--------------------------------------------------
+Course Number: NAUT 1820
+Course Link: /courses/cp-2-chartwork-and-pilotage-2-naut-1820/
+Course Name: C&P 2 - Chartwork and Pilotage 2
+--------------------------------------------------
+Course Number: NAUT 1840
+Course Link: /courses/ns-1-navigation-safety-1-naut-1840/
+Course Name: NS 1 - Navigation Safety 1
+--------------------------------------------------
+Course Number: NAUT 1850
+Course Link: /courses/met-1-meteorology-1-naut-1850/
+Course Name: MET 1 - Meteorology 1
+--------------------------------------------------
+Course Number: NAUT 1863
+Course Link: /courses/scs-3-ship-construction-and-stability-3-naut-1863/
+Course Name: SCS 3 - Ship Construction and Stability 3
+--------------------------------------------------
+Course Number: NAUT 1874
+Course Link: /courses/gsk-3-general-ship-knowledge-3-naut-1874/
+Course Name: GSK 3 - General Ship Knowledge 3
+--------------------------------------------------
+Course Number: NAUT 1886
+Course Link: /courses/general-seamanship-master-150gt-domestic-naut-1886/
+Course Name: General Seamanship Master 150GT Domestic
+--------------------------------------------------

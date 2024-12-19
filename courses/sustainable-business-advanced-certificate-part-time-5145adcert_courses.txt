@@ -1,0 +1,46 @@
+Courses for Program: https://www.bcit.ca/programs/sustainable-business-advanced-certificate-part-time-5145adcert/
+--------------------------------------------------
+Course Number: BSUS 5130
+Course Link: /courses/sustainable-business-leadership-skills-and-values-bsus-5130/
+Course Name: Sustainable Business Leadership: Skills and Values
+--------------------------------------------------
+Course Number: BSUS 5140
+Course Link: /courses/earth-systems-and-environmental-policy-bsus-5140/
+Course Name: Earth Systems and Environmental Policy
+--------------------------------------------------
+Course Number: BSUS 5210
+Course Link: /courses/sustainable-business-models-bsus-5210/
+Course Name: Sustainable Business Models
+--------------------------------------------------
+Course Number: FMGT 5330
+Course Link: /courses/impact-measurement-and-reporting-fmgt-5330/
+Course Name: Impact Measurement & Reporting
+--------------------------------------------------
+Course Number: OPMT 5120
+Course Link: /courses/sustainable-business-operations-opmt-5120/
+Course Name: Sustainable Business Operations
+--------------------------------------------------
+Course Number: BSUS 5190
+Course Link: /courses/sustainable-business-industry-project-bsus-5190/
+Course Name: Sustainable Business Industry Project*
+--------------------------------------------------
+Course Number: BSUS 5110
+Course Link: /courses/sustainable-business-strategy-bsus-5110/
+Course Name: Sustainable Business Strategy
+--------------------------------------------------
+Course Number: BSUS 5220
+Course Link: /courses/circular-economy-bsus-5220/
+Course Name: Circular Economy
+--------------------------------------------------
+Course Number: BSUS 5350
+Course Link: /courses/producing-a-data-driven-impact-report-bsus-5350/
+Course Name: Producing a Data-Driven Impact Report
+--------------------------------------------------
+Course Number: ORGB 5230
+Course Link: /courses/sustainable-change-management-and-leadership-orgb-5230/
+Course Name: Sustainable Change Management and Leadership
+--------------------------------------------------
+Course Number: OPMT 5310
+Course Link: /courses/sustainability-management-systems-for-business-leaders-opmt-5310/
+Course Name: Sustainability Management Systems for Business Leaders
+--------------------------------------------------

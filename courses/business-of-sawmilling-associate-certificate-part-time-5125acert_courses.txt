@@ -1,0 +1,22 @@
+Courses for Program: https://www.bcit.ca/programs/business-of-sawmilling-associate-certificate-part-time-5125acert/
+--------------------------------------------------
+Course Number: ECON 1610
+Course Link: /courses/lumber-industry-economics-econ-1610/
+Course Name: Lumber Industry Economics
+--------------------------------------------------
+Course Number: FMGT 1660
+Course Link: /courses/finance-fundamentals-for-sawmill-managers-fmgt-1660/
+Course Name: Finance Fundamentals for Sawmill Managers
+--------------------------------------------------
+Course Number: WOOD 2610
+Course Link: /courses/process-reliability-and-optimization-for-the-lumber-industry-wood-2610/
+Course Name: Process Reliability and Optimization for the Lumber Industry
+--------------------------------------------------
+Course Number: WOOD 2620
+Course Link: /courses/fundamentals-of-sawmill-residuals-wood-2620/
+Course Name: Fundamentals of Sawmill Residuals
+--------------------------------------------------
+Course Number: MKTG 2760
+Course Link: /courses/lumber-sales-and-marketing-mktg-2760/
+Course Name: Lumber Sales and Marketing
+--------------------------------------------------

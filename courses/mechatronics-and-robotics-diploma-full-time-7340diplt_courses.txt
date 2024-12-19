@@ -1,0 +1,102 @@
+Courses for Program: https://www.bcit.ca/programs/mechatronics-and-robotics-diploma-full-time-7340diplt/
+--------------------------------------------------
+Course Number: COMM 1164
+Course Link: None
+Course Name: Technical Writing 1 for Robotics
+--------------------------------------------------
+Course Number: ELEX 1205
+Course Link: None
+Course Name: DC Circuit Analysis for Robotics
+--------------------------------------------------
+Course Number: ELEX 1215
+Course Link: None
+Course Name: Digital Techniques 1 for Robotics
+--------------------------------------------------
+Course Number: MATH 1342
+Course Link: None
+Course Name: Technical Math for Robotics
+--------------------------------------------------
+Course Number: MECH 1104
+Course Link: None
+Course Name: Computer Aided Design
+--------------------------------------------------
+Course Number: PHYS 1164
+Course Link: None
+Course Name: Physics for Robotics 1
+--------------------------------------------------
+Course Number: ELEX 2205
+Course Link: None
+Course Name: AC Circuits for Robotics
+--------------------------------------------------
+Course Number: ELEX 2220
+Course Link: None
+Course Name: Digital and Electronic Circuits
+--------------------------------------------------
+Course Number: MATH 2342
+Course Link: None
+Course Name: Calculus for Robotics
+--------------------------------------------------
+Course Number: MECH 1210
+Course Link: None
+Course Name: Manufacturing Processes
+--------------------------------------------------
+Course Number: PHYS 2164
+Course Link: None
+Course Name: Applied Physics 2 for Robotics
+--------------------------------------------------
+Course Number: ROBT 1270
+Course Link: None
+Course Name: C Programming
+--------------------------------------------------
+Course Number: ELEX 3321
+Course Link: None
+Course Name: Electronics Circuits 2 (Robotics)
+--------------------------------------------------
+Course Number: MATH 3342
+Course Link: None
+Course Name: Transform Calculus and Statistics (Mechatronics & Robotics)
+--------------------------------------------------
+Course Number: MECH 3356
+Course Link: None
+Course Name: Fluid Power
+--------------------------------------------------
+Course Number: ROBT 3341
+Course Link: None
+Course Name: Robot Applications
+--------------------------------------------------
+Course Number: ROBT 3351
+Course Link: None
+Course Name: Automation Equipment
+--------------------------------------------------
+Course Number: ROBT 3356
+Course Link: None
+Course Name: Controller Systems
+--------------------------------------------------
+Course Number: COMM 2464
+Course Link: None
+Course Name: Technical Writing 2 for Robotics
+--------------------------------------------------
+Course Number: ELEX 4336
+Course Link: None
+Course Name: Feedback Systems
+--------------------------------------------------
+Course Number: MECH 0460
+Course Link: None
+Course Name: Ethics for Technologists
+--------------------------------------------------
+Course Number: OPMT 1184
+Course Link: None
+Course Name: Industrial Engineering
+--------------------------------------------------
+Course Number: ROBT 4451
+Course Link: None
+Course Name: Sensor Interfacing
+--------------------------------------------------
+Course Number: ROBT 4456
+Course Link: None
+Course Name: PLC Applications
+--------------------------------------------------
+Course Number: ROBT 4491
+Course Link: None
+Course Name: Mechatronics Project
+--------------------------------------------------

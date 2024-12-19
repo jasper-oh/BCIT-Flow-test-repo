@@ -1,0 +1,30 @@
+Courses for Program: https://www.bcit.ca/programs/critical-care-nursing-specialty-combined-critical-care-emergency-option-advanced-certificate-part-time-680lascert/
+--------------------------------------------------
+Course Number: NSCC 7120
+Course Link: /courses/critical-care-nursing-theory-1-nscc-7120/
+Course Name: Critical Care Nursing Theory 1
+--------------------------------------------------
+Course Number: NSCC 7150
+Course Link: /courses/dysrhythmia-interpretation-and-management-nscc-7150/
+Course Name: Dysrhythmia Interpretation and Management
+--------------------------------------------------
+Course Number: NSCC 7220
+Course Link: /courses/critical-care-nursing-theory-2-nscc-7220/
+Course Name: Critical Care Nursing Theory 2
+--------------------------------------------------
+Course Number: NSCC 7320
+Course Link: /courses/critical-care-nursing-theory-3-nscc-7320/
+Course Name: Critical Care Nursing Theory 3
+--------------------------------------------------
+Course Number: NSCC 7420
+Course Link: /courses/critical-care-nursing-clinical-1-nscc-7420/
+Course Name: Critical Care Nursing Clinical 1
+--------------------------------------------------
+Course Number: NSER 7410
+Course Link: /courses/emergency-nursing-theory-3-nser-7410/
+Course Name: Emergency Nursing Theory 3
+--------------------------------------------------
+Course Number: NSER 7500
+Course Link: /courses/emergency-nursing-clinical-2-nser-7500/
+Course Name: Emergency Nursing Clinical 2
+--------------------------------------------------

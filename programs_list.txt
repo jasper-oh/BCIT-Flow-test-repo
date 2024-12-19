@@ -1,0 +1,3148 @@
+Programs from: https://www.bcit.ca/study/applied-natural-sciences/programs/
+--------------------------------------------------
+Program Name: Advanced Forensic Nurse Examinerinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/advanced-forensic-nurse-examiner-microcredential-part-time-0813cm/
+--------------------------------------------------
+Program Name: Applied Circular Economy: Zero Waste Buildingsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-circular-economy-zero-waste-buildings-microcredential-part-time-0816cm/
+--------------------------------------------------
+Program Name: Applied Data AnalyticsinternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/
+--------------------------------------------------
+Program Name: Assayer Traininginternational
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/assayer-training-statement-of-completion-part-time-5360nobcit/
+--------------------------------------------------
+Program Name: Biomedical Engineering Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/biomedical-engineering-technology-diploma-full-time-5063dipma/
+--------------------------------------------------
+Program Name: Building Controls & Energy Managementinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-controls-and-energy-management-advanced-certificate-part-time-5095adcert/
+--------------------------------------------------
+Program Name: Building Energy Modelling and Simulationinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-energy-modelling-and-simulation-microcredential-part-time-0829cm/
+--------------------------------------------------
+Program Name: Business of Sawmilling
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-of-sawmilling-associate-certificate-part-time-5125acert/
+--------------------------------------------------
+Program Name: Canadian Engineering Professional Practiceinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/canadian-engineering-professional-practice-microcredential-part-time-0852cm/
+--------------------------------------------------
+Program Name: Chemical and Environmental Technology (Analytical Science Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/chemical-and-environmental-technology-analytical-science-option-diploma-full-time-537adiplt/
+--------------------------------------------------
+Program Name: Chemical and Environmental Technology (Process Engineering Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/chemical-and-environmental-technology-process-engineering-option-diploma-full-time-537bdiplt/
+--------------------------------------------------
+Program Name: Climate Changemakers Leadership Traininginternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/climate-changemakers-leadership-training-microcredential-part-time-0861cm/
+--------------------------------------------------
+Program Name: Combined Honours in Biochemistry and Forensic ScienceinternationalPGWP
+Credential: Bachelor of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/combined-honours-in-biochemistry-and-forensic-science-bachelor-of-science-full-time-9940bsc/
+--------------------------------------------------
+Program Name: Construction of Mass Timber Structuresinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-of-mass-timber-structures-associate-certificate-part-time-5225acert/
+--------------------------------------------------
+Program Name: Drone Applications for Environmental Risk Assessment
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/drone-applications-for-environmental-risk-assessment-microcredential-part-time-0836cm/
+--------------------------------------------------
+Program Name: Ecological RestorationinternationalPGWP
+Credential: Bachelor of Science
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/ecological-restoration-bachelor-of-science-full-time-part-time-8040bsc/
+--------------------------------------------------
+Program Name: Ecological RestorationinternationalPGWP
+Credential: Master of Science
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/ecological-restoration-master-of-science-full-time-part-time-m410msc/
+--------------------------------------------------
+Program Name: Environmental EngineeringinternationalPGWP
+Credential: Bachelor of Technology
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/environmental-engineering-bachelor-of-technology-full-time-part-time-8120btech/
+--------------------------------------------------
+Program Name: Environmental Public HealthinternationalPGWP
+Credential: Bachelor of Environmental Public Health
+Format: Full-time
+Link: https://www.bcit.ca/programs/environmental-public-health-bachelor-of-environmental-public-health-full-time-8520benvh/
+--------------------------------------------------
+Program Name: Essential Field Skills for Environmental Professionals
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essential-field-skills-for-environmental-professionals-microcredential-part-time-0814cm/
+--------------------------------------------------
+Program Name: Essentials of Community Energy and Emissions Managementinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essentials-of-community-energy-and-emissions-management-microcredential-part-time-0854cm/
+--------------------------------------------------
+Program Name: Essentials of Natural Resource and Environmental Protection (MENREP)
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essentials-of-natural-resource-and-environmental-protection-menrep-microcredential-part-time-0801cm/
+--------------------------------------------------
+Program Name: Fish, Wildlife and Recreationinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/fish-wildlife-and-recreation-diploma-full-time-7935dipma/
+--------------------------------------------------
+Program Name: Food Safety
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/food-safety-associate-certificate-part-time-6365acert/
+--------------------------------------------------
+Program Name: Food Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/food-technology-diploma-full-time-5135dipma/
+--------------------------------------------------
+Program Name: Forensic Investigation (Crime and Intelligence Analysis Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-crime-and-intelligence-analysis-option-advanced-certificate-part-time-528aadcert/
+--------------------------------------------------
+Program Name: Forensic Investigation (Crime and Intelligence Analysis Option)internationalPGWP
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-crime-and-intelligence-analysis-option-bachelor-of-technology-part-time-847abtech/
+--------------------------------------------------
+Program Name: Forensic Investigation (Digital Forensics and Cybersecurity Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-advanced-certificate-part-time-528cadcert/
+--------------------------------------------------
+Program Name: Forensic Investigation (Digital Forensics and Cybersecurity Option)internationalPGWP
+Credential: Bachelor of Technology
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/
+--------------------------------------------------
+Program Name: Forensic Investigation (Forensic Science Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-forensic-science-option-advanced-certificate-part-time-528badcert/
+--------------------------------------------------
+Program Name: Forensic Investigation (Forensic Science Option)international
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-forensic-science-option-bachelor-of-technology-part-time-847bbtech/
+--------------------------------------------------
+Program Name: Forensic Nurse Death Investigatorinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-nurse-death-investigator-microcredential-part-time-0833cm/
+--------------------------------------------------
+Program Name: Forensic Nurse Examiner Education for RNs
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-nurse-examiner-education-for-rns-microcredential-part-time-0804cm/
+--------------------------------------------------
+Program Name: Forest and Natural Areas Managementinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/forest-and-natural-areas-management-diploma-full-time-7470dipma/
+--------------------------------------------------
+Program Name: Fraud and Financial Crime Investigationinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/fraud-and-financial-crime-investigation-microcredential-part-time-0850cm/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-advanced-certificate-part-time-5440adcert/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Advanced Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-advanced-diploma-full-time-9100fadvdip/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Advanced Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-advanced-diploma-part-time-9100padvdip/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Bachelor of Technology
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-bachelor-of-technology-full-time-part-time-8310btech/
+--------------------------------------------------
+Program Name: Geomaticsinternational
+Credential: Bachelor of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/
+--------------------------------------------------
+Program Name: Geomatics Engineering Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/geomatics-engineering-technology-diploma-full-time-7535dipma/
+--------------------------------------------------
+Program Name: Honours in Biotechnologyinternationalco-opPGWP
+Credential: Bachelor of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/honours-in-biotechnology-bachelor-of-science-full-time-8910bsc/
+--------------------------------------------------
+Program Name: Industrial Network CybersecurityinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/industrial-network-cybersecurity-diploma-full-time-5265dipma/
+--------------------------------------------------
+Program Name: Industrial Wood Processing
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/industrial-wood-processing-associate-certificate-part-time-5160acert/
+--------------------------------------------------
+Program Name: Introduction to Forest Health Quantification with RPAS
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/introduction-to-forest-health-quantification-with-rpas-microcredential-part-time-0817cm/
+--------------------------------------------------
+Program Name: Marine Engineeringco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/marine-engineering-diploma-full-time-2942dipma/
+--------------------------------------------------
+Program Name: Mineral Exploration and Mining Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/mineral-exploration-and-mining-technology-diploma-full-time-6640dipma/
+--------------------------------------------------
+Program Name: Mining and Mineral Resource EngineeringinternationalPGWP
+Credential: Bachelor of Engineering
+Format: Full-time
+Link: https://www.bcit.ca/programs/mining-and-mineral-resource-engineering-bachelor-of-engineering-full-time-8610beng/
+--------------------------------------------------
+Program Name: Nautical Sciencesco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/nautical-sciences-diploma-full-time-2536dipma/
+--------------------------------------------------
+Program Name: Principles of Regenerative Building
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/principles-of-regenerative-building-microcredential-part-time-0853cm/
+--------------------------------------------------
+Program Name: Smart Grid Systems and TechnologiesinternationalPGWP
+Credential: Master of Engineering
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/smart-grid-systems-and-technologies-master-of-engineering-full-time-part-time-m500meng/
+--------------------------------------------------
+Program Name: Sustainable Energy Managementinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/sustainable-energy-management-advanced-certificate-part-time-5070adcert/
+--------------------------------------------------
+Program Name: Technology Managementinternational
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/technology-management-bachelor-of-technology-part-time-8350btech/
+--------------------------------------------------
+Program Name: Whole-Building Life Cycle Assessment Professionalinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/whole-building-life-cycle-assessment-professional-microcredential-part-time-0830cm/
+--------------------------------------------------
+
+Programs from: https://www.bcit.ca/study/business-media/programs/
+--------------------------------------------------
+Program Name: Canadian Employment Readiness (CER)international
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/canadian-employment-readiness-cer-microcredential-part-time-0825cm/
+--------------------------------------------------
+Program Name: International Education Practitioner - Foundationinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/international-education-practitioner-foundation-microcredential-part-time-0835cm/
+--------------------------------------------------
+Program Name: International Student Entryinternational
+Credential: None
+Format: Full-time
+Link: https://www.bcit.ca/programs/international-student-entry-full-time-0120nobcit/
+--------------------------------------------------
+Program Name: Spanish Language and Culture Fundamentalsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/spanish-language-and-culture-fundamentals-microcredential-part-time-0843cm/
+--------------------------------------------------
+Program Name: Student Mobility Preparednessinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/student-mobility-preparedness-microcredential-part-time-0828cm/
+--------------------------------------------------
+Program Name: Accountinginternational
+Credential: Bachelor of Accounting
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/accounting-bachelor-of-accounting-full-time-part-time-8630bacc/
+--------------------------------------------------
+Program Name: Accountinginternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/
+--------------------------------------------------
+Program Name: Accountinginternational
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/accounting-diploma-part-time-6035pdipma/
+--------------------------------------------------
+Program Name: Computerized Accountinginternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/computerized-accounting-associate-certificate-part-time-5725acert/
+--------------------------------------------------
+Program Name: Data Visualization with MS Power BIinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/data-visualization-with-ms-power-bi-microcredential-part-time-0842cm/
+--------------------------------------------------
+Program Name: Financeinternational
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/finance-diploma-part-time-6045pdipma/
+--------------------------------------------------
+Program Name: Financeinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/finance-diploma-full-time-6045dipma/
+--------------------------------------------------
+Program Name: Financial Management (Finance Option)international
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/financial-management-finance-option-certificate-part-time-585cmcert/
+--------------------------------------------------
+Program Name: Financial Management (Financial Planning)international
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/financial-management-financial-planning-associate-certificate-part-time-585iacert/
+--------------------------------------------------
+Program Name: Financial Management (Professional Accounting Option)international
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/financial-management-professional-accounting-option-certificate-part-time-585fmcert/
+--------------------------------------------------
+Program Name: Financial Planninginternational
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/financial-planning-diploma-part-time-6055pdipma/
+--------------------------------------------------
+Program Name: Financial Planninginternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/financial-planning-diploma-full-time-6055dipma/
+--------------------------------------------------
+Program Name: Fraud and Financial Crime Investigationinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/fraud-and-financial-crime-investigation-microcredential-part-time-0850cm/
+--------------------------------------------------
+Program Name: General Insurance and Risk Managementinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/general-insurance-and-risk-management-diploma-full-time-5880diplt/
+--------------------------------------------------
+Program Name: Payroll Administrationinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/payroll-administration-certificate-part-time-6008cert/
+--------------------------------------------------
+Program Name: Payroll and Human Resourcesinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/payroll-and-human-resources-associate-certificate-part-time-6005acert/
+--------------------------------------------------
+Program Name: Professional Accountinginternational
+Credential: Advanced Diploma
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/professional-accounting-advanced-diploma-full-time-part-time-5290advdip/
+--------------------------------------------------
+Program Name: Sustainable Business
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/sustainable-business-advanced-certificate-part-time-5145adcert/
+--------------------------------------------------
+Program Name: Broadcast and Digital Journalisminternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/broadcast-and-digital-journalism-associate-certificate-part-time-6115acert/
+--------------------------------------------------
+Program Name: Broadcast and Online Journalisminternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/broadcast-and-online-journalism-diploma-full-time-6135dipma/
+--------------------------------------------------
+Program Name: Data Visualization with MS Power BIinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/data-visualization-with-ms-power-bi-microcredential-part-time-0842cm/
+--------------------------------------------------
+Program Name: Music Businessinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/music-business-associate-certificate-part-time-5115acert/
+--------------------------------------------------
+Program Name: Polytechnic Teaching
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/polytechnic-teaching-associate-certificate-part-time-5175acert/
+--------------------------------------------------
+Program Name: Radio Arts and Entertainmentinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/radio-arts-and-entertainment-associate-certificate-part-time-6125acert/
+--------------------------------------------------
+Program Name: Radio Arts and Entertainmentinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/radio-arts-and-entertainment-diploma-full-time-6110dipma/
+--------------------------------------------------
+Program Name: Script Supervision and Continuity for Film and TVinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/script-supervision-and-continuity-for-film-and-tv-microcredential-part-time-0803cm/
+--------------------------------------------------
+Program Name: Television & Video Productioninternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/television-and-video-production-diploma-full-time-6130dipma/
+--------------------------------------------------
+Program Name: Video Production and Editinginternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/video-production-and-editing-associate-certificate-part-time-6120acert/
+--------------------------------------------------
+Program Name: Bachelor of Business Administrationinternational
+Credential: Bachelor of Business Administration
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/bachelor-of-business-administration-bachelor-of-business-administration-full-time-part-time-9975bba/
+--------------------------------------------------
+Program Name: Business Administrationinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-associate-certificate-part-time-5140acert/
+--------------------------------------------------
+Program Name: Business Administrationinternational
+Credential: Graduate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-administration-graduate-certificate-full-time-a700grcert/
+--------------------------------------------------
+Program Name: Business Administration (General Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-general-option-diploma-part-time-703adipma/
+--------------------------------------------------
+Program Name: Business Administration (Global Studies Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-global-studies-option-diploma-part-time-703bdipma/
+--------------------------------------------------
+Program Name: Business Administration (Human Resources Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-human-resources-option-diploma-part-time-703cdipma/
+--------------------------------------------------
+Program Name: Business Administration (Management Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-management-option-diploma-part-time-703ddipma/
+--------------------------------------------------
+Program Name: Business Administration (Marketing Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-marketing-option-diploma-part-time-703edipma/
+--------------------------------------------------
+Program Name: Business Analyticsinternational
+Credential: Graduate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-analytics-graduate-certificate-full-time-a600grcert/
+--------------------------------------------------
+Program Name: Business Fundamentalsinternational
+Credential: Associate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-fundamentals-associate-certificate-full-time-7985acert/
+--------------------------------------------------
+Program Name: Business Managementinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-management-certificate-part-time-6245mcert/
+--------------------------------------------------
+Program Name: Business Managementinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-management-diploma-full-time-6245diplt/
+--------------------------------------------------
+Program Name: Business Management - Advanced Diplomainternational
+Credential: Advanced Diploma
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/business-management-advanced-diploma-advanced-diploma-full-time-part-time-5312advdip/
+--------------------------------------------------
+Program Name: Business of Sawmilling
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-of-sawmilling-associate-certificate-part-time-5125acert/
+--------------------------------------------------
+Program Name: Data Visualization with MS Power BIinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/data-visualization-with-ms-power-bi-microcredential-part-time-0842cm/
+--------------------------------------------------
+Program Name: Dental Office Receptionist
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/dental-office-receptionist-statement-of-completion-part-time-0440000000/
+--------------------------------------------------
+Program Name: Fire Executive Management
+Credential: BCIT/Industry Partnership Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/fire-executive-management-bcit-industry-partnership-certificate-part-time-6270ipcert/
+--------------------------------------------------
+Program Name: Global Business Studiesinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/global-business-studies-associate-certificate-part-time-6225acert/
+--------------------------------------------------
+Program Name: Global Leadershipinternational
+Credential: Graduate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/global-leadership-graduate-certificate-full-time-a500grcert/
+--------------------------------------------------
+Program Name: Healthcare Unit Clerkinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/healthcare-unit-clerk-associate-certificate-part-time-5170acert/
+--------------------------------------------------
+Program Name: Human Resource Managementinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/human-resource-management-associate-certificate-part-time-7610acert/
+--------------------------------------------------
+Program Name: Human Resource Managementinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/human-resource-management-certificate-part-time-625amcert/
+--------------------------------------------------
+Program Name: Human Resource Managementinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/human-resource-management-diploma-full-time-625adiplt/
+--------------------------------------------------
+Program Name: Human Resource Management (Advanced Placement – Degree/Diploma entry)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/human-resource-management-advanced-placement-degree-diploma-entry-diploma-full-time-5950diplt/
+--------------------------------------------------
+Program Name: Human Resourcesinternational
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/human-resources-statement-of-completion-part-time-0225000000/
+--------------------------------------------------
+Program Name: Leadershipinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/leadership-associate-certificate-part-time-6830acert/
+--------------------------------------------------
+Program Name: Leadershipinternational
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/leadership-statement-of-completion-part-time-0290000000/
+--------------------------------------------------
+Program Name: Long-term Care Managementinternational
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/long-term-care-management-statement-of-completion-part-time-0520000000/
+--------------------------------------------------
+Program Name: Management Skills in Communication and Negotiationinternational
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/management-skills-in-communication-and-negotiation-statement-of-completion-part-time-0500000000/
+--------------------------------------------------
+Program Name: Marine Business Essentialsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/marine-business-essentials-microcredential-part-time-0864cm/
+--------------------------------------------------
+Program Name: Medical Office Assistantinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/medical-office-assistant-associate-certificate-part-time-6630acert/
+--------------------------------------------------
+Program Name: Office Administrator with Technology Program (OAT)international
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/office-administrator-with-technology-program-oat-certificate-full-time-6998cert/
+--------------------------------------------------
+Program Name: Payroll Administrationinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/payroll-administration-certificate-part-time-6008cert/
+--------------------------------------------------
+Program Name: Payroll and Human Resourcesinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/payroll-and-human-resources-associate-certificate-part-time-6005acert/
+--------------------------------------------------
+Program Name: Small Business Managementinternational
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/small-business-management-statement-of-completion-part-time-0205000000/
+--------------------------------------------------
+Program Name: Sustainable Business
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/sustainable-business-advanced-certificate-part-time-5145adcert/
+--------------------------------------------------
+Program Name: Sustainable Business LeadershipinternationalPGWP
+Credential: Advanced Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/sustainable-business-leadership-advanced-diploma-full-time-5180advdip/
+--------------------------------------------------
+Program Name: Sustainable Business LeadershipinternationalPGWP
+Credential: Advanced Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/sustainable-business-leadership-advanced-diploma-part-time-5180padvdip/
+--------------------------------------------------
+Program Name: Technical Communication Essentialsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/technical-communication-essentials-microcredential-part-time-0826cm/
+--------------------------------------------------
+Program Name: Technical Writinginternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/technical-writing-associate-certificate-part-time-6425acert/
+--------------------------------------------------
+Program Name: 3D Modeling, Art and Animationinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/3d-modeling-art-and-animation-diploma-full-time-6575dipma/
+--------------------------------------------------
+Program Name: Bachelor of Creative IndustriesinternationalPGWP
+Credential: Bachelor of Creative Industries
+Format: Full-time
+Link: https://www.bcit.ca/programs/bachelor-of-creative-industries-bachelor-of-creative-industries-full-time-9980bci/
+--------------------------------------------------
+Program Name: Digital Design and DevelopmentinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/
+--------------------------------------------------
+Program Name: Digital Media Foundations
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/digital-media-foundations-associate-certificate-part-time-5365acert/
+--------------------------------------------------
+Program Name: Digital Photographyinternational
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/digital-photography-statement-of-completion-part-time-0445000000/
+--------------------------------------------------
+Program Name: Front-End Web Developerinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/front-end-web-developer-certificate-full-time-6535cert/
+--------------------------------------------------
+Program Name: Full-Stack Web DevelopmentinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/full-stack-web-development-diploma-full-time-7540dipma/
+--------------------------------------------------
+Program Name: Graphic Communicationsinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/graphic-communications-diploma-full-time-6247dipma/
+--------------------------------------------------
+Program Name: Graphic DesigninternationalPGWP
+Credential: Certificate
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/graphic-design-certificate-full-time-part-time-6585cert/
+--------------------------------------------------
+Program Name: Graphic Design Foundationsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/graphic-design-foundations-associate-certificate-part-time-6505acert/
+--------------------------------------------------
+Program Name: Houdini for Visual Effects and Dynamics
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/houdini-for-visual-effects-and-dynamics-statement-of-completion-part-time-0415000000/
+--------------------------------------------------
+Program Name: Introduction to Full-Stack Web Developmentinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/introduction-to-full-stack-web-development-microcredential-part-time-0840cm/
+--------------------------------------------------
+Program Name: Masters of Digital Mediainternational
+Credential: None
+Format: Full-time
+Link: https://www.bcit.ca/programs/masters-of-digital-media-full-time-0210nobcit/
+--------------------------------------------------
+Program Name: Media Techniques and Marketing CommunicationsinternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/media-techniques-and-marketing-communications-certificate-part-time-630pmcert/
+--------------------------------------------------
+Program Name: Media Techniques for Businessinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/media-techniques-for-business-certificate-part-time-6450mcert/
+--------------------------------------------------
+Program Name: New Media Design and Web DevelopmentinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/
+--------------------------------------------------
+Program Name: Technical ArtsinternationalPGWP
+Credential: Advanced Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/technical-arts-advanced-diploma-full-time-5240advdip/
+--------------------------------------------------
+Program Name: User Interface (UI) and User Experience (UX) Designinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/user-interface-ui-and-user-experience-ux-design-associate-certificate-part-time-5985acert/
+--------------------------------------------------
+Program Name: Web Development Foundations (WDF)international
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/web-development-foundations-wdf-microcredential-part-time-0841cm/
+--------------------------------------------------
+Program Name: Web Technologiesinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/web-technologies-associate-certificate-part-time-6420acert/
+--------------------------------------------------
+Program Name: Web Technologiesinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/web-technologies-certificate-part-time-6420cert/
+--------------------------------------------------
+Program Name: Business Administration (General Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-general-option-diploma-part-time-703adipma/
+--------------------------------------------------
+Program Name: Business Administration (Global Studies Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-global-studies-option-diploma-part-time-703bdipma/
+--------------------------------------------------
+Program Name: Business Administration (Human Resources Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-human-resources-option-diploma-part-time-703cdipma/
+--------------------------------------------------
+Program Name: Business Administration (Management Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-management-option-diploma-part-time-703ddipma/
+--------------------------------------------------
+Program Name: Business Administration (Marketing Option)international
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-administration-marketing-option-diploma-part-time-703edipma/
+--------------------------------------------------
+Program Name: Business Analyticsinternational
+Credential: Graduate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-analytics-graduate-certificate-full-time-a600grcert/
+--------------------------------------------------
+Program Name: Data Visualization with MS Power BIinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/data-visualization-with-ms-power-bi-microcredential-part-time-0842cm/
+--------------------------------------------------
+Program Name: Digital Marketing Foundationsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/digital-marketing-foundations-associate-certificate-part-time-6375acert/
+--------------------------------------------------
+Program Name: Digital Marketing Strategyinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/digital-marketing-strategy-associate-certificate-part-time-6385acert/
+--------------------------------------------------
+Program Name: Event Marketing and Management Strategyinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/event-marketing-and-management-strategy-certificate-part-time-5077cert/
+--------------------------------------------------
+Program Name: Event Marketing and Planning Foundations
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/event-marketing-and-planning-foundations-associate-certificate-part-time-6315acert/
+--------------------------------------------------
+Program Name: Marketing Managementinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/marketing-management-certificate-part-time-6300mcert/
+--------------------------------------------------
+Program Name: Marketing Managementinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/marketing-management-diploma-full-time-6422dipma/
+--------------------------------------------------
+Program Name: Marketing Management (Digital Marketing and Brand Strategy Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/marketing-management-digital-marketing-and-brand-strategy-option-diploma-full-time-642adipma/
+--------------------------------------------------
+Program Name: Marketing Management (Entrepreneurship Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/marketing-management-entrepreneurship-option-diploma-full-time-642cdipma/
+--------------------------------------------------
+Program Name: Marketing Management (Marketing Communications Option)international
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/marketing-management-marketing-communications-option-certificate-part-time-630dmcert/
+--------------------------------------------------
+Program Name: Marketing Management (Professional Real Estate Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/marketing-management-professional-real-estate-option-diploma-full-time-642ddipma/
+--------------------------------------------------
+Program Name: Marketing Management (Professional Sales Option)international
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/marketing-management-professional-sales-option-certificate-part-time-630vmcert/
+--------------------------------------------------
+Program Name: Marketing Management (Professional Sales Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/marketing-management-professional-sales-option-diploma-full-time-642bdipma/
+--------------------------------------------------
+Program Name: Marketing Management (Tourism Marketing and Sales Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/marketing-management-tourism-marketing-and-sales-option-diploma-full-time-642edipma/
+--------------------------------------------------
+Program Name: Marketing Management - Customer Relationship Marketinginternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/marketing-management-customer-relationship-marketing-associate-certificate-part-time-630wacert/
+--------------------------------------------------
+Program Name: Marketing Management - Entrepreneurshipinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/marketing-management-entrepreneurship-associate-certificate-part-time-630hacert/
+--------------------------------------------------
+Program Name: Marketing Management - Fundraising Managementinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/marketing-management-fundraising-management-associate-certificate-part-time-6390acert/
+--------------------------------------------------
+Program Name: Marketing Management - Marketing Communicationsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/marketing-management-marketing-communications-associate-certificate-part-time-630dacert/
+--------------------------------------------------
+Program Name: Marketing Management - Public Relationsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/marketing-management-public-relations-associate-certificate-part-time-630xacert/
+--------------------------------------------------
+Program Name: Marketing Management - Sales Skillsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/marketing-management-sales-skills-associate-certificate-part-time-630macert/
+--------------------------------------------------
+Program Name: Nonprofit Managementinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/nonprofit-management-associate-certificate-part-time-6310acert/
+--------------------------------------------------
+Program Name: Spanish Language and Culture Fundamentalsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/spanish-language-and-culture-fundamentals-microcredential-part-time-0843cm/
+--------------------------------------------------
+Program Name: Tourism and Hospitalityinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/tourism-and-hospitality-associate-certificate-part-time-6590acert/
+--------------------------------------------------
+Program Name: Business Analysis
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/business-analysis-associate-certificate-part-time-5205acert/
+--------------------------------------------------
+Program Name: Business Analyticsinternational
+Credential: Graduate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-analytics-graduate-certificate-full-time-a600grcert/
+--------------------------------------------------
+Program Name: Business Information Technology ManagementinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-diploma-full-time-6235dipma/
+--------------------------------------------------
+Program Name: Business Information Technology Management (Analytics Data Management Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-analytics-data-management-option-diploma-full-time-623cdipma/
+--------------------------------------------------
+Program Name: Business Information Technology Management (Artificial Intelligence Management Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-artificial-intelligence-management-option-diploma-full-time-623adipma/
+--------------------------------------------------
+Program Name: Business Information Technology Management (Enterprise Systems Management Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-enterprise-systems-management-option-diploma-full-time-623bdipma/
+--------------------------------------------------
+Program Name: Business Operations Managementinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-operations-management-diploma-full-time-6910diplt/
+--------------------------------------------------
+Program Name: Data Visualization with MS Power BIinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/data-visualization-with-ms-power-bi-microcredential-part-time-0842cm/
+--------------------------------------------------
+Program Name: Global Trade and Transportation Managementinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/global-trade-and-transportation-management-diploma-full-time-7465dipma/
+--------------------------------------------------
+Program Name: International Trade and Transportation Logisticsinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/international-trade-and-transportation-logistics-certificate-part-time-7460mcert/
+--------------------------------------------------
+Program Name: Lean Business Improvementinternational
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/lean-business-improvement-statement-of-completion-part-time-0455000000/
+--------------------------------------------------
+Program Name: Lean Six Sigma Principlesinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/lean-six-sigma-principles-associate-certificate-part-time-6265acert/
+--------------------------------------------------
+Program Name: Marine Business Essentialsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/marine-business-essentials-microcredential-part-time-0864cm/
+--------------------------------------------------
+Program Name: Operations Management (Facilities Management Option)international
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/operations-management-facilities-management-option-certificate-part-time-690fmcert/
+--------------------------------------------------
+Program Name: Operations Management (Industrial Engineering Option)internationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/operations-management-industrial-engineering-option-certificate-part-time-690amcert/
+--------------------------------------------------
+Program Name: Operations Management (Management Engineering Option)internationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/operations-management-management-engineering-option-certificate-part-time-690bmcert/
+--------------------------------------------------
+Program Name: Operations Management (Materials Management Option)internationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/operations-management-materials-management-option-certificate-part-time-690dmcert/
+--------------------------------------------------
+Program Name: Project Managementinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/project-management-associate-certificate-part-time-5085acert/
+--------------------------------------------------
+Program Name: Quality and Process Managementinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/quality-and-process-management-certificate-part-time-6945cert/
+--------------------------------------------------
+Program Name: Sustainable Business
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/sustainable-business-advanced-certificate-part-time-5145adcert/
+--------------------------------------------------
+
+Programs from: https://www.bcit.ca/study/computing-it/programs/
+--------------------------------------------------
+Program Name: Canadian Employment Readiness (CER)international
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/canadian-employment-readiness-cer-microcredential-part-time-0825cm/
+--------------------------------------------------
+Program Name: International Education Practitioner - Foundationinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/international-education-practitioner-foundation-microcredential-part-time-0835cm/
+--------------------------------------------------
+Program Name: International Student Entryinternational
+Credential: None
+Format: Full-time
+Link: https://www.bcit.ca/programs/international-student-entry-full-time-0120nobcit/
+--------------------------------------------------
+Program Name: Spanish Language and Culture Fundamentalsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/spanish-language-and-culture-fundamentals-microcredential-part-time-0843cm/
+--------------------------------------------------
+Program Name: Student Mobility Preparednessinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/student-mobility-preparedness-microcredential-part-time-0828cm/
+--------------------------------------------------
+Program Name: Technology Entry (TE)international
+Credential: None
+Format: Full-time
+Link: https://www.bcit.ca/programs/technology-entry-te-full-time-0020nobcit/
+--------------------------------------------------
+Program Name: 3D Modeling, Art and Animationinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/3d-modeling-art-and-animation-diploma-full-time-6575dipma/
+--------------------------------------------------
+Program Name: Applied Computer Applications (ACA)
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-applications-aca-associate-certificate-part-time-5525acert/
+--------------------------------------------------
+Program Name: Applied Computer Information Systems (ACIS)
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-information-systems-acis-associate-certificate-part-time-6992acert/
+--------------------------------------------------
+Program Name: Applied Data AnalyticsinternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/
+--------------------------------------------------
+Program Name: Business Analyticsinternational
+Credential: Graduate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-analytics-graduate-certificate-full-time-a600grcert/
+--------------------------------------------------
+Program Name: Business Information Technology ManagementinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-diploma-full-time-6235dipma/
+--------------------------------------------------
+Program Name: Business Information Technology Management (Analytics Data Management Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-analytics-data-management-option-diploma-full-time-623cdipma/
+--------------------------------------------------
+Program Name: Business Information Technology Management (Artificial Intelligence Management Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-artificial-intelligence-management-option-diploma-full-time-623adipma/
+--------------------------------------------------
+Program Name: Business Information Technology Management (Enterprise Systems Management Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-enterprise-systems-management-option-diploma-full-time-623bdipma/
+--------------------------------------------------
+Program Name: Computer Aided Design (CAD) Technology
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/computer-aided-design-cad-technology-associate-certificate-part-time-5570acert/
+--------------------------------------------------
+Program Name: Data Visualization with MS Power BIinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/data-visualization-with-ms-power-bi-microcredential-part-time-0842cm/
+--------------------------------------------------
+Program Name: Dental Office Receptionist
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/dental-office-receptionist-statement-of-completion-part-time-0440000000/
+--------------------------------------------------
+Program Name: Digital Healthinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/digital-health-advanced-certificate-part-time-5165adcert/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-advanced-certificate-part-time-5440adcert/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Advanced Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-advanced-diploma-part-time-9100padvdip/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Advanced Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-advanced-diploma-full-time-9100fadvdip/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Bachelor of Technology
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-bachelor-of-technology-full-time-part-time-8310btech/
+--------------------------------------------------
+Program Name: Graphic Communicationsinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/graphic-communications-diploma-full-time-6247dipma/
+--------------------------------------------------
+Program Name: Graphic DesigninternationalPGWP
+Credential: Certificate
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/graphic-design-certificate-full-time-part-time-6585cert/
+--------------------------------------------------
+Program Name: Low-Code Mobile Application Developmentinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/low-code-mobile-application-development-microcredential-part-time-0810cm/
+--------------------------------------------------
+Program Name: Office Administrator with Technology Program (OAT)international
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/office-administrator-with-technology-program-oat-certificate-full-time-6998cert/
+--------------------------------------------------
+Program Name: Software Systems Developerinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/software-systems-developer-certificate-full-time-7120cert/
+--------------------------------------------------
+Program Name: User Interface (UI) and User Experience (UX) Designinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/user-interface-ui-and-user-experience-ux-design-associate-certificate-part-time-5985acert/
+--------------------------------------------------
+Program Name: Cisco Certified Network Associate
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/cisco-certified-network-associate-statement-of-completion-part-time-5460nobcit/
+--------------------------------------------------
+Program Name: Cisco Certified Network Professional
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/cisco-certified-network-professional-statement-of-completion-part-time-5470nobcit/
+--------------------------------------------------
+Program Name: Computer Information Systems AdministrationinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/computer-information-systems-administration-diploma-full-time-1930dipma/
+--------------------------------------------------
+Program Name: Network Administrator Technician
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/network-administrator-technician-associate-certificate-part-time-1885acerts/
+--------------------------------------------------
+Program Name: Technology Managementinternational
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/technology-management-bachelor-of-technology-part-time-8350btech/
+--------------------------------------------------
+Program Name: Technology Support Professional (TSP)international
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/technology-support-professional-tsp-certificate-full-time-7110cert/
+--------------------------------------------------
+Program Name: Applied ComputinginternationalPGWP
+Credential: Master of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/applied-computing-master-of-science-full-time-m600msc/
+--------------------------------------------------
+Program Name: Cybersecurity Essentials for IT Professionalsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/cybersecurity-essentials-for-it-professionals-microcredential-part-time-0820cm/
+--------------------------------------------------
+Program Name: Forensic Investigation (Crime and Intelligence Analysis Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-crime-and-intelligence-analysis-option-advanced-certificate-part-time-528aadcert/
+--------------------------------------------------
+Program Name: Forensic Investigation (Crime and Intelligence Analysis Option)internationalPGWP
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-crime-and-intelligence-analysis-option-bachelor-of-technology-part-time-847abtech/
+--------------------------------------------------
+Program Name: Forensic Investigation (Digital Forensics and Cybersecurity Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-advanced-certificate-part-time-528cadcert/
+--------------------------------------------------
+Program Name: Forensic Investigation (Digital Forensics and Cybersecurity Option)internationalPGWP
+Credential: Bachelor of Technology
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/
+--------------------------------------------------
+Program Name: Foundational Digital Forensics Skillsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/foundational-digital-forensics-skills-microcredential-part-time-0837cm/
+--------------------------------------------------
+Program Name: Fraud and Financial Crime Investigationinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/fraud-and-financial-crime-investigation-microcredential-part-time-0850cm/
+--------------------------------------------------
+Program Name: Advanced Topics in Networkinginternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/advanced-topics-in-networking-microcredential-part-time-0848cm/
+--------------------------------------------------
+Program Name: Agile Development
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/agile-development-associate-certificate-part-time-5530acert/
+--------------------------------------------------
+Program Name: Applied Computer Science (Database Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-database-option-bachelor-of-science-full-time-part-time-867cbsc/
+--------------------------------------------------
+Program Name: Applied Computer Science (Human Computer Interface Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-human-computer-interface-option-bachelor-of-science-part-time-867dbsc/
+--------------------------------------------------
+Program Name: Applied Computer Science (Network Security Administration Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-network-security-administration-option-bachelor-of-science-part-time-867ebsc/
+--------------------------------------------------
+Program Name: Applied Computer Science (Network Security Applications Development Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-network-security-applications-development-option-bachelor-of-science-full-time-part-time-867bbsc/
+--------------------------------------------------
+Program Name: Applied Computer Science (Wireless and Mobile Applications Development Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-wireless-and-mobile-applications-development-option-bachelor-of-science-part-time-867fbsc/
+--------------------------------------------------
+Program Name: Applied ComputinginternationalPGWP
+Credential: Master of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/applied-computing-master-of-science-full-time-m600msc/
+--------------------------------------------------
+Program Name: Applied Data AnalyticsinternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/
+--------------------------------------------------
+Program Name: Applied Network Administration and Design
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-network-administration-and-design-associate-certificate-part-time-5515acert/
+--------------------------------------------------
+Program Name: Cisco Certified Network Associate
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/cisco-certified-network-associate-statement-of-completion-part-time-5460nobcit/
+--------------------------------------------------
+Program Name: Cisco Certified Network Professional
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/cisco-certified-network-professional-statement-of-completion-part-time-5470nobcit/
+--------------------------------------------------
+Program Name: Computer Information Systems AdministrationinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/computer-information-systems-administration-diploma-full-time-1930dipma/
+--------------------------------------------------
+Program Name: Computer Information TechnologyinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/
+--------------------------------------------------
+Program Name: Cybersecurity Analysis for Network Administratorsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/cybersecurity-analysis-for-network-administrators-microcredential-part-time-0812cm/
+--------------------------------------------------
+Program Name: Cybersecurity Essentials for IT Professionalsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/cybersecurity-essentials-for-it-professionals-microcredential-part-time-0820cm/
+--------------------------------------------------
+Program Name: Cybersecurity Operationsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/cybersecurity-operations-microcredential-part-time-0832cm/
+--------------------------------------------------
+Program Name: Electrical and Computer Engineering Technology (Telecommunications and Networks Option)internationalco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/electrical-and-computer-engineering-technology-telecommunications-and-networks-option-diploma-full-time-534cdipma/
+--------------------------------------------------
+Program Name: Essentials of Data Networksinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essentials-of-data-networks-microcredential-part-time-0811cm/
+--------------------------------------------------
+Program Name: Forensic Investigation (Digital Forensics and Cybersecurity Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-advanced-certificate-part-time-528cadcert/
+--------------------------------------------------
+Program Name: Forensic Investigation (Digital Forensics and Cybersecurity Option)internationalPGWP
+Credential: Bachelor of Technology
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-bachelor-of-technology-full-time-part-time-847cbtech/
+--------------------------------------------------
+Program Name: Foundational Digital Forensics Skillsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/foundational-digital-forensics-skills-microcredential-part-time-0837cm/
+--------------------------------------------------
+Program Name: Fraud and Financial Crime Investigationinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/fraud-and-financial-crime-investigation-microcredential-part-time-0850cm/
+--------------------------------------------------
+Program Name: Fundamentals of Virtual Containersinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/fundamentals-of-virtual-containers-microcredential-part-time-0844cm/
+--------------------------------------------------
+Program Name: Industrial Network CybersecurityinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/industrial-network-cybersecurity-diploma-full-time-5265dipma/
+--------------------------------------------------
+Program Name: Industrial Networking for Cybersecurity Professionals
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/industrial-networking-for-cybersecurity-professionals-microcredential-part-time-0831cm/
+--------------------------------------------------
+Program Name: Network Administrator Technician
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/network-administrator-technician-associate-certificate-part-time-1885acerts/
+--------------------------------------------------
+Program Name: Network Switching and Routinginternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/network-switching-and-routing-microcredential-part-time-0845cm/
+--------------------------------------------------
+Program Name: Technology Managementinternational
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/technology-management-bachelor-of-technology-part-time-8350btech/
+--------------------------------------------------
+Program Name: Technology Support Professional (TSP)international
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/technology-support-professional-tsp-certificate-full-time-7110cert/
+--------------------------------------------------
+Program Name: Advanced .NET Development
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/advanced-net-development-associate-certificate-part-time-6810acert/
+--------------------------------------------------
+Program Name: Advanced Java Development
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/advanced-java-development-associate-certificate-part-time-6445acert/
+--------------------------------------------------
+Program Name: Agile Development
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/agile-development-associate-certificate-part-time-5530acert/
+--------------------------------------------------
+Program Name: Applied Computer Applications (ACA)
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-applications-aca-associate-certificate-part-time-5525acert/
+--------------------------------------------------
+Program Name: Applied Computer Information Systems (ACIS)
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-information-systems-acis-associate-certificate-part-time-6992acert/
+--------------------------------------------------
+Program Name: Applied Computer Science (Database Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-database-option-bachelor-of-science-full-time-part-time-867cbsc/
+--------------------------------------------------
+Program Name: Applied Computer Science (Games Development Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/applied-computer-science-games-development-option-bachelor-of-science-full-time-867absc/
+--------------------------------------------------
+Program Name: Applied Computer Science (Human Computer Interface Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-human-computer-interface-option-bachelor-of-science-part-time-867dbsc/
+--------------------------------------------------
+Program Name: Applied Computer Science (Network Security Administration Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-network-security-administration-option-bachelor-of-science-part-time-867ebsc/
+--------------------------------------------------
+Program Name: Applied Computer Science (Network Security Applications Development Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-network-security-applications-development-option-bachelor-of-science-full-time-part-time-867bbsc/
+--------------------------------------------------
+Program Name: Applied Computer Science (Wireless and Mobile Applications Development Option)internationalPGWP
+Credential: Bachelor of Science
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-science-wireless-and-mobile-applications-development-option-bachelor-of-science-part-time-867fbsc/
+--------------------------------------------------
+Program Name: Applied ComputinginternationalPGWP
+Credential: Master of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/applied-computing-master-of-science-full-time-m600msc/
+--------------------------------------------------
+Program Name: Applied Data AnalyticsinternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/
+--------------------------------------------------
+Program Name: Applied Database Administration and Design
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-database-administration-and-design-associate-certificate-part-time-6994acert/
+--------------------------------------------------
+Program Name: Applied Software Development (ASD)
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-software-development-asd-associate-certificate-part-time-6958acert/
+--------------------------------------------------
+Program Name: Applied Web Development
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-web-development-associate-certificate-part-time-6957acert/
+--------------------------------------------------
+Program Name: Computer Information TechnologyinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/computer-information-technology-diploma-full-time-5540dipma/
+--------------------------------------------------
+Program Name: Computer SystemsinternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/computer-systems-certificate-part-time-5500cert/
+--------------------------------------------------
+Program Name: Computer SystemsinternationalPGWP
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/computer-systems-diploma-part-time-5500pdiplt/
+--------------------------------------------------
+Program Name: Computer Systems TechnologyinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/
+--------------------------------------------------
+Program Name: Front-End Web Developerinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/front-end-web-developer-certificate-full-time-6535cert/
+--------------------------------------------------
+Program Name: Fundamentals of Virtual Containersinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/fundamentals-of-virtual-containers-microcredential-part-time-0844cm/
+--------------------------------------------------
+Program Name: Introduction to Full-Stack Web Developmentinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/introduction-to-full-stack-web-development-microcredential-part-time-0840cm/
+--------------------------------------------------
+Program Name: Software Systems Developerinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/software-systems-developer-certificate-full-time-7120cert/
+--------------------------------------------------
+Program Name: Technology Managementinternational
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/technology-management-bachelor-of-technology-part-time-8350btech/
+--------------------------------------------------
+Program Name: Web Development Foundations (WDF)international
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/web-development-foundations-wdf-microcredential-part-time-0841cm/
+--------------------------------------------------
+Program Name: Web and Mobile Application Development
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/web-and-mobile-application-development-associate-certificate-part-time-6465acert/
+--------------------------------------------------
+Program Name: Agile Development
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/agile-development-associate-certificate-part-time-5530acert/
+--------------------------------------------------
+Program Name: Applied Computer Applications (ACA)
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-applications-aca-associate-certificate-part-time-5525acert/
+--------------------------------------------------
+Program Name: Applied Computer Information Systems (ACIS)
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-computer-information-systems-acis-associate-certificate-part-time-6992acert/
+--------------------------------------------------
+Program Name: Applied ComputinginternationalPGWP
+Credential: Master of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/applied-computing-master-of-science-full-time-m600msc/
+--------------------------------------------------
+Program Name: Applied Data AnalyticsinternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/
+--------------------------------------------------
+Program Name: Applied Web Development
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-web-development-associate-certificate-part-time-6957acert/
+--------------------------------------------------
+Program Name: Business Information Technology ManagementinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-diploma-full-time-6235dipma/
+--------------------------------------------------
+Program Name: Business Information Technology Management (Analytics Data Management Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-analytics-data-management-option-diploma-full-time-623cdipma/
+--------------------------------------------------
+Program Name: Business Information Technology Management (Artificial Intelligence Management Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-artificial-intelligence-management-option-diploma-full-time-623adipma/
+--------------------------------------------------
+Program Name: Business Information Technology Management (Enterprise Systems Management Option)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/business-information-technology-management-enterprise-systems-management-option-diploma-full-time-623bdipma/
+--------------------------------------------------
+Program Name: Computer Systems TechnologyinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/
+--------------------------------------------------
+Program Name: Digital Design and DevelopmentinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/
+--------------------------------------------------
+Program Name: Front-End Web Developerinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/front-end-web-developer-certificate-full-time-6535cert/
+--------------------------------------------------
+Program Name: Full-Stack Web DevelopmentinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/full-stack-web-development-diploma-full-time-7540dipma/
+--------------------------------------------------
+Program Name: Fundamentals of Virtual Containersinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/fundamentals-of-virtual-containers-microcredential-part-time-0844cm/
+--------------------------------------------------
+Program Name: Introduction to Full-Stack Web Developmentinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/introduction-to-full-stack-web-development-microcredential-part-time-0840cm/
+--------------------------------------------------
+Program Name: New Media Design and Web DevelopmentinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/
+--------------------------------------------------
+Program Name: Software Systems Developerinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/software-systems-developer-certificate-full-time-7120cert/
+--------------------------------------------------
+Program Name: Technology Managementinternational
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/technology-management-bachelor-of-technology-part-time-8350btech/
+--------------------------------------------------
+Program Name: User Interface (UI) and User Experience (UX) Designinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/user-interface-ui-and-user-experience-ux-design-associate-certificate-part-time-5985acert/
+--------------------------------------------------
+Program Name: Web Development Foundations (WDF)international
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/web-development-foundations-wdf-microcredential-part-time-0841cm/
+--------------------------------------------------
+Program Name: Web Technologiesinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/web-technologies-associate-certificate-part-time-6420acert/
+--------------------------------------------------
+Program Name: Web Technologiesinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/web-technologies-certificate-part-time-6420cert/
+--------------------------------------------------
+Program Name: Web and Mobile Application Development
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/web-and-mobile-application-development-associate-certificate-part-time-6465acert/
+--------------------------------------------------
+
+Programs from: https://www.bcit.ca/study/engineering/programs/
+--------------------------------------------------
+Program Name: Civil EngineeringinternationalPGWP
+Credential: Bachelor of Engineering
+Format: Full-time
+Link: https://www.bcit.ca/programs/civil-engineering-bachelor-of-engineering-full-time-8660beng/
+--------------------------------------------------
+Program Name: Electrical EngineeringPGWP
+Credential: Bachelor of Engineering
+Format: Full-time
+Link: https://www.bcit.ca/programs/electrical-engineering-bachelor-of-engineering-full-time-8030beng/
+--------------------------------------------------
+Program Name: Mechanical EngineeringinternationalPGWP
+Credential: Bachelor of Engineering
+Format: Full-time
+Link: https://www.bcit.ca/programs/mechanical-engineering-bachelor-of-engineering-full-time-8020beng/
+--------------------------------------------------
+Program Name: Mining and Mineral Resource EngineeringinternationalPGWP
+Credential: Bachelor of Engineering
+Format: Full-time
+Link: https://www.bcit.ca/programs/mining-and-mineral-resource-engineering-bachelor-of-engineering-full-time-8610beng/
+--------------------------------------------------
+Program Name: Applied ComputinginternationalPGWP
+Credential: Master of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/applied-computing-master-of-science-full-time-m600msc/
+--------------------------------------------------
+Program Name: Automated Controls Installation and Maintenanceinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/automated-controls-installation-and-maintenance-advanced-certificate-part-time-1320adcert/
+--------------------------------------------------
+Program Name: Biomedical Engineering Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/biomedical-engineering-technology-diploma-full-time-5063dipma/
+--------------------------------------------------
+Program Name: Building Controls & Energy Managementinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-controls-and-energy-management-advanced-certificate-part-time-5095adcert/
+--------------------------------------------------
+Program Name: Building Energy Modelling
+Credential: Graduate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-energy-modelling-graduate-certificate-part-time-a200grcert/
+--------------------------------------------------
+Program Name: Building Energy Modelling and Performance Analysisinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-energy-modelling-and-performance-analysis-advanced-certificate-part-time-5235adcert/
+--------------------------------------------------
+Program Name: Chemical and Environmental Technology (Analytical Science Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/chemical-and-environmental-technology-analytical-science-option-diploma-full-time-537adiplt/
+--------------------------------------------------
+Program Name: Chemical and Environmental Technology (Process Engineering Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/chemical-and-environmental-technology-process-engineering-option-diploma-full-time-537bdiplt/
+--------------------------------------------------
+Program Name: Civil Engineeringinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/civil-engineering-diploma-full-time-5410diplt/
+--------------------------------------------------
+Program Name: Civil Technologyinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/civil-technology-associate-certificate-part-time-5430acert/
+--------------------------------------------------
+Program Name: Civil Technologyinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/civil-technology-certificate-part-time-5430cert/
+--------------------------------------------------
+Program Name: Computer Aided Design (CAD) Technology
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/computer-aided-design-cad-technology-associate-certificate-part-time-5570acert/
+--------------------------------------------------
+Program Name: Construction EstimatinginternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-estimating-certificate-part-time-6530cert/
+--------------------------------------------------
+Program Name: Construction Operationsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-operations-associate-certificate-part-time-7720acert/
+--------------------------------------------------
+Program Name: Construction Supervisioninternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-supervision-certificate-part-time-7730cert/
+--------------------------------------------------
+Program Name: Digital Communications and Wireless TechnologiesinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/digital-communications-and-wireless-technologies-diploma-full-time-5105dipma/
+--------------------------------------------------
+Program Name: Distribution Design for Electrical Utilitiesinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/distribution-design-for-electrical-utilities-microcredential-part-time-0866cm/
+--------------------------------------------------
+Program Name: Electrical and Computer Engineering Technology (Automation and Instrumentation Option)internationalco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/electrical-and-computer-engineering-technology-automation-and-instrumentation-option-diploma-full-time-534adipma/
+--------------------------------------------------
+Program Name: Electrical and Computer Engineering Technology (Electrical Power and Industrial Control Option)internationalco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/electrical-and-computer-engineering-technology-electrical-power-and-industrial-control-option-diploma-full-time-534bdipma/
+--------------------------------------------------
+Program Name: Electrical and Computer Engineering Technology (Telecommunications and Networks Option)internationalco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/electrical-and-computer-engineering-technology-telecommunications-and-networks-option-diploma-full-time-534cdipma/
+--------------------------------------------------
+Program Name: Essentials of Community Energy and Emissions Managementinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essentials-of-community-energy-and-emissions-management-microcredential-part-time-0854cm/
+--------------------------------------------------
+Program Name: Essentials of Net-Zero and Passive House Constructioninternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essentials-of-net-zero-and-passive-house-construction-microcredential-part-time-0819cm/
+--------------------------------------------------
+Program Name: Fire Protection Inspection and Testing
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/fire-protection-inspection-and-testing-associate-certificate-part-time-675facert/
+--------------------------------------------------
+Program Name: Fundamentals of Water and Wastewater Operations
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/fundamentals-of-water-and-wastewater-operations-associate-certificate-part-time-6040acert/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-advanced-certificate-part-time-5440adcert/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Advanced Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-advanced-diploma-part-time-9100padvdip/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Advanced Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-advanced-diploma-full-time-9100fadvdip/
+--------------------------------------------------
+Program Name: Geomatics Engineering Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/geomatics-engineering-technology-diploma-full-time-7535dipma/
+--------------------------------------------------
+Program Name: Industrial Network CybersecurityinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/industrial-network-cybersecurity-diploma-full-time-5265dipma/
+--------------------------------------------------
+Program Name: Mechanical Engineering Technology (Mechanical Design Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/mechanical-engineering-technology-mechanical-design-option-diploma-full-time-635ddiplt/
+--------------------------------------------------
+Program Name: Mechanical Engineering Technology (Mechanical Manufacturing Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/mechanical-engineering-technology-mechanical-manufacturing-option-diploma-full-time-635ediplt/
+--------------------------------------------------
+Program Name: Mechanical Engineering Technology (Mechanical Systems Option)international
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/mechanical-engineering-technology-mechanical-systems-option-diploma-full-time-635cdiplt/
+--------------------------------------------------
+Program Name: Mechanical Systemsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/mechanical-systems-associate-certificate-part-time-6760acert/
+--------------------------------------------------
+Program Name: Mechatronics and Roboticsinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/mechatronics-and-robotics-diploma-full-time-7340diplt/
+--------------------------------------------------
+Program Name: Mineral Exploration and Mining Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/mineral-exploration-and-mining-technology-diploma-full-time-6640dipma/
+--------------------------------------------------
+Program Name: Renewable Energy Electrical Systems Installation & Maintenanceinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/renewable-energy-electrical-systems-installation-and-maintenance-advanced-certificate-part-time-6185adcert/
+--------------------------------------------------
+Program Name: Residential Air to Air Heat Pump Specialist
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/residential-air-to-air-heat-pump-specialist-microcredential-part-time-0862cm/
+--------------------------------------------------
+Program Name: Sustainable Business LeadershipinternationalPGWP
+Credential: Advanced Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/sustainable-business-leadership-advanced-diploma-full-time-5180advdip/
+--------------------------------------------------
+Program Name: Sustainable Business LeadershipinternationalPGWP
+Credential: Advanced Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/sustainable-business-leadership-advanced-diploma-part-time-5180padvdip/
+--------------------------------------------------
+Program Name: Sustainable Energy Managementinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/sustainable-energy-management-advanced-certificate-part-time-5070adcert/
+--------------------------------------------------
+Program Name: Technical Writinginternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/technical-writing-associate-certificate-part-time-6425acert/
+--------------------------------------------------
+Program Name: Technology Teacher Education
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/technology-teacher-education-diploma-full-time-605ddipma/
+--------------------------------------------------
+Program Name: Building Engineering/Building ScienceinternationalPGWP
+Credential: Master of Applied Science
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/building-engineering-building-science-master-of-applied-science-full-time-part-time-m220masc/
+--------------------------------------------------
+Program Name: Building ScienceinternationalPGWP
+Credential: Master of Engineering
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/building-science-master-of-engineering-full-time-part-time-m120meng/
+--------------------------------------------------
+Program Name: Smart Grid Systems and TechnologiesinternationalPGWP
+Credential: Master of Engineering
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/smart-grid-systems-and-technologies-master-of-engineering-full-time-part-time-m500meng/
+--------------------------------------------------
+Program Name: Architectural ScienceinternationalPGWP
+Credential: Bachelor of Architectural Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/architectural-science-bachelor-of-architectural-science-full-time-8050btech/
+--------------------------------------------------
+Program Name: Construction ManagementinternationalPGWP
+Credential: Bachelor of Technology
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/construction-management-bachelor-of-technology-full-time-part-time-8800btech/
+--------------------------------------------------
+Program Name: ElectronicsinternationalPGWP
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/electronics-bachelor-of-technology-part-time-8900btech/
+--------------------------------------------------
+Program Name: Environmental EngineeringinternationalPGWP
+Credential: Bachelor of Technology
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/environmental-engineering-bachelor-of-technology-full-time-part-time-8120btech/
+--------------------------------------------------
+Program Name: Geographic Information Systemsinternational
+Credential: Bachelor of Technology
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/geographic-information-systems-bachelor-of-technology-full-time-part-time-8310btech/
+--------------------------------------------------
+Program Name: Geomaticsinternational
+Credential: Bachelor of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/
+--------------------------------------------------
+Program Name: Interior Designinternationalco-op
+Credential: Bachelor of Interior Design
+Format: Full-time
+Link: https://www.bcit.ca/programs/interior-design-bachelor-of-interior-design-full-time-8830bid/
+--------------------------------------------------
+Program Name: Technology Managementinternational
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/technology-management-bachelor-of-technology-part-time-8350btech/
+--------------------------------------------------
+Program Name: Architectural and Building Technologyinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/architectural-and-building-technology-certificate-part-time-6030cert/
+--------------------------------------------------
+Program Name: Architectural and Building Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/architectural-and-building-technology-diploma-full-time-7140dipma/
+--------------------------------------------------
+Program Name: Architectural and Structural CADD and Graphics Technician (Architectural Option)international
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/architectural-and-structural-cadd-and-graphics-technician-architectural-option-certificate-full-time-1720certts/
+--------------------------------------------------
+Program Name: Architectural and Structural CADD and Graphics Technician (Structural Option)international
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/architectural-and-structural-cadd-and-graphics-technician-structural-option-certificate-full-time-1710certts/
+--------------------------------------------------
+Program Name: Building Construction Technology
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-construction-technology-associate-certificate-part-time-515gacert/
+--------------------------------------------------
+Program Name: Building Design and Architectural CAD
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-design-and-architectural-cad-associate-certificate-part-time-515hacert/
+--------------------------------------------------
+Program Name: Construction Drawingsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-drawings-associate-certificate-part-time-1155acert/
+--------------------------------------------------
+Program Name: Essential Technical Skills for Architecture, Construction, and Engineering
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/essential-technical-skills-for-architecture-construction-and-engineering-certificate-part-time-6090cert/
+--------------------------------------------------
+Program Name: Interior Designinternational
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/interior-design-diploma-part-time-6220pdipma/
+--------------------------------------------------
+Program Name: Interior Designinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/
+--------------------------------------------------
+Program Name: Interior Design Fundamentalsinternational
+Credential: Certificate
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/interior-design-fundamentals-certificate-full-time-part-time-6195cert/
+--------------------------------------------------
+Program Name: Residential Interiorsinternational
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/residential-interiors-diploma-part-time-6140dipma/
+--------------------------------------------------
+Program Name: Advanced Gas Turbine
+Credential: BCIT/Industry Partnership Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/advanced-gas-turbine-bcit-industry-partnership-certificate-full-time-1195ipcert/
+--------------------------------------------------
+Program Name: Aircraft Gas Turbine TechnicianinternationalPGWP
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/aircraft-gas-turbine-technician-certificate-full-time-1030certts/
+--------------------------------------------------
+Program Name: Aircraft Maintenance Engineer Category 'M' (Maintenance)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/aircraft-maintenance-engineer-category-m-maintenance-diploma-full-time-1230dipma/
+--------------------------------------------------
+Program Name: Aircraft Maintenance Engineer Category ‘E’ (Electronics)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/aircraft-maintenance-engineer-category-e-electronics-diploma-full-time-1165dipma/
+--------------------------------------------------
+Program Name: Industrial Instrumentation and Process Control TechnicianinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/industrial-instrumentation-and-process-control-technician-diploma-full-time-2945dipma/
+--------------------------------------------------
+Program Name: Marine Engineeringco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/marine-engineering-diploma-full-time-2942dipma/
+--------------------------------------------------
+Program Name: Power Engineering (General Program)internationalPGWP
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/power-engineering-general-program-certificate-full-time-2410ttcert/
+--------------------------------------------------
+Program Name: Power and Process EngineeringinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/power-and-process-engineering-diploma-full-time-2430dipma/
+--------------------------------------------------
+Program Name: Residential Air to Air Heat Pump Specialist
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/residential-air-to-air-heat-pump-specialist-microcredential-part-time-0862cm/
+--------------------------------------------------
+Program Name: Thermal Power Plant Simulation Proficiencyinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/thermal-power-plant-simulation-proficiency-microcredential-part-time-0855cm/
+--------------------------------------------------
+Program Name: Applied Circular Economy: Zero Waste Buildingsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-circular-economy-zero-waste-buildings-microcredential-part-time-0816cm/
+--------------------------------------------------
+Program Name: Assayer Traininginternational
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/assayer-training-statement-of-completion-part-time-5360nobcit/
+--------------------------------------------------
+Program Name: Building Energy Modelling and Simulationinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-energy-modelling-and-simulation-microcredential-part-time-0829cm/
+--------------------------------------------------
+Program Name: Canadian Engineering Professional Practiceinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/canadian-engineering-professional-practice-microcredential-part-time-0852cm/
+--------------------------------------------------
+Program Name: Civil Engineering Materials Testing
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/civil-engineering-materials-testing-statement-of-completion-part-time-5495000000/
+--------------------------------------------------
+Program Name: Drone Applications for Environmental Risk Assessment
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/drone-applications-for-environmental-risk-assessment-microcredential-part-time-0836cm/
+--------------------------------------------------
+Program Name: Essential Field Skills for Environmental Professionals
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essential-field-skills-for-environmental-professionals-microcredential-part-time-0814cm/
+--------------------------------------------------
+Program Name: Essential Technical Skills for Architecture, Construction, and Engineering
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/essential-technical-skills-for-architecture-construction-and-engineering-certificate-part-time-6090cert/
+--------------------------------------------------
+Program Name: House Inspection
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/house-inspection-statement-of-completion-part-time-0700000000/
+--------------------------------------------------
+Program Name: Introduction to Forest Health Quantification with RPAS
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/introduction-to-forest-health-quantification-with-rpas-microcredential-part-time-0817cm/
+--------------------------------------------------
+Program Name: Introduction to Power Systems Protection Design
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/introduction-to-power-systems-protection-design-microcredential-part-time-0865cm/
+--------------------------------------------------
+Program Name: Introductory Studies in Mass Timber Constructioninternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/introductory-studies-in-mass-timber-construction-microcredential-part-time-0800cm/
+--------------------------------------------------
+Program Name: Maintenance Management Professional
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/maintenance-management-professional-statement-of-completion-part-time-5020nobcit/
+--------------------------------------------------
+Program Name: Non-Destructive Testing
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/non-destructive-testing-statement-of-completion-part-time-5025nobcit/
+--------------------------------------------------
+Program Name: Principles of Regenerative Building
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/principles-of-regenerative-building-microcredential-part-time-0853cm/
+--------------------------------------------------
+Program Name: Residential Air to Air Heat Pump Specialist
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/residential-air-to-air-heat-pump-specialist-microcredential-part-time-0862cm/
+--------------------------------------------------
+Program Name: Road Area Manager Certification
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/road-area-manager-certification-statement-of-completion-part-time-0425000000/
+--------------------------------------------------
+Program Name: Supervising Net-Zero and Passive House Constructioninternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/supervising-net-zero-and-passive-house-construction-microcredential-part-time-0815cm/
+--------------------------------------------------
+Program Name: Technology Entry (TE)international
+Credential: None
+Format: Full-time
+Link: https://www.bcit.ca/programs/technology-entry-te-full-time-0020nobcit/
+--------------------------------------------------
+Program Name: Whole-Building Life Cycle Assessment Professionalinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/whole-building-life-cycle-assessment-professional-microcredential-part-time-0830cm/
+--------------------------------------------------
+
+Programs from: https://www.bcit.ca/study/health-sciences/programs/
+--------------------------------------------------
+Program Name: Advanced Forensic Nurse Examinerinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/advanced-forensic-nurse-examiner-microcredential-part-time-0813cm/
+--------------------------------------------------
+Program Name: Advanced Safety Managementinternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/advanced-safety-management-certificate-part-time-6890cert/
+--------------------------------------------------
+Program Name: Animal Cell Culture
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/animal-cell-culture-microcredential-part-time-0824cm/
+--------------------------------------------------
+Program Name: Applied Data AnalyticsinternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/applied-data-analytics-certificate-part-time-5512cert/
+--------------------------------------------------
+Program Name: Asbestos Awareness and Safetyinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/asbestos-awareness-and-safety-microcredential-part-time-0849cm/
+--------------------------------------------------
+Program Name: Bachelor of Health Science (Magnetic Resonance Imaging Option)
+Credential: Bachelor of Health Science
+Format: Part-time
+Link: https://www.bcit.ca/programs/bachelor-of-health-science-magnetic-resonance-imaging-option-bachelor-of-health-science-part-time-830abhsc/
+--------------------------------------------------
+Program Name: Biomedical Engineering Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/biomedical-engineering-technology-diploma-full-time-5063dipma/
+--------------------------------------------------
+Program Name: Breast Sonography
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/breast-sonography-microcredential-part-time-0805cm/
+--------------------------------------------------
+Program Name: Cardiac Sciences (Cardiac Rhythm Device Technology Option)
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/cardiac-sciences-cardiac-rhythm-device-technology-option-advanced-certificate-part-time-5330adcert/
+--------------------------------------------------
+Program Name: Cardiac Sciences (Cardiovascular Technology Option)
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/cardiac-sciences-cardiovascular-technology-option-advanced-certificate-part-time-5310adcert/
+--------------------------------------------------
+Program Name: Cardiac Sciences (Electrophysiology Technology Option)
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/cardiac-sciences-electrophysiology-technology-option-advanced-certificate-part-time-5320adcert/
+--------------------------------------------------
+Program Name: Cardiology Technology
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/cardiology-technology-diploma-part-time-530adiplt/
+--------------------------------------------------
+Program Name: Cardiovascular Perfusion
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/cardiovascular-perfusion-advanced-certificate-part-time-6820ascert/
+--------------------------------------------------
+Program Name: Clinical Genetics Technology
+Credential: Advanced Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/clinical-genetics-technology-advanced-diploma-full-time-5670advdip/
+--------------------------------------------------
+Program Name: Critical Care Nursing Specialtyinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/critical-care-nursing-specialty-advanced-certificate-part-time-680xadcert/
+--------------------------------------------------
+Program Name: Critical Care Nursing Specialty (Combined Critical Care/Emergency Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/critical-care-nursing-specialty-combined-critical-care-emergency-option-advanced-certificate-part-time-680lascert/
+--------------------------------------------------
+Program Name: Dental Office Receptionist
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/dental-office-receptionist-statement-of-completion-part-time-0440000000/
+--------------------------------------------------
+Program Name: Diagnostic Medical Sonography (Cardiac Sonography Option)
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/diagnostic-medical-sonography-cardiac-sonography-option-diploma-full-time-576bdipma/
+--------------------------------------------------
+Program Name: Diagnostic Medical Sonography (General Sonography Option)
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/diagnostic-medical-sonography-general-sonography-option-diploma-full-time-576adipma/
+--------------------------------------------------
+Program Name: Diagnostic Medical Sonography (General and Cardiac Sonography Option)
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/diagnostic-medical-sonography-general-and-cardiac-sonography-option-diploma-full-time-576cdipma/
+--------------------------------------------------
+Program Name: Digital Healthinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/digital-health-advanced-certificate-part-time-5165adcert/
+--------------------------------------------------
+Program Name: Electroneurophysiology
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/electroneurophysiology-diploma-full-time-5810dipma/
+--------------------------------------------------
+Program Name: Emergency Nursing Specialty (Combined Emergency/Critical Care Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/emergency-nursing-specialty-combined-emergency-critical-care-option-advanced-certificate-part-time-680sascert/
+--------------------------------------------------
+Program Name: Emergency Nursing Specialty (Pediatric Emergency Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/emergency-nursing-specialty-pediatric-emergency-option-advanced-certificate-part-time-680yadcert/
+--------------------------------------------------
+Program Name: Emergency Nursing Specialty (Standard Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/emergency-nursing-specialty-standard-option-advanced-certificate-part-time-680eascert/
+--------------------------------------------------
+Program Name: Environmental Public HealthinternationalPGWP
+Credential: Bachelor of Environmental Public Health
+Format: Full-time
+Link: https://www.bcit.ca/programs/environmental-public-health-bachelor-of-environmental-public-health-full-time-8520benvh/
+--------------------------------------------------
+Program Name: Food Safety
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/food-safety-associate-certificate-part-time-6365acert/
+--------------------------------------------------
+Program Name: Food Safety Management
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/food-safety-management-microcredential-part-time-0823cm/
+--------------------------------------------------
+Program Name: Food Safety Preventive Controls and HACCP Plansinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/food-safety-preventive-controls-and-haccp-plans-microcredential-part-time-0822cm/
+--------------------------------------------------
+Program Name: Food Technologyinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/food-technology-diploma-full-time-5135dipma/
+--------------------------------------------------
+Program Name: Forensic Nurse Death Investigatorinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-nurse-death-investigator-microcredential-part-time-0833cm/
+--------------------------------------------------
+Program Name: Forensic Nurse Examiner Education for RNs
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/forensic-nurse-examiner-education-for-rns-microcredential-part-time-0804cm/
+--------------------------------------------------
+Program Name: Health Leadershipinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/health-leadership-advanced-certificate-part-time-6860adcert/
+--------------------------------------------------
+Program Name: Healthcare Unit Clerkinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/healthcare-unit-clerk-associate-certificate-part-time-5170acert/
+--------------------------------------------------
+Program Name: High Acuity Nursing Specialtyinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/high-acuity-nursing-specialty-advanced-certificate-part-time-680wascert/
+--------------------------------------------------
+Program Name: Honours in Biotechnologyinternationalco-opPGWP
+Credential: Bachelor of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/honours-in-biotechnology-bachelor-of-science-full-time-8910bsc/
+--------------------------------------------------
+Program Name: International Perfusionist Equivalency Assessment (IPEA)international
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/international-perfusionist-equivalency-assessment-ipea-statement-of-completion-part-time-0705000000/
+--------------------------------------------------
+Program Name: Magnetic Resonance Imaging
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/magnetic-resonance-imaging-advanced-certificate-part-time-7950ascert/
+--------------------------------------------------
+Program Name: Magnetic Resonance Imaging
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/magnetic-resonance-imaging-diploma-full-time-7975dipma/
+--------------------------------------------------
+Program Name: Medical Laboratory Science
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/medical-laboratory-science-diploma-full-time-6615dipma/
+--------------------------------------------------
+Program Name: Medical Office Assistantinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/medical-office-assistant-associate-certificate-part-time-6630acert/
+--------------------------------------------------
+Program Name: Medical Radiography
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/medical-radiography-diploma-full-time-6635dipma/
+--------------------------------------------------
+Program Name: Musculoskeletal Sonography
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/musculoskeletal-sonography-microcredential-part-time-0806cm/
+--------------------------------------------------
+Program Name: Neonatal Nursing Specialtyinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/neonatal-nursing-specialty-advanced-certificate-part-time-680fascert/
+--------------------------------------------------
+Program Name: Nephrology Nursing Specialtyinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/nephrology-nursing-specialty-advanced-certificate-part-time-680mascert/
+--------------------------------------------------
+Program Name: Nuclear Medicine
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/nuclear-medicine-diploma-full-time-6700diplt/
+--------------------------------------------------
+Program Name: Nursing
+Credential: Bachelor of Science in Nursing
+Format: Full-time
+Link: https://www.bcit.ca/programs/nursing-bachelor-of-science-in-nursing-full-time-8875bsn/
+--------------------------------------------------
+Program Name: Occupational Health and SafetyinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/occupational-health-and-safety-diploma-full-time-6850diplt/
+--------------------------------------------------
+Program Name: Occupational Health and Safety Essentials
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/occupational-health-and-safety-essentials-microcredential-part-time-0869cm/
+--------------------------------------------------
+Program Name: Occupational Health and Safety Practitioners
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/occupational-health-and-safety-practitioners-associate-certificate-part-time-5755acert/
+--------------------------------------------------
+Program Name: Pediatric Emergency Nursing Specialtyinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/pediatric-emergency-nursing-specialty-advanced-certificate-part-time-6835adcert/
+--------------------------------------------------
+Program Name: Pediatric Nursing Specialty (Anesthesia Care Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/pediatric-nursing-specialty-anesthesia-care-option-advanced-certificate-part-time-681badcert/
+--------------------------------------------------
+Program Name: Pediatric Nursing Specialty (Critical Care Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/pediatric-nursing-specialty-critical-care-option-advanced-certificate-part-time-680zadcert/
+--------------------------------------------------
+Program Name: Pediatric Nursing Specialty (Standard Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/pediatric-nursing-specialty-standard-option-advanced-certificate-part-time-680bascert/
+--------------------------------------------------
+Program Name: Perinatal Nursing Specialty (Perinatal - Perioperative Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/perinatal-nursing-specialty-perinatal-perioperative-option-advanced-certificate-part-time-680vascert/
+--------------------------------------------------
+Program Name: Perinatal Nursing Specialty (Standard Option)international
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/perinatal-nursing-specialty-standard-option-advanced-certificate-part-time-680cascert/
+--------------------------------------------------
+Program Name: Perioperative Nursing Specialtyinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/perioperative-nursing-specialty-advanced-certificate-part-time-680pascert/
+--------------------------------------------------
+Program Name: Prosthetics and Orthotics
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/prosthetics-and-orthotics-diploma-full-time-7100diplt/
+--------------------------------------------------
+Program Name: Radiation Therapy
+Credential: Bachelor of Science
+Format: Full-time
+Link: https://www.bcit.ca/programs/radiation-therapy-bachelor-of-science-full-time-8650bsc/
+--------------------------------------------------
+Program Name: Sexual Health Rehabilitationinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/sexual-health-rehabilitation-microcredential-part-time-0870cm/
+--------------------------------------------------
+Program Name: Sexual and Reproductive Health Foundationsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/sexual-and-reproductive-health-foundations-microcredential-part-time-0859cm/
+--------------------------------------------------
+Program Name: Sonography (Cardiac Option)
+Credential: Advanced Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/sonography-cardiac-option-advanced-diploma-full-time-712badvdip/
+--------------------------------------------------
+Program Name: Specialty Nursing (Critical Care - Combined Critical Care/Emergency Option)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-critical-care-combined-critical-care-emergency-option-bachelor-of-science-in-nursing-part-time-810kbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Critical Care - Standard Option)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-critical-care-standard-option-bachelor-of-science-in-nursing-part-time-810absn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Emergency - Combined Emergency/Critical Care Option)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-emergency-combined-emergency-critical-care-option-bachelor-of-science-in-nursing-part-time-810nbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Emergency - Standard Option)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-emergency-standard-option-bachelor-of-science-in-nursing-part-time-810bbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (High Acuity)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-high-acuity-bachelor-of-science-in-nursing-part-time-810mbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Neonatal)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-neonatal-bachelor-of-science-in-nursing-part-time-810cbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Nephrology)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-nephrology-bachelor-of-science-in-nursing-part-time-810dbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Pediatric - Critical Care Option)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-pediatric-critical-care-option-bachelor-of-science-in-nursing-part-time-810qbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Pediatric - Standard Option)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-pediatric-standard-option-bachelor-of-science-in-nursing-part-time-810fbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Perinatal - Perioperative Option)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-perinatal-perioperative-option-bachelor-of-science-in-nursing-part-time-810sbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Perinatal - Standard Option)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-perinatal-standard-option-bachelor-of-science-in-nursing-part-time-810gbsn/
+--------------------------------------------------
+Program Name: Specialty Nursing (Perioperative)international
+Credential: Bachelor of Science in Nursing
+Format: Part-time
+Link: https://www.bcit.ca/programs/specialty-nursing-perioperative-bachelor-of-science-in-nursing-part-time-810hbsn/
+--------------------------------------------------
+Program Name: Sterile Field and the Aseptic Environment
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/sterile-field-and-the-aseptic-environment-microcredential-part-time-0846cm/
+--------------------------------------------------
+Program Name: Technical Writinginternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/technical-writing-associate-certificate-part-time-6425acert/
+--------------------------------------------------
+Program Name: Technology Managementinternational
+Credential: Bachelor of Technology
+Format: Part-time
+Link: https://www.bcit.ca/programs/technology-management-bachelor-of-technology-part-time-8350btech/
+--------------------------------------------------
+
+Programs from: https://www.bcit.ca/study/trades-apprenticeships/programs/
+--------------------------------------------------
+Program Name: Technology Teacher Education
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/technology-teacher-education-diploma-full-time-605ddipma/
+--------------------------------------------------
+Program Name: Trades Discovery General
+Credential: Associate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/trades-discovery-general-associate-certificate-full-time-1180acert/
+--------------------------------------------------
+Program Name: Trades Discovery for Women
+Credential: Associate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/trades-discovery-for-women-associate-certificate-full-time-1190acert/
+--------------------------------------------------
+Program Name: Architectural and Structural CADD and Graphics Technician (Architectural Option)international
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/architectural-and-structural-cadd-and-graphics-technician-architectural-option-certificate-full-time-1720certts/
+--------------------------------------------------
+Program Name: Architectural and Structural CADD and Graphics Technician (Structural Option)international
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/architectural-and-structural-cadd-and-graphics-technician-structural-option-certificate-full-time-1710certts/
+--------------------------------------------------
+Program Name: Automated Controls Installation and Maintenanceinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/automated-controls-installation-and-maintenance-advanced-certificate-part-time-1320adcert/
+--------------------------------------------------
+Program Name: Boilermaker
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/boilermaker-apprenticeship-full-time-3150appr/
+--------------------------------------------------
+Program Name: Boilermaker Foundation
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/boilermaker-foundation-certificate-full-time-1450ttcert/
+--------------------------------------------------
+Program Name: Building Controls & Energy Managementinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-controls-and-energy-management-advanced-certificate-part-time-5095adcert/
+--------------------------------------------------
+Program Name: Cabinetmaker (Joiner)
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/cabinetmaker-joiner-apprenticeship-full-time-4870appr/
+--------------------------------------------------
+Program Name: Cabinetmaker (Joiner) Foundationinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/cabinetmaker-joiner-foundation-certificate-full-time-2060cert/
+--------------------------------------------------
+Program Name: Carpentry
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/carpentry-apprenticeship-full-time-3230appr/
+--------------------------------------------------
+Program Name: Carpentry Framing and Forming Foundationinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/carpentry-framing-and-forming-foundation-certificate-full-time-1645cert/
+--------------------------------------------------
+Program Name: Construction Drawingsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-drawings-associate-certificate-part-time-1155acert/
+--------------------------------------------------
+Program Name: Construction EstimatinginternationalPGWP
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-estimating-certificate-part-time-6530cert/
+--------------------------------------------------
+Program Name: Construction Operationsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-operations-associate-certificate-part-time-7720acert/
+--------------------------------------------------
+Program Name: Construction Supervisioninternational
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-supervision-certificate-part-time-7730cert/
+--------------------------------------------------
+Program Name: Construction of Mass Timber Structuresinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/construction-of-mass-timber-structures-associate-certificate-part-time-5225acert/
+--------------------------------------------------
+Program Name: Electrical
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/electrical-apprenticeship-full-time-3440appr/
+--------------------------------------------------
+Program Name: Electrical Foundation
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/electrical-foundation-certificate-full-time-1780cert/
+--------------------------------------------------
+Program Name: Essential Technical Skills for Architecture, Construction, and Engineering
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/essential-technical-skills-for-architecture-construction-and-engineering-certificate-part-time-6090cert/
+--------------------------------------------------
+Program Name: Essentials of Net-Zero and Passive House Constructioninternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essentials-of-net-zero-and-passive-house-construction-microcredential-part-time-0819cm/
+--------------------------------------------------
+Program Name: Fundamentals of Water and Wastewater Operations
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/fundamentals-of-water-and-wastewater-operations-associate-certificate-part-time-6040acert/
+--------------------------------------------------
+Program Name: Gasfitter - Class A
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/gasfitter-class-a-apprenticeship-full-time-3330appr/
+--------------------------------------------------
+Program Name: Gasfitter - Class B
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/gasfitter-class-b-apprenticeship-full-time-3320appr/
+--------------------------------------------------
+Program Name: House Inspection
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/house-inspection-statement-of-completion-part-time-0700000000/
+--------------------------------------------------
+Program Name: Hydronic Technicianinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/hydronic-technician-associate-certificate-part-time-1790acert/
+--------------------------------------------------
+Program Name: Industrial Electrician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/industrial-electrician-apprenticeship-full-time-3790appr/
+--------------------------------------------------
+Program Name: Interior Designinternationalco-op
+Credential: Bachelor of Interior Design
+Format: Full-time
+Link: https://www.bcit.ca/programs/interior-design-bachelor-of-interior-design-full-time-8830bid/
+--------------------------------------------------
+Program Name: Interior Designinternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/interior-design-diploma-full-time-6220fdipma/
+--------------------------------------------------
+Program Name: Interior Designinternational
+Credential: Diploma
+Format: Part-time
+Link: https://www.bcit.ca/programs/interior-design-diploma-part-time-6220pdipma/
+--------------------------------------------------
+Program Name: Interior Design Fundamentalsinternational
+Credential: Certificate
+Format: Full-time/Part-time
+Link: https://www.bcit.ca/programs/interior-design-fundamentals-certificate-full-time-part-time-6195cert/
+--------------------------------------------------
+Program Name: Introductory Studies in Mass Timber Constructioninternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/introductory-studies-in-mass-timber-construction-microcredential-part-time-0800cm/
+--------------------------------------------------
+Program Name: Ironworker - Reinforcing
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/ironworker-reinforcing-apprenticeship-full-time-3015appr/
+--------------------------------------------------
+Program Name: Ironworker Foundation
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/ironworker-foundation-certificate-full-time-2000ttcert/
+--------------------------------------------------
+Program Name: Ironworker Generalist
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/ironworker-generalist-apprenticeship-full-time-3860appr/
+--------------------------------------------------
+Program Name: Marine Fitter
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/marine-fitter-apprenticeship-full-time-4030appr/
+--------------------------------------------------
+Program Name: Metal Fabricator
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/metal-fabricator-apprenticeship-full-time-4430appr/
+--------------------------------------------------
+Program Name: Metal Fabricator Foundationinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/metal-fabricator-foundation-certificate-full-time-2825cert/
+--------------------------------------------------
+Program Name: Piping Foundationinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/piping-foundation-certificate-full-time-2440cert/
+--------------------------------------------------
+Program Name: Plumber
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/plumber-apprenticeship-full-time-4160appr/
+--------------------------------------------------
+Program Name: Residential Air to Air Heat Pump Specialist
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/residential-air-to-air-heat-pump-specialist-microcredential-part-time-0862cm/
+--------------------------------------------------
+Program Name: Retrofit Solutions for Rural Communities
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/retrofit-solutions-for-rural-communities-microcredential-part-time-0856cm/
+--------------------------------------------------
+Program Name: Roadworks Maintenance
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/roadworks-maintenance-statement-of-completion-part-time-5620000000/
+--------------------------------------------------
+Program Name: Security Systems Technicianinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/security-systems-technician-certificate-full-time-2915cert/
+--------------------------------------------------
+Program Name: Sheet Metal
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/sheet-metal-apprenticeship-full-time-4365appr/
+--------------------------------------------------
+Program Name: Sheet Metal Worker Foundationinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/sheet-metal-worker-foundation-certificate-full-time-2645cert/
+--------------------------------------------------
+Program Name: Steamfitter/Pipefitter
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/steamfitter-pipefitter-apprenticeship-full-time-4420appr/
+--------------------------------------------------
+Program Name: Supervising Net-Zero and Passive House Constructioninternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/supervising-net-zero-and-passive-house-construction-microcredential-part-time-0815cm/
+--------------------------------------------------
+Program Name: Welder
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/welder-apprenticeship-full-time-4790appr/
+--------------------------------------------------
+Program Name: Welder Foundation
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/welder-foundation-certificate-full-time-2847cert/
+--------------------------------------------------
+Program Name: Welding, Level A
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/welding-level-a-certificate-full-time-2870ttcert/
+--------------------------------------------------
+Program Name: Welding, Level B
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/welding-level-b-certificate-full-time-2860ttcert/
+--------------------------------------------------
+Program Name: Whole-Building Life Cycle Assessment Professionalinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/whole-building-life-cycle-assessment-professional-microcredential-part-time-0830cm/
+--------------------------------------------------
+Program Name: Automated Controls Installation and Maintenanceinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/automated-controls-installation-and-maintenance-advanced-certificate-part-time-1320adcert/
+--------------------------------------------------
+Program Name: Digital Communications and Wireless TechnologiesinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/digital-communications-and-wireless-technologies-diploma-full-time-5105dipma/
+--------------------------------------------------
+Program Name: Electrical
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/electrical-apprenticeship-full-time-3440appr/
+--------------------------------------------------
+Program Name: Electrical Foundation
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/electrical-foundation-certificate-full-time-1780cert/
+--------------------------------------------------
+Program Name: Essentials of Net-Zero and Passive House Constructioninternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essentials-of-net-zero-and-passive-house-construction-microcredential-part-time-0819cm/
+--------------------------------------------------
+Program Name: Fiber Optics - Principles, Installation and Repair
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/fiber-optics-principles-installation-and-repair-microcredential-part-time-0839cm/
+--------------------------------------------------
+Program Name: Heat Pump Maintenance and Troubleshooting
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/heat-pump-maintenance-and-troubleshooting-microcredential-part-time-0860cm/
+--------------------------------------------------
+Program Name: Industrial Electrician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/industrial-electrician-apprenticeship-full-time-3790appr/
+--------------------------------------------------
+Program Name: Industrial Instrumentation and Process Control TechnicianinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/industrial-instrumentation-and-process-control-technician-diploma-full-time-2945dipma/
+--------------------------------------------------
+Program Name: Instrumentation and Control Technician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/instrumentation-and-control-technician-apprenticeship-full-time-3765appr/
+--------------------------------------------------
+Program Name: Renewable Energy Electrical Systems Installation & Maintenanceinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/renewable-energy-electrical-systems-installation-and-maintenance-advanced-certificate-part-time-6185adcert/
+--------------------------------------------------
+Program Name: Security Systems Technicianinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/security-systems-technician-certificate-full-time-2915cert/
+--------------------------------------------------
+Program Name: Automated Controls Installation and Maintenanceinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/automated-controls-installation-and-maintenance-advanced-certificate-part-time-1320adcert/
+--------------------------------------------------
+Program Name: Building Controls & Energy Managementinternational
+Credential: Advanced Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/building-controls-and-energy-management-advanced-certificate-part-time-5095adcert/
+--------------------------------------------------
+Program Name: CNC Machinist Technicianco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/cnc-machinist-technician-diploma-full-time-1525ttdipl/
+--------------------------------------------------
+Program Name: Essentials of Net-Zero and Passive House Constructioninternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/essentials-of-net-zero-and-passive-house-construction-microcredential-part-time-0819cm/
+--------------------------------------------------
+Program Name: Fire Protection Inspection and Testing
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/fire-protection-inspection-and-testing-associate-certificate-part-time-675facert/
+--------------------------------------------------
+Program Name: Heat Pump Maintenance and Troubleshooting
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/heat-pump-maintenance-and-troubleshooting-microcredential-part-time-0860cm/
+--------------------------------------------------
+Program Name: Heating, Ventilation, Air Conditioning and Refrigeration Technician
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/heating-ventilation-air-conditioning-and-refrigeration-technician-certificate-full-time-2958cert/
+--------------------------------------------------
+Program Name: Heating, Ventilation, Air Conditioning and Refrigeration Technicianco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/heating-ventilation-air-conditioning-and-refrigeration-technician-diploma-full-time-2992dipma/
+--------------------------------------------------
+Program Name: Machinist
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/machinist-apprenticeship-full-time-3940appr/
+--------------------------------------------------
+Program Name: Machinist Foundationinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/machinist-foundation-certificate-full-time-2175ttcert/
+--------------------------------------------------
+Program Name: Millwright
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/millwright-apprenticeship-full-time-4015appr/
+--------------------------------------------------
+Program Name: Millwright Foundation
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/millwright-foundation-certificate-full-time-2230cert/
+--------------------------------------------------
+Program Name: Power Engineering (General Program)internationalPGWP
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/power-engineering-general-program-certificate-full-time-2410ttcert/
+--------------------------------------------------
+Program Name: Power and Process EngineeringinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/power-and-process-engineering-diploma-full-time-2430dipma/
+--------------------------------------------------
+Program Name: Refrigeration
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/refrigeration-apprenticeship-full-time-4230appr/
+--------------------------------------------------
+Program Name: Refrigeration and Air Conditioning Mechanic Foundationinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/refrigeration-and-air-conditioning-mechanic-foundation-certificate-full-time-2425cert/
+--------------------------------------------------
+Program Name: Residential Air to Air Heat Pump Specialist
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/residential-air-to-air-heat-pump-specialist-microcredential-part-time-0862cm/
+--------------------------------------------------
+Program Name: Wind Turbine Essentialsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/wind-turbine-essentials-microcredential-part-time-0847cm/
+--------------------------------------------------
+Program Name: Advanced Gas Turbine
+Credential: BCIT/Industry Partnership Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/advanced-gas-turbine-bcit-industry-partnership-certificate-full-time-1195ipcert/
+--------------------------------------------------
+Program Name: Aircraft Defect Inspection and Reporting Techniques
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/aircraft-defect-inspection-and-reporting-techniques-microcredential-part-time-0851cm/
+--------------------------------------------------
+Program Name: Aircraft Gas Turbine TechnicianinternationalPGWP
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/aircraft-gas-turbine-technician-certificate-full-time-1030certts/
+--------------------------------------------------
+Program Name: Aircraft Maintenance Engineer Category 'M' (Maintenance)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/aircraft-maintenance-engineer-category-m-maintenance-diploma-full-time-1230dipma/
+--------------------------------------------------
+Program Name: Aircraft Maintenance Engineer Category ‘E’ (Electronics)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/aircraft-maintenance-engineer-category-e-electronics-diploma-full-time-1165dipma/
+--------------------------------------------------
+Program Name: Airline and Flight Operations Commercial Pilot (Fixed-Wing)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/airline-and-flight-operations-commercial-pilot-fixed-wing-diploma-full-time-100adipma/
+--------------------------------------------------
+Program Name: Airline and Flight Operations Commercial Pilot (Rotary-Wing)internationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/airline-and-flight-operations-commercial-pilot-rotary-wing-diploma-full-time-100bdipma/
+--------------------------------------------------
+Program Name: Airport Operationsinternational
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/airport-operations-associate-certificate-part-time-1070acert/
+--------------------------------------------------
+Program Name: Auto Body Repair and Refinishing Technician Foundation
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/auto-body-repair-and-refinishing-technician-foundation-certificate-full-time-1255cert/
+--------------------------------------------------
+Program Name: Auto Body and Collision Technician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/auto-body-and-collision-technician-apprenticeship-full-time-3130appr/
+--------------------------------------------------
+Program Name: Automotive Collision Estimator
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/automotive-collision-estimator-microcredential-part-time-0857cm/
+--------------------------------------------------
+Program Name: Automotive Collision and Refinishing Common Core
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-collision-and-refinishing-common-core-apprenticeship-full-time-3120appr/
+--------------------------------------------------
+Program Name: Automotive Refinishing Technician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-refinishing-technician-apprenticeship-full-time-3140appr/
+--------------------------------------------------
+Program Name: Automotive Service Management Essentialsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/automotive-service-management-essentials-microcredential-part-time-0838cm/
+--------------------------------------------------
+Program Name: Automotive Service Technician and Operationsinternationalco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-service-technician-and-operations-diploma-full-time-1430dipma/
+--------------------------------------------------
+Program Name: Automotive Service Technician and Operations (Ford ASSET Option)co-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-service-technician-and-operations-ford-asset-option-diploma-full-time-143adipma/
+--------------------------------------------------
+Program Name: Automotive Service Technician and Operations - Non-Co-op Optioninternational
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-service-technician-and-operations-non-co-op-option-diploma-full-time-143bdipma/
+--------------------------------------------------
+Program Name: Automotive Technician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-technician-apprenticeship-full-time-4860appr/
+--------------------------------------------------
+Program Name: Automotive Technician (Honda/Acura Foundation)
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-technician-honda-acura-foundation-certificate-full-time-1360cert/
+--------------------------------------------------
+Program Name: Automotive Technician (Toyota Foundation)
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-technician-toyota-foundation-certificate-full-time-1375ttcert/
+--------------------------------------------------
+Program Name: Automotive Technician Foundation
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-technician-foundation-certificate-full-time-1355ttcert/
+--------------------------------------------------
+Program Name: Automotive Technician GM (ASEP)
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/automotive-technician-gm-asep-apprenticeship-full-time-4840appr/
+--------------------------------------------------
+Program Name: Aviation Management and OperationsinternationalPGWP
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/aviation-management-and-operations-diploma-full-time-1175dipma/
+--------------------------------------------------
+Program Name: Bridge Watch Rating
+Credential: Associate Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/bridge-watch-rating-associate-certificate-full-time-2933acert/
+--------------------------------------------------
+Program Name: Chief Mate
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/chief-mate-certificate-part-time-2020certts/
+--------------------------------------------------
+Program Name: Diesel Engine Mechanic
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/diesel-engine-mechanic-apprenticeship-full-time-0110appr/
+--------------------------------------------------
+Program Name: Heavy Duty Equipment Technician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/heavy-duty-equipment-technician-apprenticeship-full-time-4530appr/
+--------------------------------------------------
+Program Name: Heavy Duty Truck Technologyinternationalco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/heavy-duty-truck-technology-diploma-full-time-1855dipma/
+--------------------------------------------------
+Program Name: Heavy Mechanical Trades Apprenticeship
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/heavy-mechanical-trades-apprenticeship-apprenticeship-full-time-4610appr/
+--------------------------------------------------
+Program Name: Heavy Mechanical Trades FoundationinternationalPGWP
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/heavy-mechanical-trades-foundation-certificate-full-time-1940cert/
+--------------------------------------------------
+Program Name: Marine Business Essentialsinternational
+Credential: Microcredential
+Format: Part-time
+Link: https://www.bcit.ca/programs/marine-business-essentials-microcredential-part-time-0864cm/
+--------------------------------------------------
+Program Name: Marine Engineeringco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/marine-engineering-diploma-full-time-2942dipma/
+--------------------------------------------------
+Program Name: Marine Mechanical Technician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/marine-mechanical-technician-apprenticeship-full-time-4630appr/
+--------------------------------------------------
+Program Name: Marine Mechanical Technician Foundationinternational
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/marine-mechanical-technician-foundation-certificate-full-time-1920cert/
+--------------------------------------------------
+Program Name: Master 150GT Domestic
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/master-150gt-domestic-associate-certificate-part-time-2505acerts/
+--------------------------------------------------
+Program Name: Master 500GT Domestic
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/master-500gt-domestic-associate-certificate-part-time-2515acerts/
+--------------------------------------------------
+Program Name: Master 3000GT Domestic
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/master-3000gt-domestic-certificate-part-time-2522certts/
+--------------------------------------------------
+Program Name: Motorcycle Technician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/motorcycle-technician-apprenticeship-full-time-4025appr/
+--------------------------------------------------
+Program Name: Motorcycle Technician Foundation
+Credential: Certificate
+Format: Full-time
+Link: https://www.bcit.ca/programs/motorcycle-technician-foundation-certificate-full-time-2365cert/
+--------------------------------------------------
+Program Name: Nautical Sciencesco-op
+Credential: Diploma
+Format: Full-time
+Link: https://www.bcit.ca/programs/nautical-sciences-diploma-full-time-2536dipma/
+--------------------------------------------------
+Program Name: Railway Conductor and Operations
+Credential: Associate Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/railway-conductor-and-operations-associate-certificate-part-time-1685acert/
+--------------------------------------------------
+Program Name: Road Area Manager Certification
+Credential: Statement of Completion
+Format: Part-time
+Link: https://www.bcit.ca/programs/road-area-manager-certification-statement-of-completion-part-time-0425000000/
+--------------------------------------------------
+Program Name: Transport Trailer Technician
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/transport-trailer-technician-apprenticeship-full-time-3660appr/
+--------------------------------------------------
+Program Name: Truck and Transport Mechanic
+Credential: Apprenticeship
+Format: Full-time
+Link: https://www.bcit.ca/programs/truck-and-transport-mechanic-apprenticeship-full-time-4045appr/
+--------------------------------------------------
+Program Name: Watchkeeping Mate Near Coastal (WKMNC)
+Credential: Certificate
+Format: Part-time
+Link: https://www.bcit.ca/programs/watchkeeping-mate-near-coastal-wkmnc-certificate-part-time-2542certts/
+--------------------------------------------------
+

@@ -1,0 +1,62 @@
+Courses for Program: https://www.bcit.ca/programs/combined-honours-in-biochemistry-and-forensic-science-bachelor-of-science-full-time-9940bsc/
+--------------------------------------------------
+Course Number: COMM 7200
+Course Link: None
+Course Name: Report Writing and Workplace Communication for Forensic Investigation
+--------------------------------------------------
+Course Number: FSCT 7320
+Course Link: None
+Course Name: Introduction to Forensic Science
+--------------------------------------------------
+Course Number: LIBS 7002
+Course Link: None
+Course Name: Applied Ethics
+--------------------------------------------------
+Course Number: FSCT 7910
+Course Link: None
+Course Name: Research Methodology and Measurement Models
+--------------------------------------------------
+Course Number: FSCT 8150
+Course Link: None
+Course Name: Forensic Biology: DNA Typing Theory
+--------------------------------------------------
+Course Number: FSCT 8155
+Course Link: None
+Course Name: Forensic Biology: Evidence Recovery
+--------------------------------------------------
+Course Number: FSCT 8370
+Course Link: None
+Course Name: Quality Assurance for Forensic Science
+--------------------------------------------------
+Course Number: FSCT 8371
+Course Link: None
+Course Name: Business Management for Forensic Science
+--------------------------------------------------
+Course Number: FSCT 8230
+Course Link: None
+Course Name: The Medicolegal Aspects of Alcohol
+--------------------------------------------------
+Course Number: FSCT 8240
+Course Link: None
+Course Name: Forensic Toxicology
+--------------------------------------------------
+Course Number: FSCT 8320
+Course Link: None
+Course Name: The Science of Fingerprints - Theory
+--------------------------------------------------
+Course Number: FSCT 7009
+Course Link: None
+Course Name: Law for Forensic Science
+--------------------------------------------------
+Course Number: FSCT 7010
+Course Link: None
+Course Name: The Expert Witness: Prepared for Court
+--------------------------------------------------
+Course Number: FSCT 8156
+Course Link: None
+Course Name: Instrumental Analysis for Forensic Chemistry
+--------------------------------------------------
+Course Number: FSCT 8160
+Course Link: None
+Course Name: Forensic Biology: DNA Typing Applications
+--------------------------------------------------

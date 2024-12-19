@@ -1,0 +1,118 @@
+Courses for Program: https://www.bcit.ca/programs/international-trade-and-transportation-logistics-certificate-part-time-7460mcert/
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: /courses/business-mathematics-opmt-1110/
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: OPMT 1130
+Course Link: /courses/business-statistics-opmt-1130/
+Course Name: Business Statistics
+--------------------------------------------------
+Course Number: TDMT 1104
+Course Link: /courses/international-trade-1-tdmt-1104/
+Course Name: International Trade 1
+--------------------------------------------------
+Course Number: TDMT 1409
+Course Link: /courses/canada-customs-and-free-trade-agreements-tdmt-1409/
+Course Name: Canada Customs and Free Trade Agreements
+--------------------------------------------------
+Course Number: TDMT 2203
+Course Link: /courses/transportation-economics-tdmt-2203/
+Course Name: Transportation Economics
+--------------------------------------------------
+Course Number: TDMT 2204
+Course Link: /courses/international-trade-2-tdmt-2204/
+Course Name: International Trade 2
+--------------------------------------------------
+Course Number: TDMT 4410
+Course Link: /courses/logistics-management-tdmt-4410/
+Course Name: Logistics Management
+--------------------------------------------------
+Course Number: TDMT 1150
+Course Link: /courses/transportation-systems-citt-tdmt-1150/
+Course Name: Transportation Systems (CITT)
+--------------------------------------------------
+Course Number: TDMT 1204
+Course Link: /courses/international-transportation-and-trade-ciffa-tdmt-1204/
+Course Name: International Transportation and Trade (CIFFA)
+--------------------------------------------------
+Course Number: TDMT 1205
+Course Link: /courses/essentials-of-freight-forwarding-ciffa-tdmt-1205/
+Course Name: Essentials of Freight Forwarding (CIFFA)
+--------------------------------------------------
+Course Number: TDMT 2251
+Course Link: /courses/logistics-processes-citt-tdmt-2251/
+Course Name: Logistics Processes (CITT)
+--------------------------------------------------
+Course Number: ASCM 1000
+Course Link: /courses/basics-of-supply-chain-management-ascm-1000/
+Course Name: Basics of Supply Chain Management
+--------------------------------------------------
+Course Number: BSYS 2051
+Course Link: /courses/introduction-to-business-data-analytics-with-ms-excel-ms-365-for-windows-bsys-2051/
+Course Name: Introduction to Business Data Analytics with MS Excel-MS 365 for Windows
+--------------------------------------------------
+Course Number: COMM 2203
+Course Link: /courses/business-and-technical-reports-comm-2203/
+Course Name: Business and Technical Reports
+--------------------------------------------------
+Course Number: ECON 1150
+Course Link: /courses/economic-issues-econ-1150/
+Course Name: Economic Issues
+--------------------------------------------------
+Course Number: FMGT 1152
+Course Link: /courses/accounting-for-the-manager-fmgt-1152/
+Course Name: Accounting for the Manager
+--------------------------------------------------
+Course Number: OPMT 1175
+Course Link: /courses/warehouse-management-1-opmt-1175/
+Course Name: Warehouse Management 1
+--------------------------------------------------
+Course Number: OPMT 1191
+Course Link: /courses/purchasing-opmt-1191/
+Course Name: Purchasing
+--------------------------------------------------
+Course Number: OPMT 1198
+Course Link: /courses/operations-management-fundamentals-opmt-1198/
+Course Name: Operations Management Fundamentals
+--------------------------------------------------
+Course Number: TDMT 2280
+Course Link: /courses/transportation-law-tdmt-2280/
+Course Name: Transportation Law
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: /courses/essentials-of-marketing-mktg-1102/
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: MKTG 1112
+Course Link: /courses/customer-relations-mktg-1112/
+Course Name: Customer Relations
+--------------------------------------------------
+Course Number: BLAW 3425
+Course Link: /courses/international-law-blaw-3425/
+Course Name: International  Law
+--------------------------------------------------
+Course Number: BSUS 1110
+Course Link: /courses/introduction-to-sustainable-business-management-bsus-1110/
+Course Name: Introduction to Sustainable Business Management
+--------------------------------------------------
+Course Number: BUSA 1305
+Course Link: /courses/supervisory-skills-busa-1305/
+Course Name: Supervisory Skills
+--------------------------------------------------
+Course Number: BUSA 2005
+Course Link: /courses/principles-of-management-busa-2005/
+Course Name: Principles of Management
+--------------------------------------------------
+Course Number: BUSA 4500
+Course Link: /courses/international-business-practices-busa-4500/
+Course Name: International Business Practices
+--------------------------------------------------
+Course Number: BUSA 4705
+Course Link: /courses/leading-people-and-teams-across-cultures-busa-4705/
+Course Name: Leading People and Teams Across Cultures
+--------------------------------------------------
+Course Number: ORGB 1105
+Course Link: /courses/organizational-behaviour-orgb-1105/
+Course Name: Organizational Behaviour
+--------------------------------------------------

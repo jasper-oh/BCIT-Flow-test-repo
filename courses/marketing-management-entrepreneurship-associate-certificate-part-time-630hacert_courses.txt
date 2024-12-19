@@ -1,0 +1,82 @@
+Courses for Program: https://www.bcit.ca/programs/marketing-management-entrepreneurship-associate-certificate-part-time-630hacert/
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: /courses/essentials-of-marketing-mktg-1102/
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: MKTG 1219
+Course Link: /courses/professional-sales-skills-mktg-1219/
+Course Name: Professional Sales Skills
+--------------------------------------------------
+Course Number: MKTG 1324
+Course Link: /courses/small-business-development-mktg-1324/
+Course Name: Small Business Development
+--------------------------------------------------
+Course Number: MKTG 1352
+Course Link: /courses/digital-marketing-mktg-1352/
+Course Name: Digital Marketing
+--------------------------------------------------
+Course Number: MKTG 2324
+Course Link: /courses/small-business-management-mktg-2324/
+Course Name: Small Business Management
+--------------------------------------------------
+Course Number: MKTG 3319
+Course Link: /courses/advanced-sales-and-business-development-mktg-3319/
+Course Name: Advanced Sales & Business Development
+--------------------------------------------------
+Course Number: COMM 1106
+Course Link: /courses/introduction-to-business-and-technical-communication-with-language-development-component-comm-1106/
+Course Name: Introduction to Business and Technical Communication (With Language Development Component)
+--------------------------------------------------
+Course Number: FMGT 1100
+Course Link: /courses/accounting-1-fmgt-1100/
+Course Name: Accounting 1
+--------------------------------------------------
+Course Number: MKTG 1120
+Course Link: /courses/event-planning-essentials-mktg-1120/
+Course Name: Event Planning Essentials
+--------------------------------------------------
+Course Number: MKTG 1146
+Course Link: /courses/introduction-to-sustainable-marketing-mktg-1146/
+Course Name: Introduction to Sustainable Marketing
+--------------------------------------------------
+Course Number: MKTG 1550
+Course Link: /courses/social-media-essentials-mktg-1550/
+Course Name: Social Media Essentials
+--------------------------------------------------
+Course Number: MKTG 1820
+Course Link: /courses/financing-for-a-new-or-growing-business-mktg-1820/
+Course Name: Financing For a New or Growing Business
+--------------------------------------------------
+Course Number: MKTG 1822
+Course Link: /courses/personal-finance-fundamentals-mktg-1822/
+Course Name: Personal Finance Fundamentals
+--------------------------------------------------
+Course Number: MKTG 2225
+Course Link: /courses/project-management-in-marketing-mktg-2225/
+Course Name: Project Management in Marketing
+--------------------------------------------------
+Course Number: MKTG 2352
+Course Link: /courses/content-planning-mktg-2352/
+Course Name: Content Planning
+--------------------------------------------------
+Course Number: MKTG 2452
+Course Link: /courses/search-engine-marketing-seo-and-paid-search-mktg-2452/
+Course Name: Search Engine Marketing: SEO and Paid Search
+--------------------------------------------------
+Course Number: MKTG 2552
+Course Link: /courses/youtube-marketing-mktg-2552/
+Course Name: YouTube Marketing
+--------------------------------------------------
+Course Number: MKTG 2909
+Course Link: /courses/fundamentals-of-marketing-research-mktg-2909/
+Course Name: Fundamentals of Marketing Research
+--------------------------------------------------
+Course Number: MKTG 3113
+Course Link: /courses/customer-relationship-management-mktg-3113/
+Course Name: Customer Relationship Management
+--------------------------------------------------
+Course Number: MKTG 3325
+Course Link: /courses/consumer-behaviour-mktg-3325/
+Course Name: Consumer Behaviour
+--------------------------------------------------

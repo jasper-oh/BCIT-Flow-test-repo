@@ -1,0 +1,54 @@
+Courses for Program: https://www.bcit.ca/programs/automotive-technician-toyota-foundation-certificate-full-time-1375ttcert/
+--------------------------------------------------
+Course Number: AUTO 1500
+Course Link: None
+Course Name: Workplace Safety
+--------------------------------------------------
+Course Number: AUTO 1501
+Course Link: None
+Course Name: Employment Readiness
+--------------------------------------------------
+Course Number: AUTO 1502
+Course Link: None
+Course Name: Tools and Equipment
+--------------------------------------------------
+Course Number: AUTO 1503
+Course Link: None
+Course Name: Electrical and Electronic Systems
+--------------------------------------------------
+Course Number: AUTO 1504
+Course Link: None
+Course Name: Wheels, Hubs, and Tires
+--------------------------------------------------
+Course Number: AUTO 1505
+Course Link: None
+Course Name: Welding
+--------------------------------------------------
+Course Number: AUTO 1506
+Course Link: None
+Course Name: Brake Systems
+--------------------------------------------------
+Course Number: AUTO 1507
+Course Link: None
+Course Name: Suspension Systems
+--------------------------------------------------
+Course Number: AUTO 1508
+Course Link: None
+Course Name: Steering Systems
+--------------------------------------------------
+Course Number: AUTO 1509
+Course Link: None
+Course Name: Principles of Internal Combustion Engines
+--------------------------------------------------
+Course Number: AUTO 1510
+Course Link: None
+Course Name: General Automotive Maintenance
+--------------------------------------------------
+Course Number: AUTO 1511
+Course Link: None
+Course Name: Work Practicum
+--------------------------------------------------
+Course Number: AUTO 1512
+Course Link: None
+Course Name: Driveshafts and Axles
+--------------------------------------------------

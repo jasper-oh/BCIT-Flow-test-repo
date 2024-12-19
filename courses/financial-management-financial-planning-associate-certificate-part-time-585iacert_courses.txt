@@ -1,0 +1,34 @@
+Courses for Program: https://www.bcit.ca/programs/financial-management-financial-planning-associate-certificate-part-time-585iacert/
+--------------------------------------------------
+Course Number: BLAW 3100
+Course Link: /courses/business-law-blaw-3100/
+Course Name: Business Law
+--------------------------------------------------
+Course Number: ECON 1150
+Course Link: /courses/economic-issues-econ-1150/
+Course Name: Economic Issues
+--------------------------------------------------
+Course Number: FMGT 1152
+Course Link: /courses/accounting-for-the-manager-fmgt-1152/
+Course Name: Accounting for the Manager
+--------------------------------------------------
+Course Number: FMGT 3430
+Course Link: /courses/taxation-and-financial-planning-fmgt-3430/
+Course Name: Taxation and Financial Planning
+--------------------------------------------------
+Course Number: FMGT 3600
+Course Link: /courses/security-analysis-fmgt-3600/
+Course Name: Security Analysis
+--------------------------------------------------
+Course Number: FMGT 3830
+Course Link: /courses/fundamentals-of-financial-planning-fmgt-3830/
+Course Name: Fundamentals of Financial Planning
+--------------------------------------------------
+Course Number: FMGT 4830
+Course Link: /courses/comprehensive-financial-planning-fmgt-4830/
+Course Name: Comprehensive Financial Planning
+--------------------------------------------------
+Course Number: FMGT 4911
+Course Link: /courses/advanced-curriculum-in-financial-planning-fmgt-4911/
+Course Name: Advanced Curriculum in Financial Planning
+--------------------------------------------------

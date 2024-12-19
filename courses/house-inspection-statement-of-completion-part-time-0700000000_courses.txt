@@ -1,0 +1,26 @@
+Courses for Program: https://www.bcit.ca/programs/house-inspection-statement-of-completion-part-time-0700000000/
+--------------------------------------------------
+Course Number: BLDC 1500
+Course Link: /courses/bc-building-code-part-9-single-family-dwellings-bldc-1500/
+Course Name: BC Building Code: Part 9 (Single Family Dwellings)
+--------------------------------------------------
+Course Number: BLDC 3050
+Course Link: /courses/building-envelope-performance-bldc-3050/
+Course Name: Building Envelope Performance
+--------------------------------------------------
+Course Number: BLDG 2915
+Course Link: /courses/house-inspection-1-bldg-2915/
+Course Name: House Inspection 1
+--------------------------------------------------
+Course Number: BLDG 2925
+Course Link: /courses/house-inspection-2-bldg-2925/
+Course Name: House Inspection 2
+--------------------------------------------------
+Course Number: BLDG 2935
+Course Link: /courses/house-inspection-3-report-writing-bldg-2935/
+Course Name: House Inspection 3: Report Writing
+--------------------------------------------------
+Course Number: BLDG 2945
+Course Link: /courses/house-inspection-4-field-inspection-bldg-2945/
+Course Name: House Inspection 4: Field Inspection
+--------------------------------------------------

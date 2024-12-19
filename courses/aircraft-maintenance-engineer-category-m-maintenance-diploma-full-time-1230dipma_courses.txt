@@ -1,0 +1,94 @@
+Courses for Program: https://www.bcit.ca/programs/aircraft-maintenance-engineer-category-m-maintenance-diploma-full-time-1230dipma/
+--------------------------------------------------
+Course Number: AVCC 1100
+Course Link: None
+Course Name: Introduction to Aviation
+--------------------------------------------------
+Course Number: AVCC 1105
+Course Link: None
+Course Name: Aviation Hand Tools Hardware and Structure
+--------------------------------------------------
+Course Number: AVCC 1110
+Course Link: None
+Course Name: Physics and Drawings
+--------------------------------------------------
+Course Number: AVCC 1115
+Course Link: None
+Course Name: Sheet Metal and Fasteners
+--------------------------------------------------
+Course Number: AVCC 1120
+Course Link: None
+Course Name: Electrical Fundamentals
+--------------------------------------------------
+Course Number: AVCC 1125
+Course Link: None
+Course Name: Electrical Standard Practices
+--------------------------------------------------
+Course Number: AVAM 2215
+Course Link: None
+Course Name: Aviation Electronics
+--------------------------------------------------
+Course Number: AVAM 2220
+Course Link: None
+Course Name: Aircraft Hydraulics
+--------------------------------------------------
+Course Number: AVAM 2230
+Course Link: None
+Course Name: Landing Gear Wheels and Brakes
+--------------------------------------------------
+Course Number: AVCC 2200
+Course Link: None
+Course Name: Power Generation and Distribution Systems
+--------------------------------------------------
+Course Number: AVCC 2205
+Course Link: None
+Course Name: Aircraft Systems
+--------------------------------------------------
+Course Number: AVCC 2210
+Course Link: None
+Course Name: Aircraft Instrumentation Systems and Regulations
+--------------------------------------------------
+Course Number: AVAM 3305
+Course Link: None
+Course Name: Power Plant Introduction
+--------------------------------------------------
+Course Number: AVAM 3310
+Course Link: None
+Course Name: Aircraft Reciprocating Engines
+--------------------------------------------------
+Course Number: AVAM 3315
+Course Link: None
+Course Name: Reciprocating Engine Systems
+--------------------------------------------------
+Course Number: AVAM 3320
+Course Link: None
+Course Name: Aircraft Propellers
+--------------------------------------------------
+Course Number: AVAM 3325
+Course Link: None
+Course Name: Turbine Engines and Systems
+--------------------------------------------------
+Course Number: AVAM 3410
+Course Link: None
+Course Name: Rotary Wing Aircraft
+--------------------------------------------------
+Course Number: AVAM 3415
+Course Link: None
+Course Name: Composites
+--------------------------------------------------
+Course Number: AVAM 3420
+Course Link: None
+Course Name: Aircraft Rigging
+--------------------------------------------------
+Course Number: AVAM 4450
+Course Link: None
+Course Name: Aircraft Maintenance Organization (AMO) Operations
+--------------------------------------------------
+Course Number: AVCC 1130
+Course Link: None
+Course Name: Technical Communications
+--------------------------------------------------
+Course Number: ZATT 0000
+Course Link: None
+Course Name: Attendance
+--------------------------------------------------

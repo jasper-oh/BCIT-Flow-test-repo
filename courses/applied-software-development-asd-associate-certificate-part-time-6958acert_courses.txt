@@ -1,0 +1,50 @@
+Courses for Program: https://www.bcit.ca/programs/applied-software-development-asd-associate-certificate-part-time-6958acert/
+--------------------------------------------------
+Course Number: COMP 1516
+Course Link: /courses/programming-fundamentals-part-1-python-comp-1516/
+Course Name: Programming Fundamentals Part 1 (Python)
+--------------------------------------------------
+Course Number: COMP 2501
+Course Link: /courses/programming-fundamentals-part-2-java-comp-2501/
+Course Name: Programming Fundamentals Part 2 (Java)
+--------------------------------------------------
+Course Number: COMP 2601
+Course Link: /courses/programming-fundamentals-part-3-object-design-comp-2601/
+Course Name: Programming Fundamentals Part 3 (Object Design)
+--------------------------------------------------
+Course Number: COMP 2831
+Course Link: /courses/business-analysis-and-systems-design-comp-2831/
+Course Name: Business Analysis and Systems Design
+--------------------------------------------------
+Course Number: COMP 2511
+Course Link: /courses/procedural-programming-with-c-comp-2511/
+Course Name: Procedural Programming with C
+--------------------------------------------------
+Course Number: COMP 2833
+Course Link: /courses/agile-scrum-methods-comp-2833/
+Course Name: Agile Scrum Methods
+--------------------------------------------------
+Course Number: COMP 3601
+Course Link: /courses/application-development-with-java-comp-3601/
+Course Name: Application Development with Java
+--------------------------------------------------
+Course Number: COMP 3602
+Course Link: /courses/application-development-with-c-comp-3602/
+Course Name: Application Development with C#
+--------------------------------------------------
+Course Number: COMP 3603
+Course Link: /courses/application-development-with-c-comp-3603/
+Course Name: Application Development with C++
+--------------------------------------------------
+Course Number: COMP 3829
+Course Link: /courses/quality-assurance-and-software-testing-comp-3829/
+Course Name: Quality Assurance and Software Testing
+--------------------------------------------------
+Course Number: COMP 3912
+Course Link: /courses/ios-mobile-application-development-comp-3912/
+Course Name: iOS Mobile Application Development
+--------------------------------------------------
+Course Number: COMP 4603
+Course Link: /courses/advanced-c-application-development-comp-4603/
+Course Name: Advanced C++ Application Development
+--------------------------------------------------

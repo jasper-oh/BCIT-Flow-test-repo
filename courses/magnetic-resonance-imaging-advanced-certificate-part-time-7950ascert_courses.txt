@@ -1,0 +1,30 @@
+Courses for Program: https://www.bcit.ca/programs/magnetic-resonance-imaging-advanced-certificate-part-time-7950ascert/
+--------------------------------------------------
+Course Number: MIMG 7200
+Course Link: /courses/fundamentals-of-mri-mimg-7200/
+Course Name: Fundamentals of MRI
+--------------------------------------------------
+Course Number: MIMG 7202
+Course Link: /courses/advanced-concepts-in-mri-imaging-mimg-7202/
+Course Name: Advanced Concepts in MRI Imaging
+--------------------------------------------------
+Course Number: MIMG 7210
+Course Link: /courses/mri-clinical-applications-1-mimg-7210/
+Course Name: MRI: Clinical Applications 1
+--------------------------------------------------
+Course Number: MIMG 7220
+Course Link: /courses/mri-clinical-applications-2-mimg-7220/
+Course Name: MRI: Clinical Applications 2
+--------------------------------------------------
+Course Number: MIMG 7230
+Course Link: /courses/mri-clinical-applications-3-mimg-7230/
+Course Name: MRI: Clinical Applications 3
+--------------------------------------------------
+Course Number: MIMG 7240
+Course Link: /courses/professional-practice-mri-safety-and-patient-care-mimg-7240/
+Course Name: Professional Practice, MRI Safety, and Patient Care
+--------------------------------------------------
+Course Number: MIMG 8200
+Course Link: /courses/mri-clinical-experience-mimg-8200/
+Course Name: MRI Clinical Experience*
+--------------------------------------------------

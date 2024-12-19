@@ -1,0 +1,62 @@
+Courses for Program: https://www.bcit.ca/programs/forensic-investigation-digital-forensics-and-cybersecurity-option-advanced-certificate-part-time-528cadcert/
+--------------------------------------------------
+Course Number: FSCT 7001
+Course Link: /courses/forensic-applications-of-criminal-law-1-legal-procedures-fsct-7001/
+Course Name: Forensic Applications of Criminal Law 1: Legal Procedures
+--------------------------------------------------
+Course Number: FSCT 7002
+Course Link: /courses/criminal-law-2-legal-evidence-fsct-7002/
+Course Name: Criminal Law 2: Legal Evidence
+--------------------------------------------------
+Course Number: FSCT 7131
+Course Link: /courses/principles-of-incident-response-and-disaster-recovery-fsct-7131/
+Course Name: Principles of Incident Response and Disaster Recovery
+--------------------------------------------------
+Course Number: FSCT 7509
+Course Link: /courses/introduction-to-digital-forensics-and-evidence-imaging-fsct-7509/
+Course Name: Introduction to Digital Forensics and Evidence Imaging
+--------------------------------------------------
+Course Number: FSCT 7511
+Course Link: /courses/cybersecurity-foundations-fsct-7511/
+Course Name: Cybersecurity Foundations
+--------------------------------------------------
+Course Number: FSCT 7512
+Course Link: /courses/digital-forensics-in-the-cloud-fsct-7512/
+Course Name: Digital Forensics in the Cloud
+--------------------------------------------------
+Course Number: FSCT 8500
+Course Link: /courses/mobile-forensics-fsct-8500/
+Course Name: Mobile Forensics
+--------------------------------------------------
+Course Number: FSCT 8513
+Course Link: /courses/digital-forensics-1-fsct-8513/
+Course Name: Digital Forensics 1
+--------------------------------------------------
+Course Number: FSCT 8523
+Course Link: /courses/digital-forensics-2-fsct-8523/
+Course Name: Digital Forensics 2
+--------------------------------------------------
+Course Number: FSCT 8540
+Course Link: /courses/network-security-1-fsct-8540/
+Course Name: Network Security 1
+--------------------------------------------------
+Course Number: FSCT 8560
+Course Link: /courses/network-security-2-fsct-8560/
+Course Name: Network Security 2
+--------------------------------------------------
+Course Number: FSCT 8561
+Course Link: /courses/security-applications-fsct-8561/
+Course Name: Security Applications
+--------------------------------------------------
+Course Number: FSCT 8581
+Course Link: /courses/cryptography-fsct-8581/
+Course Name: Cryptography
+--------------------------------------------------
+Course Number: FSCT 8590
+Course Link: /courses/network-exploits-and-vulnerabilities-fsct-8590/
+Course Name: Network Exploits and Vulnerabilities
+--------------------------------------------------
+Course Number: FSCT 8592
+Course Link: /courses/special-topics-in-digital-forensics-and-cybersecurity-fsct-8592/
+Course Name: Special Topics in Digital Forensics and Cybersecurity
+--------------------------------------------------

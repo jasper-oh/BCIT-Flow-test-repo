@@ -1,0 +1,54 @@
+Courses for Program: https://www.bcit.ca/programs/front-end-web-developer-certificate-full-time-6535cert/
+--------------------------------------------------
+Course Number: FWDP 1000
+Course Link: None
+Course Name: Web Development 1
+--------------------------------------------------
+Course Number: FWDP 1100
+Course Link: None
+Course Name: Web Design Fundamentals
+--------------------------------------------------
+Course Number: FWDP 1200
+Course Link: None
+Course Name: UX Fundamentals
+--------------------------------------------------
+Course Number: FWDP 1400
+Course Link: None
+Course Name: Web Scripting 1
+--------------------------------------------------
+Course Number: FWDP 2000
+Course Link: None
+Course Name: Web Development 2
+--------------------------------------------------
+Course Number: FWDP 2200
+Course Link: None
+Course Name: Web Design Process
+--------------------------------------------------
+Course Number: FWDP 2300
+Course Link: None
+Course Name: Managing Web Projects
+--------------------------------------------------
+Course Number: FWDP 2400
+Course Link: None
+Course Name: Web Scripting 2
+--------------------------------------------------
+Course Number: FWDP 3400
+Course Link: None
+Course Name: Web Scripting 3
+--------------------------------------------------
+Course Number: FWDP 3600
+Course Link: None
+Course Name: Content Management Systems
+--------------------------------------------------
+Course Number: FWDP 3700
+Course Link: None
+Course Name: Online Stores
+--------------------------------------------------
+Course Number: FWDP 4000
+Course Link: None
+Course Name: Web Portfolio Project
+--------------------------------------------------
+Course Number: FWDP 4500
+Course Link: None
+Course Name: Capstone Project
+--------------------------------------------------

@@ -1,0 +1,46 @@
+Courses for Program: https://www.bcit.ca/programs/emergency-nursing-specialty-pediatric-emergency-option-advanced-certificate-part-time-680yadcert/
+--------------------------------------------------
+Course Number: NSCC 7150
+Course Link: /courses/dysrhythmia-interpretation-and-management-nscc-7150/
+Course Name: Dysrhythmia Interpretation and Management
+--------------------------------------------------
+Course Number: NSER 7110
+Course Link: /courses/emergency-nursing-theory-1-nser-7110/
+Course Name: Emergency Nursing Theory 1
+--------------------------------------------------
+Course Number: NSER 7210
+Course Link: /courses/emergency-nursing-theory-2-nser-7210/
+Course Name: Emergency Nursing Theory 2
+--------------------------------------------------
+Course Number: NSER 7300
+Course Link: /courses/emergency-nursing-clinical-1-nser-7300/
+Course Name: Emergency Nursing Clinical 1
+--------------------------------------------------
+Course Number: NSER 7410
+Course Link: /courses/emergency-nursing-theory-3-nser-7410/
+Course Name: Emergency Nursing Theory 3
+--------------------------------------------------
+Course Number: NSER 7500
+Course Link: /courses/emergency-nursing-clinical-2-nser-7500/
+Course Name: Emergency Nursing Clinical 2
+--------------------------------------------------
+Course Number: NSER 7610
+Course Link: /courses/pediatric-emergency-nursing-theory-1-nser-7610/
+Course Name: Pediatric Emergency Nursing Theory 1
+--------------------------------------------------
+Course Number: NSER 7620
+Course Link: /courses/pediatric-emergency-nursing-theory-2-nser-7620/
+Course Name: Pediatric Emergency Nursing Theory 2
+--------------------------------------------------
+Course Number: NSER 7630
+Course Link: /courses/pediatric-emergency-clinical-nser-7630/
+Course Name: Pediatric Emergency Clinical
+--------------------------------------------------
+Course Number: NSER 7640
+Course Link: /courses/pediatric-emergency-nursing-theory-3-nser-7640/
+Course Name: Pediatric Emergency Nursing Theory 3
+--------------------------------------------------
+Course Number: NSER 7650
+Course Link: /courses/pediatric-advanced-life-support-nser-7650/
+Course Name: Pediatric Advanced Life Support
+--------------------------------------------------

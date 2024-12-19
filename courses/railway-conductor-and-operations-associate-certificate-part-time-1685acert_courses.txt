@@ -1,0 +1,14 @@
+Courses for Program: https://www.bcit.ca/programs/railway-conductor-and-operations-associate-certificate-part-time-1685acert/
+--------------------------------------------------
+Course Number: RAIL 1001
+Course Link: /courses/railway-and-rail-yard-employment-skills-rail-1001/
+Course Name: Railway and Rail Yard Employment Skills
+--------------------------------------------------
+Course Number: RAIL 1010
+Course Link: /courses/canadian-rail-operating-rules-certification-rail-1010/
+Course Name: Canadian Rail Operating Rules Certification
+--------------------------------------------------
+Course Number: RAIL 1020
+Course Link: /courses/railway-conductor-and-operations-rail-1020/
+Course Name: Railway Conductor and Operations
+--------------------------------------------------

@@ -1,0 +1,58 @@
+Courses for Program: https://www.bcit.ca/programs/perinatal-nursing-specialty-standard-option-advanced-certificate-part-time-680cascert/
+--------------------------------------------------
+Course Number: NSPN 7100
+Course Link: /courses/perinatal-nursing-theory-1-healthy-childbearing-experiences-and-the-newborn-nspn-7100/
+Course Name: Perinatal Nursing Theory 1 - Healthy Childbearing Experiences & The Newborn
+--------------------------------------------------
+Course Number: NSPN 7150
+Course Link: /courses/the-breastfeeding-experience-nspn-7150/
+Course Name: The Breastfeeding  Experience**
+--------------------------------------------------
+Course Number: NSPN 7200
+Course Link: /courses/perinatal-theory-2-childbearing-women-nspn-7200/
+Course Name: Perinatal Theory 2 Childbearing Women
+--------------------------------------------------
+Course Number: NSPN 7250
+Course Link: /courses/fetal-health-surveillance-nspn-7250/
+Course Name: Fetal Health Surveillance***
+--------------------------------------------------
+Course Number: NSPN 7300
+Course Link: /courses/perinatal-clinical-1-nspn-7300/
+Course Name: Perinatal Clinical 1*
+--------------------------------------------------
+Course Number: NSPN 7450
+Course Link: /courses/neonatal-resuscitation-nspn-7450/
+Course Name: Neonatal Resuscitation***
+--------------------------------------------------
+Course Number: NSPN 7500
+Course Link: /courses/perinatal-clinical-2-nspn-7500/
+Course Name: Perinatal Clinical 2
+--------------------------------------------------
+Course Number: NSPN 7710
+Course Link: /courses/pelvic-exam-course-nspn-7710/
+Course Name: Pelvic Exam Course
+--------------------------------------------------
+Course Number: NSPN 7720
+Course Link: /courses/contraceptive-management-in-reproductive-health-for-bccnm-certification-nspn-7720/
+Course Name: Contraceptive Management in Reproductive Health for BCCNM Certification
+--------------------------------------------------
+Course Number: NSPN 7735
+Course Link: /courses/sexually-transmitted-infections-management-modified-nspn-7735/
+Course Name: Sexually Transmitted Infections Management Modified
+--------------------------------------------------
+Course Number: NSPN 7736
+Course Link: /courses/sexually-transmitted-infections-management-clinical-course-nspn-7736/
+Course Name: Sexually Transmitted Infections Management Clinical Course
+--------------------------------------------------
+Course Number: NSPN 7741
+Course Link: /courses/introduction-to-sexual-health-rehabilitation-nspn-7741/
+Course Name: Introduction to Sexual Health Rehabilitation
+--------------------------------------------------
+Course Number: NSPN 7750
+Course Link: /courses/sexual-health-rehabilitation-prostate-cancer-nspn-7750/
+Course Name: Sexual Health Rehabilitation - Prostate Cancer
+--------------------------------------------------
+Course Number: NSPN 7755
+Course Link: /courses/sexual-health-rehabilitation-prostate-cancer-and-sexual-health-mentorship-nspn-7755/
+Course Name: Sexual Health Rehabilitation - Prostate Cancer and Sexual Health Mentorship
+--------------------------------------------------

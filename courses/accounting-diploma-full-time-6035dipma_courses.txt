@@ -1,0 +1,106 @@
+Courses for Program: https://www.bcit.ca/programs/accounting-diploma-full-time-6035dipma/
+--------------------------------------------------
+Course Number: BSYS 1000
+Course Link: None
+Course Name: Business Information Systems
+--------------------------------------------------
+Course Number: COMM 1100
+Course Link: None
+Course Name: Business Communication 1
+--------------------------------------------------
+Course Number: ECON 2100
+Course Link: None
+Course Name: Microeconomics
+--------------------------------------------------
+Course Number: FMGT 1105
+Course Link: None
+Course Name: Accounting 1 for Financial Management
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: None
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: None
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: BSYS 2000
+Course Link: None
+Course Name: Applied Data Analytics in Excel
+--------------------------------------------------
+Course Number: BUSA 2150
+Course Link: None
+Course Name: Introduction to Organizational Development
+--------------------------------------------------
+Course Number: COMM 2200
+Course Link: None
+Course Name: Business Communication 2
+--------------------------------------------------
+Course Number: ECON 2200
+Course Link: None
+Course Name: Macroeconomics
+--------------------------------------------------
+Course Number: FMGT 2105
+Course Link: None
+Course Name: Accounting 2 for Financial Management
+--------------------------------------------------
+Course Number: FMGT 2701
+Course Link: None
+Course Name: Management Information Systems*
+--------------------------------------------------
+Course Number: OPMT 1130
+Course Link: None
+Course Name: Business Statistics
+--------------------------------------------------
+Course Number: BLAW 3100
+Course Link: None
+Course Name: Business Law
+--------------------------------------------------
+Course Number: FMGT 3110
+Course Link: None
+Course Name: Financial Accounting 1
+--------------------------------------------------
+Course Number: FMGT 3210
+Course Link: None
+Course Name: Cost/Managerial Accounting 1
+--------------------------------------------------
+Course Number: FMGT 3410
+Course Link: None
+Course Name: Taxation 1
+--------------------------------------------------
+Course Number: FMGT 3510
+Course Link: None
+Course Name: Finance 1
+--------------------------------------------------
+Course Number: FMGT 3720
+Course Link: None
+Course Name: Advanced Computer Applications 1
+--------------------------------------------------
+Course Number: FMGT 4110
+Course Link: None
+Course Name: Financial Accounting 2
+--------------------------------------------------
+Course Number: FMGT 4210
+Course Link: None
+Course Name: Cost and Managerial Accounting 2
+--------------------------------------------------
+Course Number: FMGT 4410
+Course Link: None
+Course Name: Taxation 2
+--------------------------------------------------
+Course Number: FMGT 4510
+Course Link: None
+Course Name: Finance 2
+--------------------------------------------------
+Course Number: FMGT 4710
+Course Link: None
+Course Name: Advanced Computer Applications 2
+--------------------------------------------------
+Course Number: FMGT 4915
+Course Link: None
+Course Name: Payroll Essentials
+--------------------------------------------------
+Course Number: FMGT 4920
+Course Link: None
+Course Name: Career Preparation
+--------------------------------------------------

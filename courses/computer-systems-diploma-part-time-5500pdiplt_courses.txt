@@ -1,0 +1,202 @@
+Courses for Program: https://www.bcit.ca/programs/computer-systems-diploma-part-time-5500pdiplt/
+--------------------------------------------------
+Course Number: COMP 1288
+Course Link: /courses/it-project-management-fundamentals-comp-1288/
+Course Name: IT Project Management Fundamentals
+--------------------------------------------------
+Course Number: COMP 3015
+Course Link: /courses/web-application-development-with-php-comp-3015/
+Course Name: Web Application Development with PHP
+--------------------------------------------------
+Course Number: COMP 3603
+Course Link: /courses/application-development-with-c-comp-3603/
+Course Name: Application Development with C++*
+--------------------------------------------------
+Course Number: COMP 3704
+Course Link: /courses/applied-it-security-fundamentals-comp-3704/
+Course Name: Applied IT Security Fundamentals
+--------------------------------------------------
+Course Number: COMP 3725
+Course Link: /courses/data-communications-for-cst-comp-3725/
+Course Name: Data Communications for CST
+--------------------------------------------------
+Course Number: COMP 3761
+Course Link: /courses/algorithm-analysis-and-design-comp-3761/
+Course Name: Algorithm Analysis and Design
+--------------------------------------------------
+Course Number: COMP 3833
+Course Link: /courses/object-oriented-analysis-and-design-comp-3833/
+Course Name: Object Oriented Analysis and Design
+--------------------------------------------------
+Course Number: COMP 4603
+Course Link: /courses/advanced-c-application-development-comp-4603/
+Course Name: Advanced C++ Application Development
+--------------------------------------------------
+Course Number: COMP 4737
+Course Link: /courses/introduction-to-operating-systems-for-cst-comp-4737/
+Course Name: Introduction to Operating Systems for CST
+--------------------------------------------------
+Course Number: LIBS 7102
+Course Link: /courses/ethics-for-computing-professionals-libs-7102/
+Course Name: Ethics for Computing Professionals
+--------------------------------------------------
+Course Number: MATH 1060
+Course Link: /courses/statistics-for-data-analysis-math-1060/
+Course Name: Statistics for Data Analysis
+--------------------------------------------------
+Course Number: MATH 1061
+Course Link: /courses/computer-simulations-for-statistics-math-1061/
+Course Name: Computer Simulations for Statistics
+--------------------------------------------------
+Course Number: COMP 1011
+Course Link: /courses/ux-ui-development-comp-1011/
+Course Name: UX/UI Development
+--------------------------------------------------
+Course Number: COMP 2833
+Course Link: /courses/agile-scrum-methods-comp-2833/
+Course Name: Agile Scrum Methods
+--------------------------------------------------
+Course Number: COMP 2010
+Course Link: /courses/ms-office-applications-comp-2010/
+Course Name: MS Office Applications
+--------------------------------------------------
+Course Number: COMP 2052
+Course Link: /courses/android-and-mobile-application-development-tools-comp-2052/
+Course Name: Android and Mobile Application Development Tools
+--------------------------------------------------
+Course Number: COMP 2156
+Course Link: /courses/introduction-to-microsoft-power-bi-comp-2156/
+Course Name: Introduction to Microsoft Power BI
+--------------------------------------------------
+Course Number: COMP 2252
+Course Link: /courses/sap-crystal-reports-comp-2252/
+Course Name: SAP Crystal Reports
+--------------------------------------------------
+Course Number: COMP 2256
+Course Link: /courses/introduction-to-visual-analytics-with-tableau-comp-2256/
+Course Name: Introduction to Visual Analytics with Tableau
+--------------------------------------------------
+Course Number: COMP 2362
+Course Link: /courses/microsoft-excel-advanced-comp-2362/
+Course Name: Microsoft Excel Advanced
+--------------------------------------------------
+Course Number: COMP 2629
+Course Link: /courses/enterprise-networking-fundamentals-comp-2629/
+Course Name: Enterprise Networking Fundamentals
+--------------------------------------------------
+Course Number: COMP 2766
+Course Link: /courses/introduction-to-linux-part-1-comp-2766/
+Course Name: Introduction to Linux Part 1
+--------------------------------------------------
+Course Number: COMP 2767
+Course Link: /courses/linux-administration-comp-2767/
+Course Name: Linux Administration
+--------------------------------------------------
+Course Number: COMP 2836
+Course Link: /courses/agile-product-owner-comp-2836/
+Course Name: Agile Product Owner
+--------------------------------------------------
+Course Number: COMP 2909
+Course Link: /courses/front-end-web-development-with-angular-and-vue-js-comp-2909/
+Course Name: Front-End Web Development with Angular and Vue.js
+--------------------------------------------------
+Course Number: COMP 3012
+Course Link: /courses/back-end-web-development-with-node-js-comp-3012/
+Course Name: Back-End Web Development with Node.js*
+--------------------------------------------------
+Course Number: COMP 3013
+Course Link: /courses/front-end-web-development-with-react-js-comp-3013/
+Course Name: Front-End Web Development with React.js*
+--------------------------------------------------
+Course Number: COMP 3156
+Course Link: /courses/ms-power-bi-optimization-comp-3156/
+Course Name: MS Power BI Optimization
+--------------------------------------------------
+Course Number: COMP 3157
+Course Link: /courses/ms-power-bi-advanced-data-visualization-comp-3157/
+Course Name: MS Power BI Advanced Data Visualization
+--------------------------------------------------
+Course Number: COMP 3215
+Course Link: /courses/aws-academy-cloud-architecting-comp-3215/
+Course Name: AWS Academy Cloud Architecting
+--------------------------------------------------
+Course Number: COMP 3601
+Course Link: /courses/application-development-with-java-comp-3601/
+Course Name: Application Development with Java
+--------------------------------------------------
+Course Number: COMP 3602
+Course Link: /courses/application-development-with-c-comp-3602/
+Course Name: Application Development with C#
+--------------------------------------------------
+Course Number: COMP 3617
+Course Link: /courses/android-and-mobile-applications-in-java-comp-3617/
+Course Name: Android and Mobile Applications in Java
+--------------------------------------------------
+Course Number: COMP 3677
+Course Link: /courses/introduction-to-ms-server-administration-part-1-comp-3677/
+Course Name: Introduction to MS Server Administration Part 1
+--------------------------------------------------
+Course Number: COMP 3678
+Course Link: /courses/sql-server-development-comp-3678/
+Course Name: SQL Server Development
+--------------------------------------------------
+Course Number: COMP 3679
+Course Link: /courses/ms-azure-and-sql-analytics-tools-comp-3679/
+Course Name: MS Azure and SQL Analytics Tools
+--------------------------------------------------
+Course Number: COMP 3680
+Course Link: /courses/microsoft-sql-server-administration-part-2-comp-3680/
+Course Name: Microsoft SQL Server Administration Part 2
+--------------------------------------------------
+Course Number: COMP 3681
+Course Link: /courses/microsoft-windows-server-administration-part-2-comp-3681/
+Course Name: Microsoft Windows Server Administration Part 2
+--------------------------------------------------
+Course Number: COMP 3771
+Course Link: /courses/ms-powershell-scripting-comp-3771/
+Course Name: MS PowerShell Scripting
+--------------------------------------------------
+Course Number: COMP 3829
+Course Link: /courses/quality-assurance-and-software-testing-comp-3829/
+Course Name: Quality Assurance and Software Testing
+--------------------------------------------------
+Course Number: COMP 3839
+Course Link: /courses/data-quality-improvement-comp-3839/
+Course Name: Data Quality Improvement
+--------------------------------------------------
+Course Number: COMP 3841
+Course Link: /courses/introduction-to-data-warehouses-with-big-data-comp-3841/
+Course Name: Introduction to Data Warehouses with Big Data
+--------------------------------------------------
+Course Number: COMP 3912
+Course Link: /courses/ios-mobile-application-development-comp-3912/
+Course Name: iOS Mobile Application Development
+--------------------------------------------------
+Course Number: COMP 3925
+Course Link: /courses/computer-projects-practicum-1-comp-3925/
+Course Name: Computer Projects Practicum 1
+--------------------------------------------------
+Course Number: COMP 4016
+Course Link: /courses/applied-devops-with-kubernetes-comp-4016/
+Course Name: Applied DevOps with Kubernetes
+--------------------------------------------------
+Course Number: COMP 4601
+Course Link: /courses/advanced-java-web-application-development-comp-4601/
+Course Name: Advanced Java Web Application Development
+--------------------------------------------------
+Course Number: COMP 4602
+Course Link: /courses/advanced-net-web-application-development-comp-4602/
+Course Name: Advanced .NET Web Application Development
+--------------------------------------------------
+Course Number: COMP 4669
+Course Link: /courses/advanced-web-applications-with-php-comp-4669/
+Course Name: Advanced Web Applications with PHP
+--------------------------------------------------
+Course Number: COMP 4704
+Course Link: /courses/applied-network-security-comp-4704/
+Course Name: Applied Network Security
+--------------------------------------------------
+Course Number: XCOM 3840
+Course Link: /courses/technical-presentations-xcom-3840/
+Course Name: Technical Presentations
+--------------------------------------------------

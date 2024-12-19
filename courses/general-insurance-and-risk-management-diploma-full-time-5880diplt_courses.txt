@@ -1,0 +1,118 @@
+Courses for Program: https://www.bcit.ca/programs/general-insurance-and-risk-management-diploma-full-time-5880diplt/
+--------------------------------------------------
+Course Number: BSYS 1000
+Course Link: None
+Course Name: Business Information Systems
+--------------------------------------------------
+Course Number: COMM 1100
+Course Link: None
+Course Name: Business Communication 1
+--------------------------------------------------
+Course Number: ECON 2100
+Course Link: None
+Course Name: Microeconomics
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: None
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: None
+Course Name: Business Mathematics*
+--------------------------------------------------
+Course Number: RMGT 2110
+Course Link: None
+Course Name: Principles and Practice of Insurance
+--------------------------------------------------
+Course Number: BSYS 2000
+Course Link: None
+Course Name: Applied Data Analytics in Excel
+--------------------------------------------------
+Course Number: BUSA 2150
+Course Link: None
+Course Name: Introduction to Organizational Development
+--------------------------------------------------
+Course Number: COMM 2200
+Course Link: None
+Course Name: Business Communication 2
+--------------------------------------------------
+Course Number: ECON 2200
+Course Link: None
+Course Name: Macroeconomics
+--------------------------------------------------
+Course Number: FMGT 2152
+Course Link: None
+Course Name: Accounting for Management
+--------------------------------------------------
+Course Number: OPMT 1130
+Course Link: None
+Course Name: Business Statistics
+--------------------------------------------------
+Course Number: OPMT 1170
+Course Link: None
+Course Name: Project Management*
+--------------------------------------------------
+Course Number: RMGT 3110
+Course Link: None
+Course Name: Insurance Broker and Agent Roles
+--------------------------------------------------
+Course Number: BLAW 3100
+Course Link: None
+Course Name: Business Law
+--------------------------------------------------
+Course Number: FMGT 4620
+Course Link: None
+Course Name: Security Fundamentals
+--------------------------------------------------
+Course Number: RMGT 3210
+Course Link: None
+Course Name: Property Insurance
+--------------------------------------------------
+Course Number: RMGT 3310
+Course Link: None
+Course Name: Automobile Insurance
+--------------------------------------------------
+Course Number: RMGT 3535
+Course Link: None
+Course Name: Marketing for Insurance and Risk Management
+--------------------------------------------------
+Course Number: RMGT 3710
+Course Link: None
+Course Name: Risk Assessment
+--------------------------------------------------
+Course Number: RMGT 4110
+Course Link: None
+Course Name: Advanced Broker and Agent Skills
+--------------------------------------------------
+Course Number: RMGT 3411
+Course Link: None
+Course Name: Liability Insurance*
+--------------------------------------------------
+Course Number: RMGT 4510
+Course Link: None
+Course Name: Loss Adjusting
+--------------------------------------------------
+Course Number: RMGT 4535
+Course Link: None
+Course Name: Sales for Insurance Professionals*
+--------------------------------------------------
+Course Number: RMGT 4610
+Course Link: None
+Course Name: Principles of Underwriting
+--------------------------------------------------
+Course Number: RMGT 4720
+Course Link: None
+Course Name: Risk Control*
+--------------------------------------------------
+Course Number: RMGT 4730
+Course Link: None
+Course Name: Risk Financing*
+--------------------------------------------------
+Course Number: RMGT 4910
+Course Link: None
+Course Name: Business Strategy
+--------------------------------------------------
+Course Number: RMGT 4950
+Course Link: None
+Course Name: Field Placement
+--------------------------------------------------

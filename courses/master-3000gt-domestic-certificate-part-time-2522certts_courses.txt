@@ -1,0 +1,42 @@
+Courses for Program: https://www.bcit.ca/programs/master-3000gt-domestic-certificate-part-time-2522certts/
+--------------------------------------------------
+Course Number: ENAV 2070
+Course Link: /courses/simulated-electronic-navigation-managerial-sen-m-enav-2070/
+Course Name: Simulated Electronic Navigation - Managerial (SEN-M)*
+--------------------------------------------------
+Course Number: NAUT 1805
+Course Link: /courses/communications-1-naut-1805/
+Course Name: Communications 1
+--------------------------------------------------
+Course Number: NAUT 1809
+Course Link: /courses/communications-2-naut-1809/
+Course Name: Communications 2
+--------------------------------------------------
+Course Number: NAUT 1845
+Course Link: /courses/navigation-safety-2-naut-1845/
+Course Name: Navigation Safety 2
+--------------------------------------------------
+Course Number: NAUT 1855
+Course Link: /courses/meteorology-2-naut-1855/
+Course Name: Meteorology 2
+--------------------------------------------------
+Course Number: NAUT 1857
+Course Link: /courses/ship-management-3-naut-1857/
+Course Name: Ship Management 3
+--------------------------------------------------
+Course Number: NAUT 1864
+Course Link: /courses/scs-4-ship-construction-and-stability-4-naut-1864/
+Course Name: SCS 4 - Ship Construction and Stability 4
+--------------------------------------------------
+Course Number: NAUT 1869
+Course Link: /courses/engineering-knowledge-1-naut-1869/
+Course Name: Engineering Knowledge 1
+--------------------------------------------------
+Course Number: NAUT 1877
+Course Link: /courses/cg2-cargo-2-naut-1877/
+Course Name: CG2 - Cargo 2
+--------------------------------------------------
+Course Number: NAUT 1888
+Course Link: /courses/general-seamanship-master-3000-gt-domestic-naut-1888/
+Course Name: General Seamanship - Master 3000 GT Domestic
+--------------------------------------------------

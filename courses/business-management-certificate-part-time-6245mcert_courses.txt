@@ -1,0 +1,42 @@
+Courses for Program: https://www.bcit.ca/programs/business-management-certificate-part-time-6245mcert/
+--------------------------------------------------
+Course Number: BLAW 3100
+Course Link: /courses/business-law-blaw-3100/
+Course Name: Business Law
+--------------------------------------------------
+Course Number: BSYS 1001
+Course Link: /courses/business-information-systems-1-microsoft-365-for-windows-bsys-1001/
+Course Name: Business Information Systems 1-Microsoft 365 for Windows
+--------------------------------------------------
+Course Number: BUSA 2005
+Course Link: /courses/principles-of-management-busa-2005/
+Course Name: Principles of Management
+--------------------------------------------------
+Course Number: ECON 2100
+Course Link: /courses/microeconomics-econ-2100/
+Course Name: Microeconomics
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: /courses/essentials-of-marketing-mktg-1102/
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: OPMT 1198
+Course Link: /courses/operations-management-fundamentals-opmt-1198/
+Course Name: Operations Management Fundamentals
+--------------------------------------------------
+Course Number: COMM 1103
+Course Link: /courses/introduction-to-business-and-technical-communication-comm-1103/
+Course Name: Introduction to Business and Technical Communication
+--------------------------------------------------
+Course Number: COMM 1106
+Course Link: /courses/introduction-to-business-and-technical-communication-with-language-development-component-comm-1106/
+Course Name: Introduction to Business and Technical Communication (With Language Development Component)
+--------------------------------------------------
+Course Number: FMGT 1100
+Course Link: /courses/accounting-1-fmgt-1100/
+Course Name: Accounting 1
+--------------------------------------------------
+Course Number: FMGT 1152
+Course Link: /courses/accounting-for-the-manager-fmgt-1152/
+Course Name: Accounting for the Manager
+--------------------------------------------------

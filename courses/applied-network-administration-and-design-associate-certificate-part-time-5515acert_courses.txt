@@ -1,0 +1,42 @@
+Courses for Program: https://www.bcit.ca/programs/applied-network-administration-and-design-associate-certificate-part-time-5515acert/
+--------------------------------------------------
+Course Number: COMP 1002
+Course Link: /courses/applied-computer-concepts-comp-1002/
+Course Name: Applied Computer Concepts
+--------------------------------------------------
+Course Number: COMP 2629
+Course Link: /courses/enterprise-networking-fundamentals-comp-2629/
+Course Name: Enterprise Networking Fundamentals
+--------------------------------------------------
+Course Number: COMP 2766
+Course Link: /courses/introduction-to-linux-part-1-comp-2766/
+Course Name: Introduction to Linux Part 1
+--------------------------------------------------
+Course Number: COMP 3677
+Course Link: /courses/introduction-to-ms-server-administration-part-1-comp-3677/
+Course Name: Introduction to MS Server Administration Part 1
+--------------------------------------------------
+Course Number: COMP 3681
+Course Link: /courses/microsoft-windows-server-administration-part-2-comp-3681/
+Course Name: Microsoft Windows Server Administration Part 2
+--------------------------------------------------
+Course Number: COMP 3704
+Course Link: /courses/applied-it-security-fundamentals-comp-3704/
+Course Name: Applied IT Security Fundamentals
+--------------------------------------------------
+Course Number: COMP 4912
+Course Link: /courses/applied-virtual-networks-comp-4912/
+Course Name: Applied Virtual Networks
+--------------------------------------------------
+Course Number: COMP 2767
+Course Link: /courses/linux-administration-comp-2767/
+Course Name: Linux Administration
+--------------------------------------------------
+Course Number: COMP 3771
+Course Link: /courses/ms-powershell-scripting-comp-3771/
+Course Name: MS PowerShell Scripting
+--------------------------------------------------
+Course Number: COMP 4704
+Course Link: /courses/applied-network-security-comp-4704/
+Course Name: Applied Network Security
+--------------------------------------------------

@@ -1,0 +1,70 @@
+Courses for Program: https://www.bcit.ca/programs/clinical-genetics-technology-advanced-diploma-full-time-5670advdip/
+--------------------------------------------------
+Course Number: BHSC 6201
+Course Link: None
+Course Name: Professional Practice and Communication
+--------------------------------------------------
+Course Number: CLGT 5501
+Course Link: None
+Course Name: Cytogenetics Technology 1
+--------------------------------------------------
+Course Number: CLGT 5502
+Course Link: None
+Course Name: Chromosome Analysis 1
+--------------------------------------------------
+Course Number: CLGT 5503
+Course Link: None
+Course Name: Seminar Topics 1
+--------------------------------------------------
+Course Number: CLGT 5504
+Course Link: None
+Course Name: Computer Assisted Analysis and Image Reproduction 1
+--------------------------------------------------
+Course Number: CLGT 5505
+Course Link: None
+Course Name: Fluorescence in Situ Hybridization (FISH) Technology 1
+--------------------------------------------------
+Course Number: CLGT 5506
+Course Link: None
+Course Name: Molecular Technology 1
+--------------------------------------------------
+Course Number: CLGT 5507
+Course Link: None
+Course Name: Chromosome Microarray Technology 1
+--------------------------------------------------
+Course Number: CLGT 6601
+Course Link: None
+Course Name: Cytogenetics Technology 2
+--------------------------------------------------
+Course Number: CLGT 6602
+Course Link: None
+Course Name: Chromosome Analysis 2
+--------------------------------------------------
+Course Number: CLGT 6603
+Course Link: None
+Course Name: Seminar Topics 2
+--------------------------------------------------
+Course Number: CLGT 6604
+Course Link: None
+Course Name: Computer Assisted Analysis and Image Reproduction 2
+--------------------------------------------------
+Course Number: CLGT 6605
+Course Link: None
+Course Name: Fluorescence in Situ Hybridization (FISH) Technology 2
+--------------------------------------------------
+Course Number: CLGT 6606
+Course Link: None
+Course Name: Molecular Technology 2
+--------------------------------------------------
+Course Number: CLGT 6609
+Course Link: None
+Course Name: Chromosome Microarray Technology 2
+--------------------------------------------------
+Course Number: CLGT 6607
+Course Link: None
+Course Name: Practicum in Cytogenetics: Chromosomes, FISH and Microarray
+--------------------------------------------------
+Course Number: CLGT 6608
+Course Link: None
+Course Name: Practicum in Molecular Genetics
+--------------------------------------------------

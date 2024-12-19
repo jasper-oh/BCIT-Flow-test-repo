@@ -1,0 +1,122 @@
+Courses for Program: https://www.bcit.ca/programs/operations-management-materials-management-option-certificate-part-time-690dmcert/
+--------------------------------------------------
+Course Number: ASCM 1000
+Course Link: /courses/basics-of-supply-chain-management-ascm-1000/
+Course Name: Basics of Supply Chain Management
+--------------------------------------------------
+Course Number: COMM 1103
+Course Link: /courses/introduction-to-business-and-technical-communication-comm-1103/
+Course Name: Introduction to Business and Technical Communication
+--------------------------------------------------
+Course Number: OPMT 1175
+Course Link: /courses/warehouse-management-1-opmt-1175/
+Course Name: Warehouse Management 1
+--------------------------------------------------
+Course Number: OPMT 1191
+Course Link: /courses/purchasing-opmt-1191/
+Course Name: Purchasing
+--------------------------------------------------
+Course Number: OPMT 1193
+Course Link: /courses/facility-planning-and-design-opmt-1193/
+Course Name: Facility Planning and Design
+--------------------------------------------------
+Course Number: OPMT 1198
+Course Link: /courses/operations-management-fundamentals-opmt-1198/
+Course Name: Operations Management Fundamentals
+--------------------------------------------------
+Course Number: OPMT 2275
+Course Link: /courses/warehouse-management-2-opmt-2275/
+Course Name: Warehouse Management 2
+--------------------------------------------------
+Course Number: OPMT 2298
+Course Link: /courses/business-process-improvement-opmt-2298/
+Course Name: Business Process Improvement
+--------------------------------------------------
+Course Number: TDMT 1409
+Course Link: /courses/canada-customs-and-free-trade-agreements-tdmt-1409/
+Course Name: Canada Customs and Free Trade Agreements
+--------------------------------------------------
+Course Number: OPMT 1106
+Course Link: /courses/quality-management-fundamentals-opmt-1106/
+Course Name: Quality Management Fundamentals
+--------------------------------------------------
+Course Number: OPMT 1187
+Course Link: /courses/project-management-essentials-opmt-1187/
+Course Name: Project Management Essentials
+--------------------------------------------------
+Course Number: APIC 1181
+Course Link: /courses/logistics-transportation-and-distribution-certification-apic-1181/
+Course Name: Logistics, Transportation and Distribution Certification
+--------------------------------------------------
+Course Number: APIC 1191
+Course Link: /courses/supply-chain-professional-certification-cscp-apic-1191/
+Course Name: Supply Chain Professional Certification (CSCP)
+--------------------------------------------------
+Course Number: ASCM 2000
+Course Link: /courses/planning-and-inventory-management-certified-in-cpim-8-0-ascm-2000/
+Course Name: Planning & Inventory Management, Certified in CPIM 8.0
+--------------------------------------------------
+Course Number: BSUS 1110
+Course Link: /courses/introduction-to-sustainable-business-management-bsus-1110/
+Course Name: Introduction to Sustainable Business Management
+--------------------------------------------------
+Course Number: BSYS 2000
+Course Link: /courses/applied-data-analytics-in-excel-bsys-2000/
+Course Name: Applied Data Analytics in Excel
+--------------------------------------------------
+Course Number: BSYS 4051
+Course Link: /courses/business-operations-modelling-with-excel-bsys-4051/
+Course Name: Business Operations Modelling with Excel
+--------------------------------------------------
+Course Number: BSYS 4061
+Course Link: /courses/advanced-business-operations-systems-in-access-bsys-4061/
+Course Name: Advanced Business Operations Systems in Access
+--------------------------------------------------
+Course Number: BUSA 1305
+Course Link: /courses/supervisory-skills-busa-1305/
+Course Name: Supervisory Skills
+--------------------------------------------------
+Course Number: BUSA 2005
+Course Link: /courses/principles-of-management-busa-2005/
+Course Name: Principles of Management
+--------------------------------------------------
+Course Number: BUSA 4500
+Course Link: /courses/international-business-practices-busa-4500/
+Course Name: International Business Practices
+--------------------------------------------------
+Course Number: BUSA 4705
+Course Link: /courses/leading-people-and-teams-across-cultures-busa-4705/
+Course Name: Leading People and Teams Across Cultures
+--------------------------------------------------
+Course Number: COMM 2203
+Course Link: /courses/business-and-technical-reports-comm-2203/
+Course Name: Business and Technical Reports
+--------------------------------------------------
+Course Number: FMGT 1152
+Course Link: /courses/accounting-for-the-manager-fmgt-1152/
+Course Name: Accounting for the Manager
+--------------------------------------------------
+Course Number: HRMG 2805
+Course Link: /courses/workplace-health-and-safety-hrmg-2805/
+Course Name: Workplace Health & Safety
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: /courses/business-mathematics-opmt-1110/
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: OPMT 1192
+Course Link: /courses/inventory-planning-and-control-opmt-1192/
+Course Name: Inventory Planning and Control
+--------------------------------------------------
+Course Number: OPMT 1710
+Course Link: /courses/introduction-to-lean-concepts-opmt-1710/
+Course Name: Introduction to Lean Concepts
+--------------------------------------------------
+Course Number: OPMT 2710
+Course Link: /courses/advanced-lean-concepts-opmt-2710/
+Course Name: Advanced Lean Concepts
+--------------------------------------------------
+Course Number: OPMT 4699
+Course Link: /courses/enterprise-performance-management-opmt-4699/
+Course Name: Enterprise Performance Management
+--------------------------------------------------

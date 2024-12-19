@@ -1,0 +1,22 @@
+Courses for Program: https://www.bcit.ca/programs/fundamentals-of-water-and-wastewater-operations-associate-certificate-part-time-6040acert/
+--------------------------------------------------
+Course Number: WATR 1010
+Course Link: /courses/water-treatment-systems-operation-watr-1010/
+Course Name: Water Treatment Systems Operation
+--------------------------------------------------
+Course Number: WATR 1020
+Course Link: /courses/wastewater-treatment-systems-operation-watr-1020/
+Course Name: Wastewater Treatment Systems Operation
+--------------------------------------------------
+Course Number: WATR 1030
+Course Link: /courses/water-distribution-and-mechanical-systems-watr-1030/
+Course Name: Water Distribution and Mechanical Systems
+--------------------------------------------------
+Course Number: WATR 1040
+Course Link: /courses/wastewater-collection-and-mechanical-systems-watr-1040/
+Course Name: Wastewater Collection and Mechanical Systems
+--------------------------------------------------
+Course Number: WATR 1050
+Course Link: /courses/communications-legislation-and-safety-watr-1050/
+Course Name: Communications, Legislation and Safety
+--------------------------------------------------

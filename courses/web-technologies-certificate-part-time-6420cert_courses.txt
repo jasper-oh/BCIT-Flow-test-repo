@@ -1,0 +1,66 @@
+Courses for Program: https://www.bcit.ca/programs/web-technologies-certificate-part-time-6420cert/
+--------------------------------------------------
+Course Number: MDIA 1205
+Course Link: /courses/web-design-technologies-1-mdia-1205/
+Course Name: Web Design Technologies 1
+--------------------------------------------------
+Course Number: MDIA 2205
+Course Link: /courses/web-design-technologies-2-mdia-2205/
+Course Name: Web Design Technologies 2
+--------------------------------------------------
+Course Number: MDIA 3203
+Course Link: /courses/adobe-photoshop-for-web-mdia-3203/
+Course Name: Adobe Photoshop for Web
+--------------------------------------------------
+Course Number: MDIA 3207
+Course Link: /courses/javascript-mdia-3207/
+Course Name: JavaScript
+--------------------------------------------------
+Course Number: MDIA 3209
+Course Link: /courses/wordpress-and-cms-mdia-3209/
+Course Name: WordPress and CMS
+--------------------------------------------------
+Course Number: MDIA 3210
+Course Link: /courses/adobe-premiere-pro-for-video-mdia-3210/
+Course Name: Adobe Premiere Pro for Video
+--------------------------------------------------
+Course Number: MDIA 3211
+Course Link: /courses/bootstrap-and-css-frameworks-mdia-3211/
+Course Name: Bootstrap and CSS Frameworks
+--------------------------------------------------
+Course Number: MDIA 4207
+Course Link: /courses/web-design-major-project-mdia-4207/
+Course Name: Web Design Major Project
+--------------------------------------------------
+Course Number: MDIA 4302
+Course Link: /courses/modern-web-design-mdia-4302/
+Course Name: Modern Web Design
+--------------------------------------------------
+Course Number: MDIA 4305
+Course Link: /courses/xml-in-web-publishing-mdia-4305/
+Course Name: XML in Web Publishing
+--------------------------------------------------
+Course Number: MDIA 4307
+Course Link: /courses/jquery-in-web-publishing-mdia-4307/
+Course Name: jQuery in Web Publishing
+--------------------------------------------------
+Course Number: MDIA 4311
+Course Link: /courses/responsive-web-design-mdia-4311/
+Course Name: Responsive Web Design
+--------------------------------------------------
+Course Number: MDIA 4312
+Course Link: /courses/web-and-mobile-analytics-mdia-4312/
+Course Name: Web and Mobile Analytics
+--------------------------------------------------
+Course Number: MDIA 4325
+Course Link: /courses/using-php-in-web-publishing-mdia-4325/
+Course Name: Using PHP In Web Publishing
+--------------------------------------------------
+Course Number: MDIA 4340
+Course Link: /courses/mobile-web-design-using-jquery-mdia-4340/
+Course Name: Mobile Web Design using jQuery
+--------------------------------------------------
+Course Number: MDIA 4500
+Course Link: /courses/final-project-portfolio-mdia-4500/
+Course Name: Final Project: Portfolio
+--------------------------------------------------

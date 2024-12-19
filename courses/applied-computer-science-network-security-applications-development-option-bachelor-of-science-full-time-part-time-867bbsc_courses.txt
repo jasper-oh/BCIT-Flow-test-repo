@@ -1,0 +1,82 @@
+Courses for Program: https://www.bcit.ca/programs/applied-computer-science-network-security-applications-development-option-bachelor-of-science-full-time-part-time-867bbsc/
+--------------------------------------------------
+Course Number: COMP 7003
+Course Link: /courses/introduction-to-information-and-network-security-comp-7003/
+Course Name: Introduction to Information and Network Security
+--------------------------------------------------
+Course Number: COMP 7005
+Course Link: /courses/computer-networks-and-protocols-comp-7005/
+Course Name: Computer Networks and Protocols
+--------------------------------------------------
+Course Number: COMP 7035
+Course Link: /courses/operating-systems-comp-7035/
+Course Name: Operating Systems
+--------------------------------------------------
+Course Number: COMP 7082
+Course Link: /courses/software-engineering-comp-7082/
+Course Name: Software Engineering
+--------------------------------------------------
+Course Number: MATH 7808
+Course Link: /courses/calculus-for-computing-math-7808/
+Course Name: Calculus for Computing
+--------------------------------------------------
+Course Number: COMP 8003
+Course Link: /courses/network-security-administration-comp-8003/
+Course Name: Network Security Administration
+--------------------------------------------------
+Course Number: COMP 8042
+Course Link: /courses/advanced-algorithms-and-data-structures-design-and-analysis-comp-8042/
+Course Name: Advanced Algorithms and Data Structures Design and Analysis
+--------------------------------------------------
+Course Number: COMP 8082
+Course Link: /courses/project-management-comp-8082/
+Course Name: Project Management
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: /courses/critical-reading-and-writing-libs-7001/
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: MATH 7908
+Course Link: /courses/linear-algebra-and-applications-for-computing-math-7908/
+Course Name: Linear Algebra and Applications for Computing
+--------------------------------------------------
+Course Number: COMP 7402
+Course Link: /courses/topics-in-computer-programming-cryptology-comp-7402/
+Course Name: Topics in Computer Programming - Cryptology
+--------------------------------------------------
+Course Number: COMP 8005
+Course Link: /courses/network-and-security-applications-development-comp-8005/
+Course Name: Network and Security Applications Development
+--------------------------------------------------
+Course Number: COMP 8085
+Course Link: /courses/artificial-intelligence-comp-8085/
+Course Name: Artificial Intelligence
+--------------------------------------------------
+Course Number: COMP 8800
+Course Link: /courses/major-project-1-comp-8800/
+Course Name: Major Project 1
+--------------------------------------------------
+Course Number: LIBS 7002
+Course Link: /courses/applied-ethics-libs-7002/
+Course Name: Applied Ethics*
+--------------------------------------------------
+Course Number: COMP 7012
+Course Link: /courses/interaction-design-comp-7012/
+Course Name: Interaction Design
+--------------------------------------------------
+Course Number: COMP 8505
+Course Link: /courses/special-topics-in-network-and-security-development-comp-8505/
+Course Name: Special Topics in Network and Security Development
+--------------------------------------------------
+Course Number: COMP 8900
+Course Link: /courses/major-project-2-comp-8900/
+Course Name: Major Project 2
+--------------------------------------------------
+Course Number: COMP 7990
+Course Link: /courses/cooperative-education-workterm-1-comp-7990/
+Course Name: Cooperative Education Workterm 1*
+--------------------------------------------------
+Course Number: COMP 8990
+Course Link: /courses/cooperative-education-workterm-2-comp-8990/
+Course Name: Cooperative Education Workterm 2**
+--------------------------------------------------

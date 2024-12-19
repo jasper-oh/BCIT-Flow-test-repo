@@ -1,0 +1,22 @@
+Courses for Program: https://www.bcit.ca/programs/cardiac-sciences-electrophysiology-technology-option-advanced-certificate-part-time-5320adcert/
+--------------------------------------------------
+Course Number: CARD 4203
+Course Link: /courses/concepts-in-pacemakers-card-4203/
+Course Name: Concepts in Pacemakers
+--------------------------------------------------
+Course Number: CARD 5301
+Course Link: /courses/concepts-in-electrophysiology-card-5301/
+Course Name: Concepts in Electrophysiology
+--------------------------------------------------
+Course Number: CARD 5302
+Course Link: /courses/cardiac-rhythm-device-implant-card-5302/
+Course Name: Cardiac Rhythm Device Implant
+--------------------------------------------------
+Course Number: CARD 5520
+Course Link: /courses/advanced-cardiac-electrophysiology-diagnostics-and-electroanatomic-mapping-card-5520/
+Course Name: Advanced Cardiac Electrophysiology Diagnostics and Electroanatomic Mapping
+--------------------------------------------------
+Course Number: CARD 6500
+Course Link: /courses/cardiac-electrophysiology-clinical-practicum-card-6500/
+Course Name: Cardiac Electrophysiology Clinical Practicum
+--------------------------------------------------

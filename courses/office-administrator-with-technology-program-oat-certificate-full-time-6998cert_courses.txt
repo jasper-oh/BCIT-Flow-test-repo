@@ -1,0 +1,22 @@
+Courses for Program: https://www.bcit.ca/programs/office-administrator-with-technology-program-oat-certificate-full-time-6998cert/
+--------------------------------------------------
+Course Number: OATP 1000
+Course Link: None
+Course Name: Communication Skills
+--------------------------------------------------
+Course Number: OATP 1200
+Course Link: None
+Course Name: Business Development
+--------------------------------------------------
+Course Number: OATP 2000
+Course Link: None
+Course Name: Information Technology
+--------------------------------------------------
+Course Number: OATP 3000
+Course Link: None
+Course Name: Work Place Education
+--------------------------------------------------
+Course Number: OATP 3001
+Course Link: None
+Course Name: Capstone Project
+--------------------------------------------------

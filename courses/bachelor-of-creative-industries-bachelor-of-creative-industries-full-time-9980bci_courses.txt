@@ -1,0 +1,118 @@
+Courses for Program: https://www.bcit.ca/programs/bachelor-of-creative-industries-bachelor-of-creative-industries-full-time-9980bci/
+--------------------------------------------------
+Course Number: CREA 0100
+Course Link: None
+Course Name: Orientation Seminar
+--------------------------------------------------
+Course Number: CREA 7000
+Course Link: None
+Course Name: The Business of Creativity: Creative Industries Overview
+--------------------------------------------------
+Course Number: CREA 7010
+Course Link: None
+Course Name: Project Management in Creative Industries
+--------------------------------------------------
+Course Number: CREA 7020
+Course Link: None
+Course Name: Entrepreneurship and Innovation in Creative Industries
+--------------------------------------------------
+Course Number: CREA 7030
+Course Link: None
+Course Name: Intercultural and Interdisciplinary Communication in Creative Industries
+--------------------------------------------------
+Course Number: CREA 4035
+Course Link: None
+Course Name: Speculative Design
+--------------------------------------------------
+Course Number: CREA 7100
+Course Link: None
+Course Name: Ethics and Professional Practice in Creative Industries
+--------------------------------------------------
+Course Number: CREA 7110
+Course Link: None
+Course Name: Leadership and Team Managment in Creative Industries
+--------------------------------------------------
+Course Number: CREA 7120
+Course Link: None
+Course Name: Funding and Financial Mgt
+--------------------------------------------------
+Course Number: CREA 8000
+Course Link: None
+Course Name: Creative Industries Portfolio Development
+--------------------------------------------------
+Course Number: CREA 4045
+Course Link: None
+Course Name: Frontiers of Technology in Innovation
+--------------------------------------------------
+Course Number: CREA 8100
+Course Link: None
+Course Name: Growing Creat Econ/Global Mkt
+--------------------------------------------------
+Course Number: CREA 8200
+Course Link: None
+Course Name: Creative Industries Capstone
+--------------------------------------------------
+Course Number: CREA 4055
+Course Link: None
+Course Name: Creativity in a World of Emerging Intelligence
+--------------------------------------------------
+Course Number: CREA 4060
+Course Link: None
+Course Name: Creative Economics & Market Dynamics
+--------------------------------------------------
+Course Number: CREA 8210
+Course Link: None
+Course Name: Creative Industries Internship Work Term
+--------------------------------------------------
+Course Number: CREA 4035
+Course Link: None
+Course Name: Speculative Design
+--------------------------------------------------
+Course Number: CREA 4045
+Course Link: None
+Course Name: Frontiers of Technology in Innovation
+--------------------------------------------------
+Course Number: CREA 4055
+Course Link: None
+Course Name: Creativity in a World of Emerging Intelligence
+--------------------------------------------------
+Course Number: CREA 4060
+Course Link: None
+Course Name: Creative Economics & Market Dynamics
+--------------------------------------------------
+Course Number: INDG 1100
+Course Link: None
+Course Name: On Being Indigenous in Canada
+--------------------------------------------------
+Course Number: LIBS 7007
+Course Link: None
+Course Name: Technology and Society
+--------------------------------------------------
+Course Number: LIBS 7008
+Course Link: None
+Course Name: Logic and Practical Reasoning
+--------------------------------------------------
+Course Number: PSYC 1101
+Course Link: None
+Course Name: Introductory Psychology 1
+--------------------------------------------------
+Course Number: PSYC 1102
+Course Link: None
+Course Name: Introductory Psychology 2
+--------------------------------------------------
+Course Number: COMM 7100
+Course Link: None
+Course Name: Intercultural Communication Competency and Diversity Awareness for Professionals
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: None
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: COMM 1120
+Course Link: None
+Course Name: Communication 1
+--------------------------------------------------
+Course Number: COMM 2320
+Course Link: None
+Course Name: Communication 2
+--------------------------------------------------

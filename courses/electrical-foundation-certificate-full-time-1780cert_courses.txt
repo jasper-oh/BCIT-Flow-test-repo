@@ -1,0 +1,38 @@
+Courses for Program: https://www.bcit.ca/programs/electrical-foundation-certificate-full-time-1780cert/
+--------------------------------------------------
+Course Number: TELX 1151
+Course Link: None
+Course Name: Applied Mechanics
+--------------------------------------------------
+Course Number: TELX 1152
+Course Link: None
+Course Name: Fundamentals of Electricity
+--------------------------------------------------
+Course Number: TELX 1154
+Course Link: None
+Course Name: Principles of Magnetism
+--------------------------------------------------
+Course Number: TELX 1156
+Course Link: None
+Course Name: Wiring Methods
+--------------------------------------------------
+Course Number: TELX 1158
+Course Link: None
+Course Name: Electrical Code, Plans and Specifications
+--------------------------------------------------
+Course Number: TELX 2131
+Course Link: None
+Course Name: AC Circuit Analysis
+--------------------------------------------------
+Course Number: TELX 2135
+Course Link: None
+Course Name: Electronic Devices
+--------------------------------------------------
+Course Number: TELX 2137
+Course Link: None
+Course Name: Basic Motor Control
+--------------------------------------------------
+Course Number: TELX 2140
+Course Link: None
+Course Name: Computer Skills and Job Preparation
+--------------------------------------------------

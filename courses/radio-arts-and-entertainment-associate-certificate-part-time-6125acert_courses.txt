@@ -1,0 +1,102 @@
+Courses for Program: https://www.bcit.ca/programs/radio-arts-and-entertainment-associate-certificate-part-time-6125acert/
+--------------------------------------------------
+Course Number: BCST 1150
+Course Link: /courses/radio-broadcasting-introduction-bcst-1150/
+Course Name: Radio Broadcasting Introduction
+--------------------------------------------------
+Course Number: BCST 1151
+Course Link: /courses/radio-and-tv-announcing-bcst-1151/
+Course Name: Radio and TV Announcing
+--------------------------------------------------
+Course Number: BCST 1256
+Course Link: /courses/sound-design-bcst-1256/
+Course Name: Sound Design
+--------------------------------------------------
+Course Number: BCST 3121
+Course Link: /courses/discover-your-inner-storyteller-bcst-3121/
+Course Name: Discover Your Inner Storyteller
+--------------------------------------------------
+Course Number: BCST 3251
+Course Link: /courses/performance-development-presenting-your-best-self-bcst-3251/
+Course Name: Performance Development:  Presenting Your Best Self
+--------------------------------------------------
+Course Number: BCST 3259
+Course Link: /courses/podcasting-bcst-3259/
+Course Name: Podcasting
+--------------------------------------------------
+Course Number: BCST 1002
+Course Link: /courses/the-music-business-the-essentials-bcst-1002/
+Course Name: The Music Business: The Essentials
+--------------------------------------------------
+Course Number: BCST 1020
+Course Link: /courses/art-of-the-demo-bcst-1020/
+Course Name: Art of the Demo
+--------------------------------------------------
+Course Number: BCST 1129
+Course Link: /courses/home-music-recording-bcst-1129/
+Course Name: Home Music Recording
+--------------------------------------------------
+Course Number: BCST 1170
+Course Link: /courses/introduction-to-journalism-bcst-1170/
+Course Name: Introduction to Journalism
+--------------------------------------------------
+Course Number: BCST 1173
+Course Link: /courses/sports-broadcasting-bcst-1173/
+Course Name: Sports Broadcasting
+--------------------------------------------------
+Course Number: BCST 1190
+Course Link: /courses/backpack-video-journalism-bcst-1190/
+Course Name: Backpack Video Journalism
+--------------------------------------------------
+Course Number: BCST 1193
+Course Link: /courses/social-media-storytelling-bcst-1193/
+Course Name: Social Media Storytelling
+--------------------------------------------------
+Course Number: BCST 1198
+Course Link: /courses/photography-and-lightroom-building-your-photographic-vision-bcst-1198/
+Course Name: Photography & Lightroom: Building Your Photographic Vision
+--------------------------------------------------
+Course Number: BCST 1239
+Course Link: /courses/electronic-music-production-music-creation-techniques-with-ableton-live-bcst-1239/
+Course Name: Electronic Music Production: Music Creation Techniques with Ableton Live
+--------------------------------------------------
+Course Number: BCST 1281
+Course Link: /courses/freelance-producing-for-social-media-and-broadcast-bcst-1281/
+Course Name: Freelance Producing for Social Media and Broadcast
+--------------------------------------------------
+Course Number: BCST 1510
+Course Link: /courses/environmental-and-climate-news-and-analysis-bcst-1510/
+Course Name: Environmental and Climate News and Analysis
+--------------------------------------------------
+Course Number: BCST 1710
+Course Link: /courses/intro-to-story-editing-for-factual-unscripted-television-bcst-1710/
+Course Name: Intro to Story Editing for Factual / Unscripted Television
+--------------------------------------------------
+Course Number: BCST 1725
+Course Link: /courses/producing-reality-tv-creating-and-planning-a-reality-tv-series-bcst-1725/
+Course Name: Producing Reality TV: Creating & Planning a Reality TV Series
+--------------------------------------------------
+Course Number: BCST 2198
+Course Link: /courses/photography-master-your-framing-bcst-2198/
+Course Name: Photography: Master Your Framing
+--------------------------------------------------
+Course Number: BCST 3073
+Course Link: /courses/building-your-digital-media-presence-bcst-3073/
+Course Name: Building Your Digital Media Presence
+--------------------------------------------------
+Course Number: BCST 4109
+Course Link: /courses/navigating-the-media-landscape-and-crafting-your-pitch-bcst-4109/
+Course Name: Navigating the Media Landscape and Crafting Your Pitch
+--------------------------------------------------
+Course Number: BCST 5010
+Course Link: /courses/visual-communication-and-culture-bcst-5010/
+Course Name: Visual Communication and Culture
+--------------------------------------------------
+Course Number: MKTG 1019
+Course Link: /courses/media-relations-mktg-1019/
+Course Name: Media Relations
+--------------------------------------------------
+Course Number: MKTG 1120
+Course Link: /courses/event-planning-essentials-mktg-1120/
+Course Name: Event Planning Essentials
+--------------------------------------------------

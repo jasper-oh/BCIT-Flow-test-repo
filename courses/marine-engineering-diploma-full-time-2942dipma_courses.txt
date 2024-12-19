@@ -1,0 +1,162 @@
+Courses for Program: https://www.bcit.ca/programs/marine-engineering-diploma-full-time-2942dipma/
+--------------------------------------------------
+Course Number: MEDI 1510
+Course Link: None
+Course Name: STCW Basic Safety
+--------------------------------------------------
+Course Number: MEDI 1810
+Course Link: None
+Course Name: STCW Proficiency in Survival Craft
+--------------------------------------------------
+Course Number: MEOC 0001
+Course Link: None
+Course Name: Orientation to Marine Engineering
+--------------------------------------------------
+Course Number: MEOC 1201
+Course Link: None
+Course Name: Communication/Maritime English
+--------------------------------------------------
+Course Number: MEOC 1207
+Course Link: None
+Course Name: Mathematics
+--------------------------------------------------
+Course Number: MEOC 1209
+Course Link: None
+Course Name: Ship Construction 1
+--------------------------------------------------
+Course Number: MEOC 1210
+Course Link: None
+Course Name: Technical Drawing
+--------------------------------------------------
+Course Number: MEOC 1211
+Course Link: None
+Course Name: Skills Training
+--------------------------------------------------
+Course Number: MEOC 1302
+Course Link: None
+Course Name: Electrical Technology 1
+--------------------------------------------------
+Course Number: MEOC 1303
+Course Link: None
+Course Name: Engineering Knowledge 1 General
+--------------------------------------------------
+Course Number: MEOC 1304
+Course Link: None
+Course Name: Engineering Knowledge 1 Motor
+--------------------------------------------------
+Course Number: MERS 1025
+Course Link: None
+Course Name: Introduction to Ship's Machinery Systems
+--------------------------------------------------
+Course Number: MSEC 1010
+Course Link: None
+Course Name: Ship Security Officer
+--------------------------------------------------
+Course Number: MSSM 1025
+Course Link: None
+Course Name: Marine Basic First Aid
+--------------------------------------------------
+Course Number: MSSM 1200
+Course Link: None
+Course Name: Marine Advanced First Aid Revised
+--------------------------------------------------
+Course Number: MEOC 1992
+Course Link: None
+Course Name: Co-operative Training 1
+--------------------------------------------------
+Course Number: MEOC 1200
+Course Link: None
+Course Name: Basic Engineering Sciences
+--------------------------------------------------
+Course Number: MEOC 1205
+Course Link: None
+Course Name: Maintenance and Repair of Auxiliary Machinery
+--------------------------------------------------
+Course Number: MEOC 1213
+Course Link: None
+Course Name: Automation and Controls 1
+--------------------------------------------------
+Course Number: MEOC 1214
+Course Link: None
+Course Name: Maintenance and Repair of Diesel Engines
+--------------------------------------------------
+Course Number: MEOC 1215
+Course Link: None
+Course Name: Naval Architecture 1
+--------------------------------------------------
+Course Number: MEOC 1216
+Course Link: None
+Course Name: Thermodynamics 1
+--------------------------------------------------
+Course Number: MEOC 2302
+Course Link: None
+Course Name: Electrical Technology 2
+--------------------------------------------------
+Course Number: MEOC 2303
+Course Link: None
+Course Name: Engineering Knowledge 2 Gen
+--------------------------------------------------
+Course Number: MEOC 2304
+Course Link: None
+Course Name: Engineering Knowledge 2 Motor
+--------------------------------------------------
+Course Number: MERS 1050
+Course Link: None
+Course Name: Propulsion Plant Simulator
+--------------------------------------------------
+Course Number: MEOC 2992
+Course Link: None
+Course Name: Co-operative Training 2
+--------------------------------------------------
+Course Number: ENAV 2450
+Course Link: None
+Course Name: Leadership and Teamwork
+--------------------------------------------------
+Course Number: MEDI 2510
+Course Link: None
+Course Name: Advanced Fire Fighting
+--------------------------------------------------
+Course Number: MEOC 1212
+Course Link: None
+Course Name: Applied Mechanics 1
+--------------------------------------------------
+Course Number: MEOC 1217
+Course Link: None
+Course Name: Marine Law and Ships Business 1
+--------------------------------------------------
+Course Number: MEOC 1320
+Course Link: None
+Course Name: Refrigeration and Air Conditioning
+--------------------------------------------------
+Course Number: MEOC 2209
+Course Link: None
+Course Name: Ship Construction 2
+--------------------------------------------------
+Course Number: MEOC 2213
+Course Link: None
+Course Name: Automation and Controls 2
+--------------------------------------------------
+Course Number: MEOC 2215
+Course Link: None
+Course Name: Naval Architecture 2
+--------------------------------------------------
+Course Number: MEOC 2216
+Course Link: None
+Course Name: Thermodynamics 2
+--------------------------------------------------
+Course Number: MEOC 3302
+Course Link: None
+Course Name: Electrical Technology 3
+--------------------------------------------------
+Course Number: MEOC 3303
+Course Link: None
+Course Name: Engineering Knowledge 3 General - Steam
+--------------------------------------------------
+Course Number: MEOC 3304
+Course Link: None
+Course Name: Engineering Knowledge 3 Motor
+--------------------------------------------------
+Course Number: MERS 1075
+Course Link: None
+Course Name: Propulsion Plant Simulator Cadet Level 1
+--------------------------------------------------

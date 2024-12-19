@@ -1,0 +1,70 @@
+Courses for Program: https://www.bcit.ca/programs/power-engineering-general-program-certificate-full-time-2410ttcert/
+--------------------------------------------------
+Course Number: POWR 1100
+Course Link: None
+Course Name: Power Plant Training 1
+--------------------------------------------------
+Course Number: POWR 1101
+Course Link: None
+Course Name: Power Plant Oper and Systems 1
+--------------------------------------------------
+Course Number: POWR 1102
+Course Link: None
+Course Name: Drafting
+--------------------------------------------------
+Course Number: POWR 1103
+Course Link: None
+Course Name: Power Plant Theory 1
+--------------------------------------------------
+Course Number: POWR 1104
+Course Link: None
+Course Name: General Electricity 1
+--------------------------------------------------
+Course Number: POWR 1105
+Course Link: None
+Course Name: Power Plant Maintenance 1
+--------------------------------------------------
+Course Number: POWR 1106
+Course Link: None
+Course Name: Instrumentation 1
+--------------------------------------------------
+Course Number: POWR 1107
+Course Link: None
+Course Name: General Mathematics
+--------------------------------------------------
+Course Number: POWR 2200
+Course Link: None
+Course Name: Power Plant Training 2
+--------------------------------------------------
+Course Number: POWR 2201
+Course Link: None
+Course Name: Power Plant Oper and Systems 2
+--------------------------------------------------
+Course Number: POWR 2203
+Course Link: None
+Course Name: Power Plant Theory 2
+--------------------------------------------------
+Course Number: POWR 2204
+Course Link: None
+Course Name: General Electricity 2
+--------------------------------------------------
+Course Number: POWR 2205
+Course Link: None
+Course Name: Power Plant Maintenance 2
+--------------------------------------------------
+Course Number: POWR 2206
+Course Link: None
+Course Name: Instrumentation 2
+--------------------------------------------------
+Course Number: POWR 2208
+Course Link: None
+Course Name: Heating/Ventilation/Air Cond
+--------------------------------------------------
+Course Number: POWR 2209
+Course Link: None
+Course Name: Applied Science
+--------------------------------------------------
+Course Number: POWR 2210
+Course Link: None
+Course Name: Business Writing
+--------------------------------------------------

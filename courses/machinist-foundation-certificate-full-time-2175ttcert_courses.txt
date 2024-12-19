@@ -1,0 +1,46 @@
+Courses for Program: https://www.bcit.ca/programs/machinist-foundation-certificate-full-time-2175ttcert/
+--------------------------------------------------
+Course Number: MACH 1500
+Course Link: None
+Course Name: Safe Work Practices
+--------------------------------------------------
+Course Number: MACH 1502
+Course Link: None
+Course Name: Mathematics for Machinists
+--------------------------------------------------
+Course Number: MACH 1504
+Course Link: None
+Course Name: Interpretation of Drawings
+--------------------------------------------------
+Course Number: MACH 1506
+Course Link: None
+Course Name: Layout and Measuring
+--------------------------------------------------
+Course Number: MACH 1508
+Course Link: None
+Course Name: Support Machines
+--------------------------------------------------
+Course Number: MACH 1510
+Course Link: None
+Course Name: Lathe Operations
+--------------------------------------------------
+Course Number: MACH 1512
+Course Link: None
+Course Name: Mill Operations
+--------------------------------------------------
+Course Number: MACH 1518
+Course Link: None
+Course Name: Materials and Metallurgy
+--------------------------------------------------
+Course Number: MACH 1520
+Course Link: None
+Course Name: Service and Maintenance
+--------------------------------------------------
+Course Number: MACH 1524
+Course Link: None
+Course Name: Employment Preparation
+--------------------------------------------------
+Course Number: MACH 1529
+Course Link: None
+Course Name: Capstone Project
+--------------------------------------------------

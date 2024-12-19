@@ -1,0 +1,38 @@
+Courses for Program: https://www.bcit.ca/programs/construction-supervision-certificate-part-time-7730cert/
+--------------------------------------------------
+Course Number: BLDT 2011
+Course Link: /courses/construction-documents-and-contracts-bldt-2011/
+Course Name: Construction Documents and Contracts
+--------------------------------------------------
+Course Number: BLDT 2021
+Course Link: /courses/basic-project-management-skills-bldt-2021/
+Course Name: Basic Project Management Skills
+--------------------------------------------------
+Course Number: BLDT 2031
+Course Link: /courses/technical-writing-interpersonal-skills-bldt-2031/
+Course Name: Technical Writing/Interpersonal Skills
+--------------------------------------------------
+Course Number: BLDT 2041
+Course Link: /courses/construction-design-principles-bldt-2041/
+Course Name: Construction Design Principles
+--------------------------------------------------
+Course Number: BLDT 2051
+Course Link: /courses/construction-materials-and-assemblies-bldt-2051/
+Course Name: Construction Materials and Assemblies
+--------------------------------------------------
+Course Number: BLDT 2061
+Course Link: /courses/computer-applications-in-construction-bldt-2061/
+Course Name: Computer Applications in Construction
+--------------------------------------------------
+Course Number: BLDT 2071
+Course Link: /courses/safety-legislation-bldt-2071/
+Course Name: Safety Legislation
+--------------------------------------------------
+Course Number: BLDT 2081
+Course Link: /courses/environmental-legislation-bldt-2081/
+Course Name: Environmental Legislation
+--------------------------------------------------
+Course Number: BLDT 2091
+Course Link: /courses/construction-estimating-2-bldt-2091/
+Course Name: Construction Estimating 2
+--------------------------------------------------

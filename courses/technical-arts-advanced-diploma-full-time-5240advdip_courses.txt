@@ -1,0 +1,62 @@
+Courses for Program: https://www.bcit.ca/programs/technical-arts-advanced-diploma-full-time-5240advdip/
+--------------------------------------------------
+Course Number: TECA 5000
+Course Link: None
+Course Name: Technical Art Foundations: Scripting
+--------------------------------------------------
+Course Number: TECA 5100
+Course Link: None
+Course Name: Technical Art Foundations: 3D Applications
+--------------------------------------------------
+Course Number: TECA 5200
+Course Link: None
+Course Name: Technical Arts 1
+--------------------------------------------------
+Course Number: TECA 5600
+Course Link: None
+Course Name: Project Management for Technical Arts
+--------------------------------------------------
+Course Number: TECA 6300
+Course Link: None
+Course Name: Visual Scripting
+--------------------------------------------------
+Course Number: TECA 5300
+Course Link: None
+Course Name: Game Art Assets
+--------------------------------------------------
+Course Number: TECA 5500
+Course Link: None
+Course Name: Scripting in 3D Applications
+--------------------------------------------------
+Course Number: TECA 6100
+Course Link: None
+Course Name: Technical Arts 2
+--------------------------------------------------
+Course Number: TECA 6400
+Course Link: None
+Course Name: Data Structures for Technical Arts
+--------------------------------------------------
+Course Number: TECA 6700
+Course Link: None
+Course Name: Technical Arts Team Project
+--------------------------------------------------
+Course Number: TECA 5400
+Course Link: None
+Course Name: Effects and Dynamics
+--------------------------------------------------
+Course Number: TECA 6200
+Course Link: None
+Course Name: Technical Arts 3
+--------------------------------------------------
+Course Number: TECA 6500
+Course Link: None
+Course Name: Advanced Scripting
+--------------------------------------------------
+Course Number: TECA 6600
+Course Link: None
+Course Name: Team Skills for Technical Arts
+--------------------------------------------------
+Course Number: TECA 6800
+Course Link: None
+Course Name: Technical Arts Capstone Project
+--------------------------------------------------

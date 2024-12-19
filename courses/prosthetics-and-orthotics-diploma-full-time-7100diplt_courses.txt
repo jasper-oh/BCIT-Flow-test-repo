@@ -1,0 +1,94 @@
+Courses for Program: https://www.bcit.ca/programs/prosthetics-and-orthotics-diploma-full-time-7100diplt/
+--------------------------------------------------
+Course Number: BHSC 1120
+Course Link: None
+Course Name: Applied Anatomy and Physiology 1
+--------------------------------------------------
+Course Number: CENV 1284
+Course Link: None
+Course Name: Materials Science
+--------------------------------------------------
+Course Number: HSIP 1000
+Course Link: None
+Course Name: Health Sciences Interprofessional Patient Care
+--------------------------------------------------
+Course Number: PROR 1100
+Course Link: None
+Course Name: Prosthetics and Orthotics 1
+--------------------------------------------------
+Course Number: PROR 1120
+Course Link: None
+Course Name: Biomechanics 1
+--------------------------------------------------
+Course Number: BHSC 1242
+Course Link: None
+Course Name: Applied Social Sciences (PROR)
+--------------------------------------------------
+Course Number: BHSC 2220
+Course Link: None
+Course Name: Applied Anatomy and Physiology 2
+--------------------------------------------------
+Course Number: PROR 2200
+Course Link: None
+Course Name: Prosthetics and Orthotics 2
+--------------------------------------------------
+Course Number: PROR 2220
+Course Link: None
+Course Name: Biomechanics 2
+--------------------------------------------------
+Course Number: PROR 2230
+Course Link: None
+Course Name: Practicum
+--------------------------------------------------
+Course Number: BHSC 3310
+Course Link: None
+Course Name: Applied Pathophysiology 1
+--------------------------------------------------
+Course Number: COMM 1184
+Course Link: None
+Course Name: Workplace Communications
+--------------------------------------------------
+Course Number: MATH 3842
+Course Link: None
+Course Name: Statistics and Research Methodology for Prosthetics and Orthotics
+--------------------------------------------------
+Course Number: PROR 3300
+Course Link: None
+Course Name: Prosthetics and Orthotics 3
+--------------------------------------------------
+Course Number: PROR 3320
+Course Link: None
+Course Name: Biomechanics 3
+--------------------------------------------------
+Course Number: BHSC 4410
+Course Link: None
+Course Name: Applied Pathophysiology 2
+--------------------------------------------------
+Course Number: BMET 1482
+Course Link: None
+Course Name: Applied Electrical Fundamentals
+--------------------------------------------------
+Course Number: COMM 2284
+Course Link: None
+Course Name: Scientific Writing for Prosthetics and Orthotics
+--------------------------------------------------
+Course Number: PROR 1402
+Course Link: None
+Course Name: Professional Practice
+--------------------------------------------------
+Course Number: PROR 4330
+Course Link: None
+Course Name: Practicum
+--------------------------------------------------
+Course Number: PROR 4400
+Course Link: None
+Course Name: Prosthetics and Orthotics 4
+--------------------------------------------------
+Course Number: PROR 4430
+Course Link: None
+Course Name: Case Studies and Treatment Planning
+--------------------------------------------------
+Course Number: PROR 4500
+Course Link: None
+Course Name: Capstone Research Project
+--------------------------------------------------

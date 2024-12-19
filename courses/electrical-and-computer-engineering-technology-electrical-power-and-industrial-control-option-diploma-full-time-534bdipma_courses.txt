@@ -1,0 +1,306 @@
+Courses for Program: https://www.bcit.ca/programs/electrical-and-computer-engineering-technology-electrical-power-and-industrial-control-option-diploma-full-time-534bdipma/
+--------------------------------------------------
+Course Number: COMM 1143
+Course Link: None
+Course Name: Technical Communications 1 for Electrical and Computer Engineering
+--------------------------------------------------
+Course Number: ELEX 0304
+Course Link: None
+Course Name: Learning Skills for Electrical and Computer Engineering Technology
+--------------------------------------------------
+Course Number: ELEX 1105
+Course Link: None
+Course Name: Circuit Analysis 1
+--------------------------------------------------
+Course Number: ELEX 1113
+Course Link: None
+Course Name: Electronic Fabrication Tools and Techniques
+--------------------------------------------------
+Course Number: ELEX 1117
+Course Link: None
+Course Name: Digital Techniques 1
+--------------------------------------------------
+Course Number: MATH 1431
+Course Link: None
+Course Name: Technical Mathematics for Electronics
+--------------------------------------------------
+Course Number: PHYS 1143
+Course Link: None
+Course Name: Physics for Electronics 1
+--------------------------------------------------
+Course Number: ELEX 2105
+Course Link: None
+Course Name: Circuit Analysis 2
+--------------------------------------------------
+Course Number: ELEX 2117
+Course Link: None
+Course Name: Digital Techniques 2
+--------------------------------------------------
+Course Number: ELEX 2120
+Course Link: None
+Course Name: Electronic Circuits 1
+--------------------------------------------------
+Course Number: ELEX 2125
+Course Link: None
+Course Name: C Programming for Electronics
+--------------------------------------------------
+Course Number: MATH 2431
+Course Link: None
+Course Name: Calculus for Electronics
+--------------------------------------------------
+Course Number: PHYS 2143
+Course Link: None
+Course Name: Physics for Electronics 2
+--------------------------------------------------
+Course Number: COMM 1243
+Course Link: None
+Course Name: Technical Documentation
+--------------------------------------------------
+Course Number: ELEX 1101
+Course Link: None
+Course Name: Introduction to Codes and Standards
+--------------------------------------------------
+Course Number: ELEX 1103
+Course Link: None
+Course Name: Introductory Networking
+--------------------------------------------------
+Course Number: ELEX 1104
+Course Link: None
+Course Name: Engineering Spreadsheets
+--------------------------------------------------
+Course Number: ELEX 3130
+Course Link: None
+Course Name: Signal Processing and Power Electronics
+--------------------------------------------------
+Course Number: ELEX 3305
+Course Link: None
+Course Name: Microcontroller Systems
+--------------------------------------------------
+Course Number: ELEX 3410
+Course Link: None
+Course Name: Canadian Electrical Code and Industrial Systems
+--------------------------------------------------
+Course Number: ELEX 3425
+Course Link: None
+Course Name: Electrical Equipment
+--------------------------------------------------
+Course Number: ELEX 3430
+Course Link: None
+Course Name: PLCs, VFDs and Industrial Control
+--------------------------------------------------
+Course Number: MATH 3433
+Course Link: None
+Course Name: Transform Calculus and Statistics for Electronics
+--------------------------------------------------
+Course Number: COMM 2443
+Course Link: None
+Course Name: Technical Communication 2 for Electrical and Computer Engineering
+--------------------------------------------------
+Course Number: ELEX 0404
+Course Link: None
+Course Name: Technologist Code of Ethics
+--------------------------------------------------
+Course Number: ELEX 4410
+Course Link: None
+Course Name: Power Systems Analysis
+--------------------------------------------------
+Course Number: ELEX 4420
+Course Link: None
+Course Name: Power Electronics and Renewable Energy Applications
+--------------------------------------------------
+Course Number: ELEX 4425
+Course Link: None
+Course Name: Protection Systems
+--------------------------------------------------
+Course Number: ELEX 4435
+Course Link: None
+Course Name: Electrical Machines
+--------------------------------------------------
+Course Number: ELEX 4440
+Course Link: None
+Course Name: Power Projects
+--------------------------------------------------
+Course Number: ELEX 3401
+Course Link: None
+Course Name: Grounding, Bonding and Testing
+--------------------------------------------------
+Course Number: ELEX 3402
+Course Link: None
+Course Name: Power Quality
+--------------------------------------------------
+Course Number: ELEX 3403
+Course Link: None
+Course Name: Renewable Energy Systems
+--------------------------------------------------
+Course Number: ELEX 3404
+Course Link: None
+Course Name: Industrial Networking and Smart Grids
+--------------------------------------------------
+Course Number: COMM 1143
+Course Link: None
+Course Name: Technical Communications 1 for Electrical and Computer Engineering
+--------------------------------------------------
+Course Number: ELEX 0304
+Course Link: None
+Course Name: Learning Skills for Electrical and Computer Engineering Technology
+--------------------------------------------------
+Course Number: ELEX 1105
+Course Link: None
+Course Name: Circuit Analysis 1
+--------------------------------------------------
+Course Number: ELEX 1113
+Course Link: None
+Course Name: Electronic Fabrication Tools and Techniques
+--------------------------------------------------
+Course Number: ELEX 1117
+Course Link: None
+Course Name: Digital Techniques 1
+--------------------------------------------------
+Course Number: MATH 1431
+Course Link: None
+Course Name: Technical Mathematics for Electronics
+--------------------------------------------------
+Course Number: PHYS 1143
+Course Link: None
+Course Name: Physics for Electronics 1
+--------------------------------------------------
+Course Number: COMM 1243
+Course Link: None
+Course Name: Technical Documentation
+--------------------------------------------------
+Course Number: ELEX 1101
+Course Link: None
+Course Name: Introduction to Codes and Standards
+--------------------------------------------------
+Course Number: ELEX 1103
+Course Link: None
+Course Name: Introductory Networking
+--------------------------------------------------
+Course Number: ELEX 1104
+Course Link: None
+Course Name: Engineering Spreadsheets
+--------------------------------------------------
+Course Number: ELEX 2105
+Course Link: None
+Course Name: Circuit Analysis 2
+--------------------------------------------------
+Course Number: ELEX 2117
+Course Link: None
+Course Name: Digital Techniques 2
+--------------------------------------------------
+Course Number: ELEX 2120
+Course Link: None
+Course Name: Electronic Circuits 1
+--------------------------------------------------
+Course Number: ELEX 2125
+Course Link: None
+Course Name: C Programming for Electronics
+--------------------------------------------------
+Course Number: MATH 2431
+Course Link: None
+Course Name: Calculus for Electronics
+--------------------------------------------------
+Course Number: PHYS 2143
+Course Link: None
+Course Name: Physics for Electronics 2
+--------------------------------------------------
+Course Number: ELEX 3130
+Course Link: None
+Course Name: Signal Processing and Power Electronics
+--------------------------------------------------
+Course Number: ELEX 3305
+Course Link: None
+Course Name: Microcontroller Systems
+--------------------------------------------------
+Course Number: ELEX 3410
+Course Link: None
+Course Name: Canadian Electrical Code and Industrial Systems
+--------------------------------------------------
+Course Number: ELEX 3425
+Course Link: None
+Course Name: Electrical Equipment
+--------------------------------------------------
+Course Number: ELEX 3430
+Course Link: None
+Course Name: PLCs, VFDs and Industrial Control
+--------------------------------------------------
+Course Number: MATH 3433
+Course Link: None
+Course Name: Transform Calculus and Statistics for Electronics
+--------------------------------------------------
+Course Number: ELEX 3401
+Course Link: None
+Course Name: Grounding, Bonding and Testing
+--------------------------------------------------
+Course Number: ELEX 3402
+Course Link: None
+Course Name: Power Quality
+--------------------------------------------------
+Course Number: ELEX 3403
+Course Link: None
+Course Name: Renewable Energy Systems
+--------------------------------------------------
+Course Number: ELEX 3404
+Course Link: None
+Course Name: Industrial Networking and Smart Grids
+--------------------------------------------------
+Course Number: COMM 2443
+Course Link: None
+Course Name: Technical Communication 2 for Electrical and Computer Engineering
+--------------------------------------------------
+Course Number: ELEX 0404
+Course Link: None
+Course Name: Technologist Code of Ethics
+--------------------------------------------------
+Course Number: ELEX 4410
+Course Link: None
+Course Name: Power Systems Analysis
+--------------------------------------------------
+Course Number: ELEX 4420
+Course Link: None
+Course Name: Power Electronics and Renewable Energy Applications
+--------------------------------------------------
+Course Number: ELEX 4425
+Course Link: None
+Course Name: Protection Systems
+--------------------------------------------------
+Course Number: ELEX 4435
+Course Link: None
+Course Name: Electrical Machines
+--------------------------------------------------
+Course Number: ELEX 4440
+Course Link: None
+Course Name: Power Projects
+--------------------------------------------------
+Course Number: ELEX 2992
+Course Link: None
+Course Name: Cooperative Education Workterm 1
+--------------------------------------------------
+Course Number: ELEX 2993
+Course Link: None
+Course Name: Cooperative Education Workterm 1
+--------------------------------------------------
+Course Number: ELEX 3992
+Course Link: None
+Course Name: Cooperative Education Workterm 2
+--------------------------------------------------
+Course Number: ELEX 3993
+Course Link: None
+Course Name: Cooperative Education Workterm 2
+--------------------------------------------------
+Course Number: ELEX 4992
+Course Link: None
+Course Name: Cooperative Education Workterm 3
+--------------------------------------------------
+Course Number: ELEX 4993
+Course Link: None
+Course Name: Cooperative Education Workterm 3
+--------------------------------------------------
+Course Number: ELEX 5992
+Course Link: None
+Course Name: Cooperative Education Workterm 4
+--------------------------------------------------
+Course Number: ELEX 5993
+Course Link: None
+Course Name: Cooperative Education Workterm 4
+--------------------------------------------------

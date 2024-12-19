@@ -1,0 +1,78 @@
+Courses for Program: https://www.bcit.ca/programs/business-fundamentals-associate-certificate-full-time-7985acert/
+--------------------------------------------------
+Course Number: COMM 0003
+Course Link: None
+Course Name: Technical Communication Skills for EAL Students 2
+--------------------------------------------------
+Course Number: COMM 0004
+Course Link: None
+Course Name: Technical Communication Skills for EAL Students 3
+--------------------------------------------------
+Course Number: COMM 0005
+Course Link: None
+Course Name: Technical Communication Skills for EAL Students 4
+--------------------------------------------------
+Course Number: COMM 0029
+Course Link: None
+Course Name: Speaking and Listening Skills for EAL Students 1
+--------------------------------------------------
+Course Number: COMM 0030
+Course Link: None
+Course Name: Speaking and Listening Skills for EAL Students 2
+--------------------------------------------------
+Course Number: COMM 0071
+Course Link: None
+Course Name: Technical Communication Skills for EAL Students 1
+--------------------------------------------------
+Course Number: COMM 1106
+Course Link: None
+Course Name: Introduction to Business and Technical Communication (With Language Development Component)
+--------------------------------------------------
+Course Number: COMM 1117
+Course Link: None
+Course Name: Introduction to Intercultural Business Communication & Workplace Diversity
+--------------------------------------------------
+Course Number: MKTG 1323
+Course Link: None
+Course Name: Effective Presentation Skills
+--------------------------------------------------
+Course Number: FMGT 1100
+Course Link: None
+Course Name: Accounting 1
+--------------------------------------------------
+Course Number: FMGT 1152
+Course Link: None
+Course Name: Accounting for the Manager
+--------------------------------------------------
+Course Number: FMGT 2152
+Course Link: None
+Course Name: Accounting for Management
+--------------------------------------------------
+Course Number: BSYS 1001
+Course Link: None
+Course Name: Business Information Systems 1-Microsoft 365 for Windows
+--------------------------------------------------
+Course Number: BUSA 1060
+Course Link: None
+Course Name: Canadian Business and Society
+--------------------------------------------------
+Course Number: ECON 2100
+Course Link: None
+Course Name: Microeconomics
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: None
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: None
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: COMM 2202
+Course Link: None
+Course Name: Business and Technical Correspondence
+--------------------------------------------------
+Course Number: COMM 2203
+Course Link: None
+Course Name: Business and Technical Reports
+--------------------------------------------------

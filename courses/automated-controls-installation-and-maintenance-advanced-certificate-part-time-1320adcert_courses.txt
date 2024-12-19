@@ -1,0 +1,34 @@
+Courses for Program: https://www.bcit.ca/programs/automated-controls-installation-and-maintenance-advanced-certificate-part-time-1320adcert/
+--------------------------------------------------
+Course Number: ACIM 5010
+Course Link: /courses/programmable-logic-controllers-acim-5010/
+Course Name: Programmable Logic Controllers
+--------------------------------------------------
+Course Number: ACIM 5020
+Course Link: /courses/elements-of-drafting-and-renewable-energy-systems-acim-5020/
+Course Name: Elements of Drafting and Renewable Energy Systems
+--------------------------------------------------
+Course Number: ACIM 5030
+Course Link: /courses/advanced-programmable-logic-controllers-and-human-machine-interfaces-in-manufacturing-acim-5030/
+Course Name: Advanced Programmable Logic Controllers and Human Machine Interfaces in Manufacturing
+--------------------------------------------------
+Course Number: ACIM 5040
+Course Link: /courses/variable-frequency-drives-and-servos-acim-5040/
+Course Name: Variable Frequency Drives and Servos
+--------------------------------------------------
+Course Number: ACIM 6010
+Course Link: /courses/introduction-to-robotics-acim-6010/
+Course Name: Introduction to Robotics
+--------------------------------------------------
+Course Number: ACIM 6020
+Course Link: /courses/safety-controls-and-intrinsically-safe-systems-acim-6020/
+Course Name: Safety Controls and Intrinsically Safe Systems
+--------------------------------------------------
+Course Number: ACIM 6030
+Course Link: /courses/process-and-distributed-control-systems-acim-6030/
+Course Name: Process and Distributed Control Systems
+--------------------------------------------------
+Course Number: ACIM 6040
+Course Link: /courses/industrial-communication-and-data-acquisition-acim-6040/
+Course Name: Industrial Communication and Data Acquisition
+--------------------------------------------------

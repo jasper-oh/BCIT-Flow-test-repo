@@ -1,0 +1,66 @@
+Courses for Program: https://www.bcit.ca/programs/marketing-management-public-relations-associate-certificate-part-time-630xacert/
+--------------------------------------------------
+Course Number: MKTG 1019
+Course Link: /courses/media-relations-mktg-1019/
+Course Name: Media Relations
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: /courses/essentials-of-marketing-mktg-1102/
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: MKTG 1352
+Course Link: /courses/digital-marketing-mktg-1352/
+Course Name: Digital Marketing
+--------------------------------------------------
+Course Number: MKTG 3321
+Course Link: /courses/public-relations-mktg-3321/
+Course Name: Public Relations
+--------------------------------------------------
+Course Number: MKTG 3325
+Course Link: /courses/consumer-behaviour-mktg-3325/
+Course Name: Consumer Behaviour
+--------------------------------------------------
+Course Number: MKTG 1126
+Course Link: /courses/live-entertainment-events-and-festivals-mktg-1126/
+Course Name: Live Entertainment Events and Festivals
+--------------------------------------------------
+Course Number: MKTG 1146
+Course Link: /courses/introduction-to-sustainable-marketing-mktg-1146/
+Course Name: Introduction to Sustainable Marketing
+--------------------------------------------------
+Course Number: MKTG 1323
+Course Link: /courses/effective-presentation-skills-mktg-1323/
+Course Name: Effective Presentation Skills
+--------------------------------------------------
+Course Number: MKTG 1550
+Course Link: /courses/social-media-essentials-mktg-1550/
+Course Name: Social Media Essentials
+--------------------------------------------------
+Course Number: MKTG 1552
+Course Link: /courses/social-media-strategies-mktg-1552/
+Course Name: Social Media Strategies
+--------------------------------------------------
+Course Number: MKTG 2202
+Course Link: /courses/introduction-to-marketing-communications-mktg-2202/
+Course Name: Introduction to Marketing Communications
+--------------------------------------------------
+Course Number: MKTG 2352
+Course Link: /courses/content-planning-mktg-2352/
+Course Name: Content Planning
+--------------------------------------------------
+Course Number: MKTG 2452
+Course Link: /courses/search-engine-marketing-seo-and-paid-search-mktg-2452/
+Course Name: Search Engine Marketing: SEO and Paid Search
+--------------------------------------------------
+Course Number: MKTG 2552
+Course Link: /courses/youtube-marketing-mktg-2552/
+Course Name: YouTube Marketing
+--------------------------------------------------
+Course Number: MKTG 2909
+Course Link: /courses/fundamentals-of-marketing-research-mktg-2909/
+Course Name: Fundamentals of Marketing Research
+--------------------------------------------------
+Course Number: MKTG 3554
+Course Link: /courses/brand-strategy-mktg-3554/
+Course Name: Brand Strategy
+--------------------------------------------------

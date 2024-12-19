@@ -1,0 +1,22 @@
+Courses for Program: https://www.bcit.ca/programs/business-administration-associate-certificate-part-time-5140acert/
+--------------------------------------------------
+Course Number: BUSA 2005
+Course Link: /courses/principles-of-management-busa-2005/
+Course Name: Principles of Management
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: /courses/essentials-of-marketing-mktg-1102/
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: OPMT 1198
+Course Link: /courses/operations-management-fundamentals-opmt-1198/
+Course Name: Operations Management Fundamentals
+--------------------------------------------------
+Course Number: FMGT 1100
+Course Link: /courses/accounting-1-fmgt-1100/
+Course Name: Accounting 1
+--------------------------------------------------
+Course Number: FMGT 1152
+Course Link: /courses/accounting-for-the-manager-fmgt-1152/
+Course Name: Accounting for the Manager
+--------------------------------------------------

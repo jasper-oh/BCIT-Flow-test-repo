@@ -1,0 +1,38 @@
+Courses for Program: https://www.bcit.ca/programs/perinatal-nursing-specialty-perinatal-perioperative-option-advanced-certificate-part-time-680vascert/
+--------------------------------------------------
+Course Number: NSPN 7100
+Course Link: /courses/perinatal-nursing-theory-1-healthy-childbearing-experiences-and-the-newborn-nspn-7100/
+Course Name: Perinatal Nursing Theory 1 - Healthy Childbearing Experiences & The Newborn
+--------------------------------------------------
+Course Number: NSPN 7200
+Course Link: /courses/perinatal-theory-2-childbearing-women-nspn-7200/
+Course Name: Perinatal Theory 2 Childbearing Women
+--------------------------------------------------
+Course Number: NSPN 7250
+Course Link: /courses/fetal-health-surveillance-nspn-7250/
+Course Name: Fetal Health Surveillance
+--------------------------------------------------
+Course Number: NSPN 7300
+Course Link: /courses/perinatal-clinical-1-nspn-7300/
+Course Name: Perinatal Clinical 1
+--------------------------------------------------
+Course Number: NSPN 7400
+Course Link: /courses/perinatal-theory-3-childbearing-families-nspn-7400/
+Course Name: Perinatal Theory 3 Childbearing Families
+--------------------------------------------------
+Course Number: NSPN 7450
+Course Link: /courses/neonatal-resuscitation-nspn-7450/
+Course Name: Neonatal Resuscitation
+--------------------------------------------------
+Course Number: NSPO 7230
+Course Link: /courses/perioperative-perinatal-theory-1-the-nurse-in-the-scrub-role-nspo-7230/
+Course Name: Perioperative Perinatal Theory 1: The Nurse in the Scrub Role*
+--------------------------------------------------
+Course Number: NSPO 7330
+Course Link: /courses/perioperative-clinical-1-perioperative-perinatal-nursing-clinical-nspo-7330/
+Course Name: Perioperative Clinical 1: Perioperative-Perinatal Nursing Clinical*
+--------------------------------------------------
+Course Number: NSPO 7430
+Course Link: /courses/perioperative-perinatal-theory-2-the-nurse-in-the-circulating-role-nspo-7430/
+Course Name: Perioperative Perinatal Theory 2: The Nurse in the Circulating Role*
+--------------------------------------------------

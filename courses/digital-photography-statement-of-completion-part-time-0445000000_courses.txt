@@ -1,0 +1,18 @@
+Courses for Program: https://www.bcit.ca/programs/digital-photography-statement-of-completion-part-time-0445000000/
+--------------------------------------------------
+Course Number: GDES 1275
+Course Link: /courses/raster-graphics-adobe-photoshop-gdes-1275/
+Course Name: Raster Graphics: Adobe Photoshop
+--------------------------------------------------
+Course Number: MDIA 1099
+Course Link: /courses/photography-1-mdia-1099/
+Course Name: Photography 1
+--------------------------------------------------
+Course Number: MDIA 2012
+Course Link: /courses/digital-darkroom-mdia-2012/
+Course Name: Digital Darkroom
+--------------------------------------------------
+Course Number: MDIA 2099
+Course Link: /courses/photography-2-mdia-2099/
+Course Name: Photography 2
+--------------------------------------------------

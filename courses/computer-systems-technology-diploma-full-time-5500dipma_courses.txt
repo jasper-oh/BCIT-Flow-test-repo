@@ -1,0 +1,282 @@
+Courses for Program: https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/
+--------------------------------------------------
+Course Number: COMM 1116
+Course Link: None
+Course Name: Business Communications 1
+--------------------------------------------------
+Course Number: COMP 1100
+Course Link: None
+Course Name: CST Program Fundamentals
+--------------------------------------------------
+Course Number: COMP 1113
+Course Link: None
+Course Name: Applied Mathematics
+--------------------------------------------------
+Course Number: COMP 1510
+Course Link: None
+Course Name: Programming Methods
+--------------------------------------------------
+Course Number: COMP 1537
+Course Link: None
+Course Name: Web Development 1
+--------------------------------------------------
+Course Number: COMP 1712
+Course Link: None
+Course Name: Business Analysis and System Design
+--------------------------------------------------
+Course Number: COMP 1800
+Course Link: None
+Course Name: Projects 1
+--------------------------------------------------
+Course Number: COMP 2537
+Course Link: None
+Course Name: Web Development 2*
+--------------------------------------------------
+Course Number: COMP 2800
+Course Link: None
+Course Name: Projects 2*
+--------------------------------------------------
+Course Number: COMM 2216
+Course Link: None
+Course Name: Business Communications 2
+--------------------------------------------------
+Course Number: COMP 2121
+Course Link: None
+Course Name: Discrete Mathematics
+--------------------------------------------------
+Course Number: COMP 2510
+Course Link: None
+Course Name: Procedural Programming
+--------------------------------------------------
+Course Number: COMP 2522
+Course Link: None
+Course Name: Object Oriented Programming 1
+--------------------------------------------------
+Course Number: COMP 2714
+Course Link: None
+Course Name: Relational Database Systems
+--------------------------------------------------
+Course Number: COMP 2721
+Course Link: None
+Course Name: Computer Organization/Architecture
+--------------------------------------------------
+Course Number: COMP 2537
+Course Link: None
+Course Name: Web Development 2*
+--------------------------------------------------
+Course Number: COMP 2800
+Course Link: None
+Course Name: Projects 2*
+--------------------------------------------------
+Course Number: COMP 3522
+Course Link: None
+Course Name: Object Oriented Programming 2
+--------------------------------------------------
+Course Number: COMP 3717
+Course Link: None
+Course Name: Mobile Development with Android Technologies
+--------------------------------------------------
+Course Number: COMP 3721
+Course Link: None
+Course Name: Introduction to Data Communications
+--------------------------------------------------
+Course Number: COMP 3760
+Course Link: None
+Course Name: Algorithm Analysis and Design
+--------------------------------------------------
+Course Number: MATH 3042
+Course Link: None
+Course Name: Applied Probability and Statistics
+--------------------------------------------------
+Course Number: COMP 3800
+Course Link: None
+Course Name: Projects Practicum 1*
+--------------------------------------------------
+Course Number: COMP 3981
+Course Link: None
+Course Name: Introduction to Artificial Intelligence
+--------------------------------------------------
+Course Number: COMP 3940
+Course Link: None
+Course Name: Client/Server Systems Development Fundamentals
+--------------------------------------------------
+Course Number: COMP 3962
+Course Link: None
+Course Name: Cloud Computing Platforms
+--------------------------------------------------
+Course Number: COMP 3975
+Course Link: None
+Course Name: Server-Side Web Scripting
+--------------------------------------------------
+Course Number: COMP 3920
+Course Link: None
+Course Name: Database Systems 1
+--------------------------------------------------
+Course Number: COMP 3980
+Course Link: None
+Course Name: Network Protocol Design and Implementation
+--------------------------------------------------
+Course Number: COMP 3931
+Course Link: None
+Course Name: Digital Image, Video and Audio Fundamentals
+--------------------------------------------------
+Course Number: COMP 3910
+Course Link: None
+Course Name: Full-Stack Development for Enterprise Systems
+--------------------------------------------------
+Course Number: COMP 3948
+Course Link: None
+Course Name: Predictive Modelling
+--------------------------------------------------
+Course Number: COMP 3958
+Course Link: None
+Course Name: Functional Programming
+--------------------------------------------------
+Course Number: COMP 3942
+Course Link: None
+Course Name: Ideation
+--------------------------------------------------
+Course Number: COMP 3951
+Course Link: None
+Course Name: Selected Topics in Application Development
+--------------------------------------------------
+Course Number: COMP 4537
+Course Link: None
+Course Name: Internet Software Architecture*
+--------------------------------------------------
+Course Number: COMP 4736
+Course Link: None
+Course Name: Introduction to Operating Systems
+--------------------------------------------------
+Course Number: LIBS 7102
+Course Link: None
+Course Name: Ethics for Computing Professionals*
+--------------------------------------------------
+Course Number: COMP 3800
+Course Link: None
+Course Name: Projects Practicum 1**
+--------------------------------------------------
+Course Number: COMP 4800
+Course Link: None
+Course Name: Projects Practicum 2**
+--------------------------------------------------
+Course Number: COMP 4800
+Course Link: None
+Course Name: Projects Practicum 2**
+--------------------------------------------------
+Course Number: COMP 4983
+Course Link: None
+Course Name: Machine Learning
+--------------------------------------------------
+Course Number: COMP 4989
+Course Link: None
+Course Name: Selected Topics in Artificial Intelligence and Machine Learning
+--------------------------------------------------
+Course Number: COMP 4941
+Course Link: None
+Course Name: Client/Server Systems Quality Control
+--------------------------------------------------
+Course Number: COMP 4945
+Course Link: None
+Course Name: Distributed Software Architectures
+--------------------------------------------------
+Course Number: COMP 4964
+Course Link: None
+Course Name: DevOps Engineering
+--------------------------------------------------
+Course Number: COMP 4968
+Course Link: None
+Course Name: Serverless Computing and Microservices
+--------------------------------------------------
+Course Number: COMP 4976
+Course Link: None
+Course Name: Web Application Development with Microsoft Technologies
+--------------------------------------------------
+Course Number: COMP 4977
+Course Link: None
+Course Name: Mobile Development with Apple Technologies
+--------------------------------------------------
+Course Number: COMP 4921
+Course Link: None
+Course Name: Database Systems 2
+--------------------------------------------------
+Course Number: COMP 4925
+Course Link: None
+Course Name: Selected Topics in Database Systems
+--------------------------------------------------
+Course Number: COMP 4981
+Course Link: None
+Course Name: Advanced Network Applications Development
+--------------------------------------------------
+Course Number: COMP 4985
+Course Link: None
+Course Name: Selected Topics in Data Communications/Internetworking
+--------------------------------------------------
+Course Number: COMP 4932
+Course Link: None
+Course Name: Selected Topics in Digital Processing
+--------------------------------------------------
+Course Number: COMP 4995
+Course Link: None
+Course Name: Gaming Systems
+--------------------------------------------------
+Course Number: COMP 4870
+Course Link: None
+Course Name: Intranet Planning and Development
+--------------------------------------------------
+Course Number: COMP 4911
+Course Link: None
+Course Name: Developing Enterprise Service
+--------------------------------------------------
+Course Number: COMP 4915
+Course Link: None
+Course Name: System Administration
+--------------------------------------------------
+Course Number: COMP 4948
+Course Link: None
+Course Name: Predictive Machine Learning
+--------------------------------------------------
+Course Number: COMP 4949
+Course Link: None
+Course Name: Big Data Analytics Methods
+--------------------------------------------------
+Course Number: COMP 4958
+Course Link: None
+Course Name: Concurrent Programming
+--------------------------------------------------
+Course Number: COMP 4959
+Course Link: None
+Course Name: Selected Application of Programming Paradigms
+--------------------------------------------------
+Course Number: COMP 4943
+Course Link: None
+Course Name: UX/UI Design and Prototyping
+--------------------------------------------------
+Course Number: COMP 4944
+Course Link: None
+Course Name: Minimal Viable Product (MVP)
+--------------------------------------------------
+Course Number: COMP 4946
+Course Link: None
+Course Name: Business Plan
+--------------------------------------------------
+Course Number: MKTG 4919
+Course Link: None
+Course Name: Pitching and Positioning
+--------------------------------------------------
+Course Number: COMP 4952
+Course Link: None
+Course Name: HCI for Application Development
+--------------------------------------------------
+Course Number: COMP 4957
+Course Link: None
+Course Name: Introduction to Software Engineering
+--------------------------------------------------
+Course Number: COMP 2990
+Course Link: None
+Course Name: Cooperative Education Workterm 1
+--------------------------------------------------
+Course Number: COMP 3990
+Course Link: None
+Course Name: Cooperative Education Workterm 2
+--------------------------------------------------

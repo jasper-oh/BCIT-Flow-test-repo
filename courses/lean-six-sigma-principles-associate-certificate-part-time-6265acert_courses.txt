@@ -1,0 +1,26 @@
+Courses for Program: https://www.bcit.ca/programs/lean-six-sigma-principles-associate-certificate-part-time-6265acert/
+--------------------------------------------------
+Course Number: OPMT 1106
+Course Link: /courses/quality-management-fundamentals-opmt-1106/
+Course Name: Quality Management Fundamentals
+--------------------------------------------------
+Course Number: OPMT 1130
+Course Link: /courses/business-statistics-opmt-1130/
+Course Name: Business Statistics
+--------------------------------------------------
+Course Number: OPMT 1710
+Course Link: /courses/introduction-to-lean-concepts-opmt-1710/
+Course Name: Introduction to Lean Concepts
+--------------------------------------------------
+Course Number: OPMT 1740
+Course Link: /courses/lean-six-sigma-yellow-belt-certification-opmt-1740/
+Course Name: Lean Six Sigma Yellow Belt Certification
+--------------------------------------------------
+Course Number: OPMT 2740
+Course Link: /courses/lean-six-sigma-green-belt-certification-part-1-opmt-2740/
+Course Name: Lean Six Sigma Green Belt Certification Part 1
+--------------------------------------------------
+Course Number: OPMT 2750
+Course Link: /courses/lean-six-sigma-green-belt-certification-part-2-opmt-2750/
+Course Name: Lean Six Sigma Green Belt Certification Part 2
+--------------------------------------------------

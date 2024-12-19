@@ -1,0 +1,106 @@
+Courses for Program: https://www.bcit.ca/programs/computer-information-systems-administration-diploma-full-time-1930dipma/
+--------------------------------------------------
+Course Number: CISA 1310
+Course Link: None
+Course Name: Network Essentials
+--------------------------------------------------
+Course Number: CISA 1320
+Course Link: None
+Course Name: Desktop Support & Maintenance
+--------------------------------------------------
+Course Number: CISA 1330
+Course Link: None
+Course Name: Windows Server Essentials
+--------------------------------------------------
+Course Number: CISA 1340
+Course Link: None
+Course Name: Linux Essentials
+--------------------------------------------------
+Course Number: CISA 1350
+Course Link: None
+Course Name: Database Essentials
+--------------------------------------------------
+Course Number: CISA 1360
+Course Link: None
+Course Name: Programming Essentials
+--------------------------------------------------
+Course Number: CISA 2310
+Course Link: None
+Course Name: IP Routing Fundamentals
+--------------------------------------------------
+Course Number: CISA 2320
+Course Link: None
+Course Name: Ethernet Switching Fundamentals
+--------------------------------------------------
+Course Number: CISA 2330
+Course Link: None
+Course Name: Windows Server Administration
+--------------------------------------------------
+Course Number: CISA 2340
+Course Link: None
+Course Name: Linux Administration
+--------------------------------------------------
+Course Number: CISA 2370
+Course Link: None
+Course Name: Network Security Fundamentals
+--------------------------------------------------
+Course Number: CISA 2380
+Course Link: None
+Course Name: Business Skills for IT
+--------------------------------------------------
+Course Number: CISA 2390
+Course Link: None
+Course Name: Campus Network Project
+--------------------------------------------------
+Course Number: CISA 3310
+Course Link: None
+Course Name: Advanced Ethernet Switching
+--------------------------------------------------
+Course Number: CISA 3320
+Course Link: None
+Course Name: Deploying Wireless Systems
+--------------------------------------------------
+Course Number: CISA 3330
+Course Link: None
+Course Name: Deploying Windows Services
+--------------------------------------------------
+Course Number: CISA 3350
+Course Link: None
+Course Name: Deploying Messaging Systems
+--------------------------------------------------
+Course Number: CISA 3360
+Course Link: None
+Course Name: Deploying VoIP Systems
+--------------------------------------------------
+Course Number: CISA 3370
+Course Link: None
+Course Name: Enterprise Network Security
+--------------------------------------------------
+Course Number: CISA 4310
+Course Link: None
+Course Name: Advanced Routing Services
+--------------------------------------------------
+Course Number: CISA 4330
+Course Link: None
+Course Name: Enterprise Windows Services
+--------------------------------------------------
+Course Number: CISA 4340
+Course Link: None
+Course Name: Unified Communications
+--------------------------------------------------
+Course Number: CISA 4350
+Course Link: None
+Course Name: Deploying Cloud Services
+--------------------------------------------------
+Course Number: CISA 4360
+Course Link: None
+Course Name: Managing Network Services
+--------------------------------------------------
+Course Number: CISA 4370
+Course Link: None
+Course Name: Advanced Network Security
+--------------------------------------------------
+Course Number: CISA 4390
+Course Link: None
+Course Name: Enterprise Network Project
+--------------------------------------------------

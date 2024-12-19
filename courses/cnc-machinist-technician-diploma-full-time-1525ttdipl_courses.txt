@@ -1,0 +1,106 @@
+Courses for Program: https://www.bcit.ca/programs/cnc-machinist-technician-diploma-full-time-1525ttdipl/
+--------------------------------------------------
+Course Number: MACH 1500
+Course Link: None
+Course Name: Safe Work Practices
+--------------------------------------------------
+Course Number: MACH 1502
+Course Link: None
+Course Name: Mathematics for Machinists
+--------------------------------------------------
+Course Number: MACH 1504
+Course Link: None
+Course Name: Interpretation of Drawings
+--------------------------------------------------
+Course Number: MACH 1506
+Course Link: None
+Course Name: Layout and Measuring
+--------------------------------------------------
+Course Number: MACH 1508
+Course Link: None
+Course Name: Support Machines
+--------------------------------------------------
+Course Number: MACH 1510
+Course Link: None
+Course Name: Lathe Operations
+--------------------------------------------------
+Course Number: MACH 1512
+Course Link: None
+Course Name: Mill Operations
+--------------------------------------------------
+Course Number: MACH 1514
+Course Link: None
+Course Name: Advanced Lathe Operations
+--------------------------------------------------
+Course Number: MACH 1516
+Course Link: None
+Course Name: Advanced Mill Operations
+--------------------------------------------------
+Course Number: MACH 1518
+Course Link: None
+Course Name: Materials and Metallurgy
+--------------------------------------------------
+Course Number: MACH 1520
+Course Link: None
+Course Name: Service and Maintenance
+--------------------------------------------------
+Course Number: MACH 1522
+Course Link: None
+Course Name: Grinding Operations
+--------------------------------------------------
+Course Number: MACH 1524
+Course Link: None
+Course Name: Employment Preparation
+--------------------------------------------------
+Course Number: MACH 1526
+Course Link: None
+Course Name: Oxyacetylene Cut and Weld
+--------------------------------------------------
+Course Number: MACH 1528
+Course Link: None
+Course Name: CNC Concepts
+--------------------------------------------------
+Course Number: MACH 1530
+Course Link: None
+Course Name: Assembly Project
+--------------------------------------------------
+Course Number: MACH 1990
+Course Link: None
+Course Name: Co-op
+--------------------------------------------------
+Course Number: CNCS 2201
+Course Link: None
+Course Name: Fundamentals of Computer Numerical Control
+--------------------------------------------------
+Course Number: CNCS 2202
+Course Link: None
+Course Name: Programming Fundamentals
+--------------------------------------------------
+Course Number: CNCS 2203
+Course Link: None
+Course Name: Programming Turning Centres
+--------------------------------------------------
+Course Number: CNCS 2204
+Course Link: None
+Course Name: Programming Machine Centres
+--------------------------------------------------
+Course Number: CNCS 2205
+Course Link: None
+Course Name: Setup and Operate Turning Centre
+--------------------------------------------------
+Course Number: CNCS 2206
+Course Link: None
+Course Name: Setup and Operate Machine Centres
+--------------------------------------------------
+Course Number: CNCS 2207
+Course Link: None
+Course Name: Computed Aided Design
+--------------------------------------------------
+Course Number: CNCS 2208
+Course Link: None
+Course Name: Computer Aided Manufacture
+--------------------------------------------------
+Course Number: CNCS 2209
+Course Link: None
+Course Name: Coordinate Measuring Machine
+--------------------------------------------------

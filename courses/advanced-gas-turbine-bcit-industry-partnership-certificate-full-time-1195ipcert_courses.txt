@@ -1,0 +1,30 @@
+Courses for Program: https://www.bcit.ca/programs/advanced-gas-turbine-bcit-industry-partnership-certificate-full-time-1195ipcert/
+--------------------------------------------------
+Course Number: AVGT 1200
+Course Link: None
+Course Name: Safe Operation of Equipment
+--------------------------------------------------
+Course Number: AVGT 1210
+Course Link: None
+Course Name: Engine Familiarization
+--------------------------------------------------
+Course Number: AVGT 2200
+Course Link: None
+Course Name: Disassembly Techniques
+--------------------------------------------------
+Course Number: AVGT 2220
+Course Link: None
+Course Name: Original Equipment Manufacturer (OEM) Inspection
+--------------------------------------------------
+Course Number: AVGT 2230
+Course Link: None
+Course Name: Advanced Precision Measuring
+--------------------------------------------------
+Course Number: AVGT 3200
+Course Link: None
+Course Name: Assembly Techniques
+--------------------------------------------------
+Course Number: AVGT 3220
+Course Link: None
+Course Name: Advanced Borescope Inspection
+--------------------------------------------------

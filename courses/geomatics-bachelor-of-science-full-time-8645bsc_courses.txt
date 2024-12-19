@@ -1,0 +1,90 @@
+Courses for Program: https://www.bcit.ca/programs/geomatics-bachelor-of-science-full-time-8645bsc/
+--------------------------------------------------
+Course Number: BLAW 3100
+Course Link: None
+Course Name: Business Law
+--------------------------------------------------
+Course Number: GEOM 5111
+Course Link: None
+Course Name: Geospatial Data Management
+--------------------------------------------------
+Course Number: GEOM 5115
+Course Link: None
+Course Name: Land Use Planning
+--------------------------------------------------
+Course Number: GEOM 5140
+Course Link: None
+Course Name: Introduction to Least Squares
+--------------------------------------------------
+Course Number: GEOM 5185
+Course Link: None
+Course Name: RPAS Applications
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: None
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: ECON 1150
+Course Link: None
+Course Name: Economic Issues
+--------------------------------------------------
+Course Number: GEOM 6106
+Course Link: None
+Course Name: GIS Applications
+--------------------------------------------------
+Course Number: GEOM 6121
+Course Link: None
+Course Name: Physical Geodesy
+--------------------------------------------------
+Course Number: GEOM 6125
+Course Link: None
+Course Name: Advanced Adjustments
+--------------------------------------------------
+Course Number: GEOM 6130
+Course Link: None
+Course Name: Geomatics Project Planning
+--------------------------------------------------
+Course Number: GEOM 6165
+Course Link: None
+Course Name: Advanced Photogrammetry
+--------------------------------------------------
+Course Number: GEOM 5155
+Course Link: None
+Course Name: Cadastral Studies and Land Registration Systems
+--------------------------------------------------
+Course Number: GEOM 7111
+Course Link: None
+Course Name: GeoCloud Analytics and Automation
+--------------------------------------------------
+Course Number: GEOM 7121
+Course Link: None
+Course Name: Satellite Geodesy
+--------------------------------------------------
+Course Number: GEOM 7130
+Course Link: None
+Course Name: Geomatics Project 1
+--------------------------------------------------
+Course Number: GEOM 7150
+Course Link: None
+Course Name: Advanced Topics in Precision Survey
+--------------------------------------------------
+Course Number: BUSA 7250
+Course Link: None
+Course Name: Management Skills and Applications
+--------------------------------------------------
+Course Number: GEOM 6175
+Course Link: None
+Course Name: Survey Law
+--------------------------------------------------
+Course Number: GEOM 8130
+Course Link: None
+Course Name: Geomatics Project 2
+--------------------------------------------------
+Course Number: GEOM 8195
+Course Link: None
+Course Name: Hydrographic Surveying
+--------------------------------------------------
+Course Number: LIBS 7002
+Course Link: None
+Course Name: Applied Ethics
+--------------------------------------------------

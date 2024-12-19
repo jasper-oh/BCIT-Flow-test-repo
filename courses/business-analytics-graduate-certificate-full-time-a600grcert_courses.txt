@@ -1,0 +1,26 @@
+Courses for Program: https://www.bcit.ca/programs/business-analytics-graduate-certificate-full-time-a600grcert/
+--------------------------------------------------
+Course Number: BABI 9005
+Course Link: None
+Course Name: Theory of Business Data Analytics
+--------------------------------------------------
+Course Number: BABI 9010
+Course Link: None
+Course Name: Foundations of Applied Business Analytics
+--------------------------------------------------
+Course Number: BABI 9020
+Course Link: None
+Course Name: Utilizing Data Structures for Business Analytics
+--------------------------------------------------
+Course Number: BABI 9030
+Course Link: None
+Course Name: Quantitative Methods for Business Analytics
+--------------------------------------------------
+Course Number: BABI 9040
+Course Link: None
+Course Name: Analytic Models for Business Decisions
+--------------------------------------------------
+Course Number: BABI 9050
+Course Link: None
+Course Name: Business Analytics Capstone Project
+--------------------------------------------------

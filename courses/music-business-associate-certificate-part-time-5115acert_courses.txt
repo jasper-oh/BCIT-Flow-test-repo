@@ -1,0 +1,70 @@
+Courses for Program: https://www.bcit.ca/programs/music-business-associate-certificate-part-time-5115acert/
+--------------------------------------------------
+Course Number: BCST 1002
+Course Link: /courses/the-music-business-the-essentials-bcst-1002/
+Course Name: The Music Business: The Essentials
+--------------------------------------------------
+Course Number: BCST 1003
+Course Link: /courses/the-music-business-marketing-and-entertainment-law-bcst-1003/
+Course Name: The Music Business: Marketing & Entertainment Law
+--------------------------------------------------
+Course Number: BCST 1005
+Course Link: /courses/the-music-business-career-incubator-bcst-1005/
+Course Name: The Music Business: Career Incubator
+--------------------------------------------------
+Course Number: BCST 1006
+Course Link: /courses/the-music-business-revenue-streams-bcst-1006/
+Course Name: The Music Business: Revenue Streams
+--------------------------------------------------
+Course Number: BCST 1129
+Course Link: /courses/home-music-recording-bcst-1129/
+Course Name: Home Music Recording
+--------------------------------------------------
+Course Number: BCST 1151
+Course Link: /courses/radio-and-tv-announcing-bcst-1151/
+Course Name: Radio and TV Announcing
+--------------------------------------------------
+Course Number: BCST 1193
+Course Link: /courses/social-media-storytelling-bcst-1193/
+Course Name: Social Media Storytelling
+--------------------------------------------------
+Course Number: BCST 1198
+Course Link: /courses/photography-and-lightroom-building-your-photographic-vision-bcst-1198/
+Course Name: Photography & Lightroom: Building Your Photographic Vision
+--------------------------------------------------
+Course Number: BCST 1239
+Course Link: /courses/electronic-music-production-music-creation-techniques-with-ableton-live-bcst-1239/
+Course Name: Electronic Music Production: Music Creation Techniques with Ableton Live
+--------------------------------------------------
+Course Number: BCST 1256
+Course Link: /courses/sound-design-bcst-1256/
+Course Name: Sound Design
+--------------------------------------------------
+Course Number: BCST 3073
+Course Link: /courses/building-your-digital-media-presence-bcst-3073/
+Course Name: Building Your Digital Media Presence
+--------------------------------------------------
+Course Number: BCST 3259
+Course Link: /courses/podcasting-bcst-3259/
+Course Name: Podcasting
+--------------------------------------------------
+Course Number: FMGT 1152
+Course Link: /courses/accounting-for-the-manager-fmgt-1152/
+Course Name: Accounting for the Manager
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: /courses/essentials-of-marketing-mktg-1102/
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: MKTG 1120
+Course Link: /courses/event-planning-essentials-mktg-1120/
+Course Name: Event Planning Essentials
+--------------------------------------------------
+Course Number: MKTG 1126
+Course Link: /courses/live-entertainment-events-and-festivals-mktg-1126/
+Course Name: Live Entertainment Events and Festivals
+--------------------------------------------------
+Course Number: OPMT 1187
+Course Link: /courses/project-management-essentials-opmt-1187/
+Course Name: Project Management Essentials
+--------------------------------------------------

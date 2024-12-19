@@ -1,0 +1,138 @@
+Courses for Program: https://www.bcit.ca/programs/radiation-therapy-bachelor-of-science-full-time-8650bsc/
+--------------------------------------------------
+Course Number: BHSC 5101
+Course Link: None
+Course Name: Anatomy and Physiology 1
+--------------------------------------------------
+Course Number: COMM 5105
+Course Link: None
+Course Name: Communication 1 for Radiation Therapy
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: None
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: PHYS 5103
+Course Link: None
+Course Name: Physics for Radiation Therapy 1
+--------------------------------------------------
+Course Number: RADT 5001
+Course Link: None
+Course Name: Clinical Orientation
+--------------------------------------------------
+Course Number: RADT 5104
+Course Link: None
+Course Name: Radiation Therapy 1
+--------------------------------------------------
+Course Number: RADT 5105
+Course Link: None
+Course Name: Treatment Planning 1
+--------------------------------------------------
+Course Number: BHSC 5102
+Course Link: None
+Course Name: Applied Social Science 1
+--------------------------------------------------
+Course Number: BHSC 6101
+Course Link: None
+Course Name: Anatomy and Physiology 2
+--------------------------------------------------
+Course Number: BHSC 6103
+Course Link: None
+Course Name: Pathology
+--------------------------------------------------
+Course Number: BUSA 7250
+Course Link: None
+Course Name: Management Skills and Applications
+--------------------------------------------------
+Course Number: HSIP 1000
+Course Link: None
+Course Name: Health Sciences Interprofessional Patient Care
+--------------------------------------------------
+Course Number: RADT 1100
+Course Link: None
+Course Name: Pharmacology for Oncology Patients
+--------------------------------------------------
+Course Number: RADT 6102
+Course Link: None
+Course Name: Radiation Therapy & Safety
+--------------------------------------------------
+Course Number: RADT 6105
+Course Link: None
+Course Name: Treatment Planning 2
+--------------------------------------------------
+Course Number: RADT 6114
+Course Link: None
+Course Name: Physics for Radiation Therapy 2
+--------------------------------------------------
+Course Number: RADT 6101
+Course Link: None
+Course Name: Clinical Simulation Lab*
+--------------------------------------------------
+Course Number: RADT 7101
+Course Link: None
+Course Name: Clinical Experience 1*
+--------------------------------------------------
+Course Number: BHSC 6102
+Course Link: None
+Course Name: Applied Social Science 2
+--------------------------------------------------
+Course Number: MATH 6105
+Course Link: None
+Course Name: Statistics and Research Methodology for Radiation Therapy
+--------------------------------------------------
+Course Number: RADT 6109
+Course Link: None
+Course Name: Project Research 1
+--------------------------------------------------
+Course Number: RADT 7105
+Course Link: None
+Course Name: Treatment Planning 3
+--------------------------------------------------
+Course Number: RADT 8106
+Course Link: None
+Course Name: Radiobiology
+--------------------------------------------------
+Course Number: RADT 8110
+Course Link: None
+Course Name: Radiation Oncology Practice 1
+--------------------------------------------------
+Course Number: RADT 8120
+Course Link: None
+Course Name: Radiation Oncology Practice 2
+--------------------------------------------------
+Course Number: RADT 8101
+Course Link: None
+Course Name: Clinical Experience 2*
+--------------------------------------------------
+Course Number: COMM 6105
+Course Link: None
+Course Name: Communication 2 for Radiation Therapy
+--------------------------------------------------
+Course Number: LIBS 7021
+Course Link: None
+Course Name: Health Ethics
+--------------------------------------------------
+Course Number: RADT 6103
+Course Link: None
+Course Name: Imaging Technologies in Radiation Therapy
+--------------------------------------------------
+Course Number: RADT 7109
+Course Link: None
+Course Name: Research Project 2
+--------------------------------------------------
+Course Number: RADT 8105
+Course Link: None
+Course Name: Treatment Planning 4
+--------------------------------------------------
+Course Number: RADT 8116
+Course Link: None
+Course Name: Care of Oncology Patient
+--------------------------------------------------
+Course Number: RADT 8250
+Course Link: None
+Course Name: Total Quality Management
+--------------------------------------------------
+Course Number: RADT 8201
+Course Link: None
+Course Name: Clinical Experience 3*
+--------------------------------------------------

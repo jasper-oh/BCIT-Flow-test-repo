@@ -1,0 +1,82 @@
+Courses for Program: https://www.bcit.ca/programs/architectural-science-bachelor-of-architectural-science-full-time-8050btech/
+--------------------------------------------------
+Course Number: ARSC 7002
+Course Link: None
+Course Name: Architectural Foundation Studio
+--------------------------------------------------
+Course Number: ARSC 7010
+Course Link: None
+Course Name: History of Materials and Building Systems
+--------------------------------------------------
+Course Number: ARSC 7140
+Course Link: None
+Course Name: Graphic/Digital Communications
+--------------------------------------------------
+Course Number: ARSC 7200
+Course Link: None
+Course Name: Sustainable Design
+--------------------------------------------------
+Course Number: ARSC 7250
+Course Link: None
+Course Name: Environmental Separators
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: None
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: ARSC 7100
+Course Link: None
+Course Name: Architectural Technology Studio 4
+--------------------------------------------------
+Course Number: ARSC 7102
+Course Link: None
+Course Name: Tectonics Architecture and Design/Build
+--------------------------------------------------
+Course Number: ARSC 7150
+Course Link: None
+Course Name: Technical Language of Architecture
+--------------------------------------------------
+Course Number: ARSC 7300
+Course Link: None
+Course Name: Building Envelope Performance
+--------------------------------------------------
+Course Number: LIBS 7002
+Course Link: None
+Course Name: Applied Ethics
+--------------------------------------------------
+Course Number: ARSC 7350
+Course Link: None
+Course Name: Building Envelope Lab
+--------------------------------------------------
+Course Number: ARSC 8000
+Course Link: None
+Course Name: Systems Integration Studio
+--------------------------------------------------
+Course Number: ARSC 8070
+Course Link: None
+Course Name: Project Delivery
+--------------------------------------------------
+Course Number: ARSC 8280
+Course Link: None
+Course Name: Graduating Project - Project Proposal
+--------------------------------------------------
+Course Number: BUSA 7250
+Course Link: None
+Course Name: Management Skills and Applications
+--------------------------------------------------
+Course Number: ARSC 8350
+Course Link: None
+Course Name: Building Science Design Project
+--------------------------------------------------
+Course Number: ARSC 8800
+Course Link: None
+Course Name: Graduating Project
+--------------------------------------------------
+Course Number: ARSC 7040
+Course Link: None
+Course Name: Directed Studies in Architectural Science
+--------------------------------------------------
+Course Number: ARSC 7050
+Course Link: None
+Course Name: Wood Design
+--------------------------------------------------

@@ -1,0 +1,66 @@
+Courses for Program: https://www.bcit.ca/programs/cardiovascular-perfusion-advanced-certificate-part-time-6820ascert/
+--------------------------------------------------
+Course Number: BHSC 6100
+Course Link: /courses/applied-anatomy-and-physiology-1-bhsc-6100/
+Course Name: Applied Anatomy and Physiology 1
+--------------------------------------------------
+Course Number: PERF 7100
+Course Link: /courses/cardiac-anaesthesia-and-clinical-pharmacology-1-perf-7100/
+Course Name: Cardiac Anaesthesia and Clinical Pharmacology 1
+--------------------------------------------------
+Course Number: PERF 7200
+Course Link: /courses/perfusion-equipment-and-techniques-1-perf-7200/
+Course Name: Perfusion Equipment and Techniques 1
+--------------------------------------------------
+Course Number: PERF 7500
+Course Link: /courses/perfusion-lab-1-perf-7500/
+Course Name: Perfusion Lab 1
+--------------------------------------------------
+Course Number: BHSC 6110
+Course Link: /courses/applied-anatomy-and-physiology-2-bhsc-6110/
+Course Name: Applied Anatomy and Physiology 2
+--------------------------------------------------
+Course Number: PERF 7110
+Course Link: /courses/cardiac-anaesthesia-and-clinical-pharmacology-2-perf-7110/
+Course Name: Cardiac Anaesthesia and Clinical Pharmacology 2
+--------------------------------------------------
+Course Number: PERF 7210
+Course Link: /courses/perfusion-equipment-and-techniques-2-perf-7210/
+Course Name: Perfusion Equipment and Techniques 2
+--------------------------------------------------
+Course Number: PERF 7220
+Course Link: /courses/perfusion-equipment-and-techniques-3-perf-7220/
+Course Name: Perfusion Equipment and Techniques 3
+--------------------------------------------------
+Course Number: PERF 7300
+Course Link: /courses/pediatric-perfusion-perf-7300/
+Course Name: Pediatric Perfusion
+--------------------------------------------------
+Course Number: PERF 7400
+Course Link: /courses/hemodynamic-monitoring-diagnostic-imaging-perf-7400/
+Course Name: Hemodynamic Monitoring/Diagnostic Imaging
+--------------------------------------------------
+Course Number: PERF 7520
+Course Link: /courses/perfusion-lab-2-perf-7520/
+Course Name: Perfusion Lab 2
+--------------------------------------------------
+Course Number: PERF 8100
+Course Link: /courses/cardiovascular-perfusion-clinical-1-perf-8100/
+Course Name: Cardiovascular Perfusion Clinical 1
+--------------------------------------------------
+Course Number: PERF 8200
+Course Link: /courses/cardiovascular-perfusion-clinical-2-perf-8200/
+Course Name: Cardiovascular Perfusion Clinical 2
+--------------------------------------------------
+Course Number: PERF 8300
+Course Link: /courses/cardiovascular-perfusion-clinical-3-perf-8300/
+Course Name: Cardiovascular Perfusion Clinical 3
+--------------------------------------------------
+Course Number: PERF 8400
+Course Link: /courses/cardiovascular-perfusion-clinical-4-perf-8400/
+Course Name: Cardiovascular Perfusion Clinical 4
+--------------------------------------------------
+Course Number: PERF 8500
+Course Link: /courses/cardiovascular-perfusion-clinical-5-perf-8500/
+Course Name: Cardiovascular Perfusion Clinical 5
+--------------------------------------------------

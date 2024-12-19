@@ -1,0 +1,154 @@
+Courses for Program: https://www.bcit.ca/programs/accounting-diploma-part-time-6035pdipma/
+--------------------------------------------------
+Course Number: BLAW 3100
+Course Link: /courses/business-law-blaw-3100/
+Course Name: Business Law
+--------------------------------------------------
+Course Number: BSYS 2000
+Course Link: /courses/applied-data-analytics-in-excel-bsys-2000/
+Course Name: Applied Data Analytics in Excel
+--------------------------------------------------
+Course Number: ECON 2100
+Course Link: /courses/microeconomics-econ-2100/
+Course Name: Microeconomics
+--------------------------------------------------
+Course Number: ECON 2200
+Course Link: /courses/macroeconomics-econ-2200/
+Course Name: Macroeconomics
+--------------------------------------------------
+Course Number: FMGT 2701
+Course Link: /courses/management-information-systems-fmgt-2701/
+Course Name: Management Information Systems
+--------------------------------------------------
+Course Number: FMGT 3110
+Course Link: /courses/financial-accounting-1-fmgt-3110/
+Course Name: Financial Accounting 1
+--------------------------------------------------
+Course Number: FMGT 3210
+Course Link: /courses/cost-managerial-accounting-1-fmgt-3210/
+Course Name: Cost/Managerial Accounting 1
+--------------------------------------------------
+Course Number: FMGT 3410
+Course Link: /courses/taxation-1-fmgt-3410/
+Course Name: Taxation 1
+--------------------------------------------------
+Course Number: FMGT 3510
+Course Link: /courses/finance-1-fmgt-3510/
+Course Name: Finance 1
+--------------------------------------------------
+Course Number: FMGT 3720
+Course Link: /courses/advanced-computer-applications-1-fmgt-3720/
+Course Name: Advanced Computer Applications 1
+--------------------------------------------------
+Course Number: FMGT 4110
+Course Link: /courses/financial-accounting-2-fmgt-4110/
+Course Name: Financial Accounting 2
+--------------------------------------------------
+Course Number: FMGT 4210
+Course Link: /courses/cost-and-managerial-accounting-2-fmgt-4210/
+Course Name: Cost and Managerial Accounting 2
+--------------------------------------------------
+Course Number: FMGT 4410
+Course Link: /courses/taxation-2-fmgt-4410/
+Course Name: Taxation 2
+--------------------------------------------------
+Course Number: FMGT 4510
+Course Link: /courses/finance-2-fmgt-4510/
+Course Name: Finance 2
+--------------------------------------------------
+Course Number: FMGT 4710
+Course Link: /courses/advanced-computer-applications-2-fmgt-4710/
+Course Name: Advanced Computer Applications 2
+--------------------------------------------------
+Course Number: FMGT 4915
+Course Link: /courses/payroll-essentials-fmgt-4915/
+Course Name: Payroll Essentials
+--------------------------------------------------
+Course Number: MKTG 1102
+Course Link: /courses/essentials-of-marketing-mktg-1102/
+Course Name: Essentials of Marketing
+--------------------------------------------------
+Course Number: OPMT 1110
+Course Link: /courses/business-mathematics-opmt-1110/
+Course Name: Business Mathematics
+--------------------------------------------------
+Course Number: OPMT 1130
+Course Link: /courses/business-statistics-opmt-1130/
+Course Name: Business Statistics
+--------------------------------------------------
+Course Number: BSYS 1001
+Course Link: /courses/business-information-systems-1-microsoft-365-for-windows-bsys-1001/
+Course Name: Business Information Systems 1-Microsoft 365 for Windows
+--------------------------------------------------
+Course Number: BSYS 1000
+Course Link: /courses/business-information-systems-bsys-1000/
+Course Name: Business Information Systems**
+--------------------------------------------------
+Course Number: BUSA 2005
+Course Link: /courses/principles-of-management-busa-2005/
+Course Name: Principles of Management
+--------------------------------------------------
+Course Number: ORGB 1105
+Course Link: /courses/organizational-behaviour-orgb-1105/
+Course Name: Organizational Behaviour
+--------------------------------------------------
+Course Number: BUSA 2150
+Course Link: /courses/introduction-to-organizational-development-busa-2150/
+Course Name: Introduction to Organizational Development**
+--------------------------------------------------
+Course Number: FMGT 1100
+Course Link: /courses/accounting-1-fmgt-1100/
+Course Name: Accounting 1*
+--------------------------------------------------
+Course Number: FMGT 1105
+Course Link: /courses/accounting-1-for-financial-management-fmgt-1105/
+Course Name: Accounting 1 for Financial Management**
+--------------------------------------------------
+Course Number: FMGT 2100
+Course Link: /courses/accounting-2-fmgt-2100/
+Course Name: Accounting 2*
+--------------------------------------------------
+Course Number: FMGT 2105
+Course Link: /courses/accounting-2-for-financial-management-fmgt-2105/
+Course Name: Accounting 2 for Financial Management**
+--------------------------------------------------
+Course Number: FMGT 4920
+Course Link: /courses/career-preparation-fmgt-4920/
+Course Name: Career Preparation
+--------------------------------------------------
+Course Number: FMGT 4921
+Course Link: /courses/career-preparation-fmgt-4921/
+Course Name: Career Preparation
+--------------------------------------------------
+Course Number: COMM 1103
+Course Link: /courses/introduction-to-business-and-technical-communication-comm-1103/
+Course Name: Introduction to Business and Technical Communication
+--------------------------------------------------
+Course Number: COMM 1106
+Course Link: /courses/introduction-to-business-and-technical-communication-with-language-development-component-comm-1106/
+Course Name: Introduction to Business and Technical Communication (With Language Development Component)
+--------------------------------------------------
+Course Number: COMM 1100
+Course Link: /courses/business-communication-1-comm-1100/
+Course Name: Business Communication 1*
+--------------------------------------------------
+Course Number: COMM 2202
+Course Link: /courses/business-and-technical-correspondence-comm-2202/
+Course Name: Business and Technical Correspondence
+--------------------------------------------------
+Course Number: COMM 2203
+Course Link: /courses/business-and-technical-reports-comm-2203/
+Course Name: Business and Technical Reports
+--------------------------------------------------
+Course Number: COMM 2002
+Course Link: /courses/business-and-technical-correspondence-with-language-development-component-comm-2002/
+Course Name: Business and Technical Correspondence With Language Development Component
+--------------------------------------------------
+Course Number: COMM 2003
+Course Link: /courses/business-and-technical-reports-with-language-development-component-comm-2003/
+Course Name: Business and Technical Reports With Language Development Component
+--------------------------------------------------
+Course Number: COMM 2200
+Course Link: /courses/business-communication-2-comm-2200/
+Course Name: Business Communication 2*
+--------------------------------------------------

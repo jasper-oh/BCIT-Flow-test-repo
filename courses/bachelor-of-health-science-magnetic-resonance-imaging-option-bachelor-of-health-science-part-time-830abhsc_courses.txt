@@ -1,0 +1,58 @@
+Courses for Program: https://www.bcit.ca/programs/bachelor-of-health-science-magnetic-resonance-imaging-option-bachelor-of-health-science-part-time-830abhsc/
+--------------------------------------------------
+Course Number: BSCH 6100
+Course Link: /courses/clinical-instructional-skills-bsch-6100/
+Course Name: Clinical Instructional Skills
+--------------------------------------------------
+Course Number: HLED 7110
+Course Link: /courses/fundamentals-for-emerging-leaders-in-health-care-hled-7110/
+Course Name: Fundamentals for Emerging Leaders in Health Care
+--------------------------------------------------
+Course Number: LIBS 7001
+Course Link: /courses/critical-reading-and-writing-libs-7001/
+Course Name: Critical Reading and Writing
+--------------------------------------------------
+Course Number: LIBS 7002
+Course Link: /courses/applied-ethics-libs-7002/
+Course Name: Applied Ethics
+--------------------------------------------------
+Course Number: LIBS 7006
+Course Link: /courses/philosophy-of-science-understanding-scientific-reasoning-libs-7006/
+Course Name: Philosophy of Science: Understanding Scientific Reasoning
+--------------------------------------------------
+Course Number: MATH 7042
+Course Link: /courses/statistics-and-research-methods-for-allied-health-math-7042/
+Course Name: Statistics and Research Methods for Allied Health
+--------------------------------------------------
+Course Number: NSSC 8000
+Course Link: /courses/systematic-inquiry-nssc-8000/
+Course Name: Systematic Inquiry
+--------------------------------------------------
+Course Number: MIMG 7200
+Course Link: /courses/fundamentals-of-mri-mimg-7200/
+Course Name: Fundamentals of MRI
+--------------------------------------------------
+Course Number: MIMG 7202
+Course Link: /courses/advanced-concepts-in-mri-imaging-mimg-7202/
+Course Name: Advanced Concepts in MRI Imaging
+--------------------------------------------------
+Course Number: MIMG 7210
+Course Link: /courses/mri-clinical-applications-1-mimg-7210/
+Course Name: MRI: Clinical Applications 1
+--------------------------------------------------
+Course Number: MIMG 7220
+Course Link: /courses/mri-clinical-applications-2-mimg-7220/
+Course Name: MRI: Clinical Applications 2
+--------------------------------------------------
+Course Number: MIMG 7230
+Course Link: /courses/mri-clinical-applications-3-mimg-7230/
+Course Name: MRI: Clinical Applications 3
+--------------------------------------------------
+Course Number: MIMG 7240
+Course Link: /courses/professional-practice-mri-safety-and-patient-care-mimg-7240/
+Course Name: Professional Practice, MRI Safety, and Patient Care
+--------------------------------------------------
+Course Number: MIMG 8200
+Course Link: /courses/mri-clinical-experience-mimg-8200/
+Course Name: MRI Clinical Experience
+--------------------------------------------------

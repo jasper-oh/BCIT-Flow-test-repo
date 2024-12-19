@@ -1,0 +1,18 @@
+Courses for Program: https://www.bcit.ca/programs/long-term-care-management-statement-of-completion-part-time-0520000000/
+--------------------------------------------------
+Course Number: BSYS 1001
+Course Link: /courses/business-information-systems-1-microsoft-365-for-windows-bsys-1001/
+Course Name: Business Information Systems 1-Microsoft 365 for Windows
+--------------------------------------------------
+Course Number: BUSA 1305
+Course Link: /courses/supervisory-skills-busa-1305/
+Course Name: Supervisory Skills
+--------------------------------------------------
+Course Number: BUSA 1500
+Course Link: /courses/long-term-care-management-busa-1500/
+Course Name: Long Term Care Management
+--------------------------------------------------
+Course Number: BUSA 3105
+Course Link: /courses/leadership-1-people-skills-busa-3105/
+Course Name: Leadership 1 - People Skills
+--------------------------------------------------

@@ -1,0 +1,122 @@
+Courses for Program: https://www.bcit.ca/programs/medical-laboratory-science-diploma-full-time-6615dipma/
+--------------------------------------------------
+Course Number: BHSC 1139
+Course Link: None
+Course Name: Applied Immunology
+--------------------------------------------------
+Course Number: BHSC 1310
+Course Link: None
+Course Name: Anatomy and Physiology for Medical Laboratory Sciences 1
+--------------------------------------------------
+Course Number: COMM 1370
+Course Link: None
+Course Name: Communications for Medical Laboratory Science 1
+--------------------------------------------------
+Course Number: MLSC 1218
+Course Link: None
+Course Name: Integrative Medical Laboratory Studies 1
+--------------------------------------------------
+Course Number: MLSC 1309
+Course Link: None
+Course Name: Clinical Microbiology 1
+--------------------------------------------------
+Course Number: MLSC 1314
+Course Link: None
+Course Name: Molecular and Cell Biology
+--------------------------------------------------
+Course Number: BHSC 1300
+Course Link: None
+Course Name: Self and Others: Foundations
+--------------------------------------------------
+Course Number: BHSC 1320
+Course Link: None
+Course Name: Anatomy and Physiology for Medical Laboratory Sciences 2
+--------------------------------------------------
+Course Number: MLSC 1304
+Course Link: None
+Course Name: Specimen Procurement 1
+--------------------------------------------------
+Course Number: MLSC 1320
+Course Link: None
+Course Name: Transfusion Science 1
+--------------------------------------------------
+Course Number: MLSC 2300
+Course Link: None
+Course Name: Hematology 1
+--------------------------------------------------
+Course Number: MLSC 2309
+Course Link: None
+Course Name: Clinical Microbiology 2
+--------------------------------------------------
+Course Number: MLSC 2314
+Course Link: None
+Course Name: Molecular Diagnostics 1
+--------------------------------------------------
+Course Number: MLSC 2315
+Course Link: None
+Course Name: Clinical Chemistry 1
+--------------------------------------------------
+Course Number: MLSC 2320
+Course Link: None
+Course Name: Transfusion Science 2
+--------------------------------------------------
+Course Number: MLSC 2325
+Course Link: None
+Course Name: Clinical Chemistry 2
+--------------------------------------------------
+Course Number: MLSC 2330
+Course Link: None
+Course Name: Histology 1
+--------------------------------------------------
+Course Number: MLSC 3300
+Course Link: None
+Course Name: Hematology 2
+--------------------------------------------------
+Course Number: MLSC 3309
+Course Link: None
+Course Name: Clinical Microbiology 3
+--------------------------------------------------
+Course Number: MLSC 2304
+Course Link: None
+Course Name: Specimen Procurement 2
+--------------------------------------------------
+Course Number: MLSC 2310
+Course Link: None
+Course Name: Hemostasis
+--------------------------------------------------
+Course Number: MLSC 3314
+Course Link: None
+Course Name: Molecular Diagnostics 2
+--------------------------------------------------
+Course Number: MLSC 3315
+Course Link: None
+Course Name: Clinical Chemistry 3
+--------------------------------------------------
+Course Number: MLSC 3320
+Course Link: None
+Course Name: Transfusion Science 3
+--------------------------------------------------
+Course Number: MLSC 3330
+Course Link: None
+Course Name: Histology 2
+--------------------------------------------------
+Course Number: MLSC 4309
+Course Link: None
+Course Name: Clinical Microbiology 4
+--------------------------------------------------
+Course Number: BHSC 2300
+Course Link: None
+Course Name: Self and Others 2: Applications
+--------------------------------------------------
+Course Number: COMM 2370
+Course Link: None
+Course Name: Communications for Medical Laboratory Science 2
+--------------------------------------------------
+Course Number: MLSC 2219
+Course Link: None
+Course Name: Integrative Medical Laboratory Studies 2
+--------------------------------------------------
+Course Number: MLSC 4350
+Course Link: None
+Course Name: Clinical Placement
+--------------------------------------------------

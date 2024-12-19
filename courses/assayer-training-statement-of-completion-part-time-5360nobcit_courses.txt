@@ -1,0 +1,22 @@
+Courses for Program: https://www.bcit.ca/programs/assayer-training-statement-of-completion-part-time-5360nobcit/
+--------------------------------------------------
+Course Number: CHSC 5631
+Course Link: /courses/assayer-training-introduction-chsc-5631/
+Course Name: Assayer Training Introduction
+--------------------------------------------------
+Course Number: CHSC 5632
+Course Link: /courses/mineral-id-and-fire-assaying-chsc-5632/
+Course Name: Mineral ID and Fire Assaying
+--------------------------------------------------
+Course Number: CHSC 5633
+Course Link: /courses/wet-assay-qualitative-analysis-chsc-5633/
+Course Name: Wet Assay/Qualitative Analysis
+--------------------------------------------------
+Course Number: CHSC 5634
+Course Link: /courses/analytical-instrumentation-chsc-5634/
+Course Name: Analytical Instrumentation
+--------------------------------------------------
+Course Number: CHSC 5635
+Course Link: /courses/laboratory-practicum-chsc-5635/
+Course Name: Laboratory Practicum
+--------------------------------------------------

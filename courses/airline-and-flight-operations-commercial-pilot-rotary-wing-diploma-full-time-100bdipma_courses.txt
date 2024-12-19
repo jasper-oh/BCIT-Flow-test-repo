@@ -1,0 +1,134 @@
+Courses for Program: https://www.bcit.ca/programs/airline-and-flight-operations-commercial-pilot-rotary-wing-diploma-full-time-100bdipma/
+--------------------------------------------------
+Course Number: AIRC 1004
+Course Link: None
+Course Name: Introduction to Airport and Airside Operations
+--------------------------------------------------
+Course Number: AIRC 1005
+Course Link: None
+Course Name: Air Navigation and Air Traffic Services
+--------------------------------------------------
+Course Number: AIRC 1007
+Course Link: None
+Course Name: Occupational Health and Safety in Aviation
+--------------------------------------------------
+Course Number: AIRC 1008
+Course Link: None
+Course Name: Introduction to Safety Management Systems
+--------------------------------------------------
+Course Number: AIRC 1009
+Course Link: None
+Course Name: Introduction to the Airline Industry
+--------------------------------------------------
+Course Number: AIRC 1100
+Course Link: None
+Course Name: Aviation Communication Skills – Crew Resource Management
+--------------------------------------------------
+Course Number: AIRC 1105
+Course Link: None
+Course Name: Aviation Technical Writing
+--------------------------------------------------
+Course Number: AIRC 1110
+Course Link: None
+Course Name: Enhancing Student Success
+--------------------------------------------------
+Course Number: AIRC 1150
+Course Link: None
+Course Name: Leadership in Aviation
+--------------------------------------------------
+Course Number: AVFO 1035
+Course Link: None
+Course Name: Private Pilot Ground School 1
+--------------------------------------------------
+Course Number: AVFO 1145
+Course Link: None
+Course Name: Private Pilot Flight Training 1
+--------------------------------------------------
+Course Number: AVFO 2045
+Course Link: None
+Course Name: Private Pilot Flight Training 2
+--------------------------------------------------
+Course Number: AIRC 2126
+Course Link: None
+Course Name: Aviation Safety and Risk Management
+--------------------------------------------------
+Course Number: AIRC 4420
+Course Link: None
+Course Name: Community and Public Relations for Aviation
+--------------------------------------------------
+Course Number: AVFO 2010
+Course Link: None
+Course Name: Airline Ground Handling Procedures
+--------------------------------------------------
+Course Number: AVFO 2030
+Course Link: None
+Course Name: Meteorology for Private Pilots
+--------------------------------------------------
+Course Number: AVFO 2035
+Course Link: None
+Course Name: Private Pilot Ground School 2
+--------------------------------------------------
+Course Number: AVFO 2060
+Course Link: None
+Course Name: Private Pilot Flight Licencing
+--------------------------------------------------
+Course Number: AVFO 2102
+Course Link: None
+Course Name: Meteorology for Commercial Pilots
+--------------------------------------------------
+Course Number: AVFO 2106
+Course Link: None
+Course Name: Air Carrier & Airport Security Systems
+--------------------------------------------------
+Course Number: AVFO 2132
+Course Link: None
+Course Name: Aircraft Maintenance for Pilots
+--------------------------------------------------
+Course Number: AVFO 2165
+Course Link: None
+Course Name: Survival Skills
+--------------------------------------------------
+Course Number: AVFO 3116
+Course Link: None
+Course Name: Crew Resource Management 1:  Human Factors for Pilots
+--------------------------------------------------
+Course Number: AVFO 3165
+Course Link: None
+Course Name: Commercial Rotary-Wing Ground School 1
+--------------------------------------------------
+Course Number: AVFO 3175
+Course Link: None
+Course Name: Commercial Rotary-Wing Ground School 2
+--------------------------------------------------
+Course Number: AVFO 3185
+Course Link: None
+Course Name: Commercial Rotary-Wing Ground School 3
+--------------------------------------------------
+Course Number: AVFO 3205
+Course Link: None
+Course Name: Commercial Rotary Flight 1
+--------------------------------------------------
+Course Number: AVFO 3210
+Course Link: None
+Course Name: Commercial Rotary Flight 2
+--------------------------------------------------
+Course Number: AVFO 4050
+Course Link: None
+Course Name: Commercial Rotary Flight 3
+--------------------------------------------------
+Course Number: AVFO 4150
+Course Link: None
+Course Name: Commercial Rotary Flight 4
+--------------------------------------------------
+Course Number: AVFO 4155
+Course Link: None
+Course Name: Commercial Rotary Flight 5
+--------------------------------------------------
+Course Number: AVFO 4165
+Course Link: None
+Course Name: Rotary Flight Licensing
+--------------------------------------------------
+Course Number: AVFO 4305
+Course Link: None
+Course Name: Aviation Career Planning
+--------------------------------------------------
